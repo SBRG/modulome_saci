@@ -1,0 +1,2378 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Sacid_00001	CDS	1161				hypothetical protein
+Sacid_00002	CDS	336				hypothetical protein
+Sacid_00003	CDS	840				hypothetical protein
+Sacid_00004	CDS	558				hypothetical protein
+Sacid_00005	CDS	720				hypothetical protein
+Sacid_00006	CDS	252				hypothetical protein
+Sacid_00007	CDS	282				hypothetical protein
+Sacid_00008	CDS	816	ramA	3.5.1.100		(R)-stereoselective amidase
+Sacid_00009	CDS	843	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+Sacid_00010	CDS	1539				hypothetical protein
+Sacid_00011	CDS	519		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+Sacid_00012	CDS	669				hypothetical protein
+Sacid_00013	CDS	528	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+Sacid_00014	CDS	609				hypothetical protein
+Sacid_00015	CDS	834	nfo	3.1.21.2		endonuclease 4
+Sacid_00016	CDS	678				hypothetical protein
+Sacid_00017	CDS	369				hypothetical protein
+Sacid_00018	CDS	663	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+Sacid_00019	CDS	315				hypothetical protein
+Sacid_00020	CDS	1023				hypothetical protein
+Sacid_00021	CDS	357				hypothetical protein
+Sacid_00022	CDS	999	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Sacid_00023	CDS	1125	kynu	3.7.1.3		Kynureninase
+Sacid_00024	CDS	1707	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_00025	CDS	477				hypothetical protein
+Sacid_00026	CDS	747	nadK	2.7.1.23		NAD kinase
+Sacid_00027	CDS	285				hypothetical protein
+Sacid_00028	CDS	987		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+Sacid_00029	CDS	891				hypothetical protein
+Sacid_00030	CDS	483				hypothetical protein
+Sacid_00031	CDS	282				hypothetical protein
+Sacid_00032	CDS	660				hypothetical protein
+Sacid_00033	CDS	582				hypothetical protein
+Sacid_00034	CDS	147				hypothetical protein
+Sacid_00035	CDS	1056				hypothetical protein
+Sacid_00036	CDS	867	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+Sacid_00037	CDS	510		3.6.1.-	COG1986	Inosine/xanthosine triphosphatase
+Sacid_00038	CDS	606				hypothetical protein
+Sacid_00039	CDS	339	trxA			Thioredoxin
+Sacid_00040	CDS	714				hypothetical protein
+Sacid_00041	CDS	627	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+Sacid_00042	CDS	495	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_00043	CDS	342				hypothetical protein
+Sacid_00044	CDS	1746				hypothetical protein
+Sacid_00045	CDS	927	rihA_1	3.2.-.-		Pyrimidine-specific ribonucleoside hydrolase RihA
+Sacid_00046	CDS	423				hypothetical protein
+Sacid_00047	CDS	462				hypothetical protein
+Sacid_00048	CDS	999				hypothetical protein
+Sacid_00049	CDS	2661	smc_1			Chromosome partition protein Smc
+Sacid_00050	CDS	1149	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+Sacid_00051	CDS	1488				hypothetical protein
+Sacid_00052	CDS	417				hypothetical protein
+Sacid_00053	CDS	408				hypothetical protein
+Sacid_00054	CDS	1512	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Sacid_00055	CDS	462	bcpB	1.11.1.15	COG1225	Putative peroxiredoxin
+Sacid_00056	CDS	1572	ppcA	4.1.1.31		Phosphoenolpyruvate carboxylase
+Sacid_00057	CDS	816				hypothetical protein
+Sacid_00058	CDS	960		3.6.-.-	COG1703	putative GTPase
+Sacid_00059	CDS	423	scpA	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+Sacid_00060	tRNA	76				tRNA-Pro(tgg)
+Sacid_00061	CDS	201				hypothetical protein
+Sacid_00062	CDS	336				hypothetical protein
+Sacid_00063	CDS	1527	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Sacid_00064	CDS	1077				hypothetical protein
+Sacid_00065	CDS	666				hypothetical protein
+Sacid_00066	CDS	534				hypothetical protein
+Sacid_00067	CDS	1014				hypothetical protein
+Sacid_00068	CDS	1029				hypothetical protein
+Sacid_00069	CDS	465				hypothetical protein
+Sacid_00070	CDS	2349	polB	2.7.7.7	COG0417	DNA polymerase II
+Sacid_00071	CDS	1239				hypothetical protein
+Sacid_00072	CDS	1086				hypothetical protein
+Sacid_00073	CDS	351				hypothetical protein
+Sacid_00074	CDS	405				hypothetical protein
+Sacid_00075	CDS	1275				hypothetical protein
+Sacid_00076	CDS	513				hypothetical protein
+Sacid_00077	CDS	531				hypothetical protein
+Sacid_00078	CDS	399	rpsK		COG0100	30S ribosomal protein S11
+Sacid_00079	CDS	795				hypothetical protein
+Sacid_00080	CDS	357				hypothetical protein
+Sacid_00081	CDS	447				hypothetical protein
+Sacid_00082	CDS	417	rpsI		COG0103	30S ribosomal protein S9
+Sacid_00083	CDS	201				hypothetical protein
+Sacid_00084	CDS	678				hypothetical protein
+Sacid_00085	CDS	855				hypothetical protein
+Sacid_00086	CDS	687				hypothetical protein
+Sacid_00087	CDS	924	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+Sacid_00088	CDS	993	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+Sacid_00089	CDS	987	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+Sacid_00090	CDS	675	ppaX	3.6.1.1		Pyrophosphatase PpaX
+Sacid_00091	tRNA	88				tRNA-Ser(gct)
+Sacid_00092	CDS	1767				hypothetical protein
+Sacid_00093	CDS	1095				hypothetical protein
+Sacid_00094	CDS	186				hypothetical protein
+Sacid_00095	CDS	732	ycfH_1	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Sacid_00096	CDS	162				hypothetical protein
+Sacid_00097	CDS	381				hypothetical protein
+Sacid_00098	CDS	672				hypothetical protein
+Sacid_00099	CDS	468				hypothetical protein
+Sacid_00100	CDS	588	mobA_1	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+Sacid_00101	CDS	1170				hypothetical protein
+Sacid_00102	CDS	501				hypothetical protein
+Sacid_00103	CDS	696	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Sacid_00104	CDS	411				hypothetical protein
+Sacid_00105	CDS	426				hypothetical protein
+Sacid_00106	CDS	255				hypothetical protein
+Sacid_00107	CDS	645	mntR			HTH-type transcriptional regulator MntR
+Sacid_00108	CDS	1182		2.7.1.165	COG2379	D-glycerate 2-kinase
+Sacid_00109	CDS	291				hypothetical protein
+Sacid_00110	CDS	801				hypothetical protein
+Sacid_00111	CDS	309				hypothetical protein
+Sacid_00112	CDS	693	tpiA			Triosephosphate isomerase
+Sacid_00113	CDS	546				hypothetical protein
+Sacid_00114	CDS	1572				hypothetical protein
+Sacid_00115	CDS	960				hypothetical protein
+Sacid_00116	CDS	99				hypothetical protein
+Sacid_00117	CDS	453				hypothetical protein
+Sacid_00118	CDS	1317	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+Sacid_00119	CDS	597		3.-.-.-		putative protein
+Sacid_00120	CDS	1287				hypothetical protein
+Sacid_00121	CDS	2460				hypothetical protein
+Sacid_00122	CDS	2217	tmcA_1	2.3.1.193		tRNA(Met) cytidine acetyltransferase TmcA
+Sacid_00123	CDS	981				hypothetical protein
+Sacid_00124	CDS	726	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+Sacid_00125	CDS	261				hypothetical protein
+Sacid_00126	CDS	1065				hypothetical protein
+Sacid_00127	CDS	459				hypothetical protein
+Sacid_00128	CDS	411				hypothetical protein
+Sacid_00129	CDS	939				hypothetical protein
+Sacid_00130	CDS	804				hypothetical protein
+Sacid_00131	CDS	1245	lpdV	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Sacid_00132	CDS	1287	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+Sacid_00133	CDS	855				hypothetical protein
+Sacid_00134	CDS	669				hypothetical protein
+Sacid_00135	CDS	840				hypothetical protein
+Sacid_00136	CDS	669				hypothetical protein
+Sacid_00137	CDS	648			COG1055	putative transporter
+Sacid_00138	CDS	600				hypothetical protein
+Sacid_00139	CDS	1161				hypothetical protein
+Sacid_00140	CDS	945				hypothetical protein
+Sacid_00141	CDS	393				hypothetical protein
+Sacid_00142	CDS	1821				hypothetical protein
+Sacid_00143	CDS	1089				hypothetical protein
+Sacid_00144	CDS	1323	npr	1.11.1.1	COG0446	NADH peroxidase
+Sacid_00145	CDS	435				hypothetical protein
+Sacid_00146	CDS	921				hypothetical protein
+Sacid_00147	CDS	1410	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Sacid_00148	CDS	441	rppH	3.6.1.-		RNA pyrophosphohydrolase
+Sacid_00149	CDS	1257				hypothetical protein
+Sacid_00150	CDS	1272	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+Sacid_00151	CDS	282				hypothetical protein
+Sacid_00152	CDS	1488	recF			DNA replication and repair protein RecF
+Sacid_00153	CDS	789	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sacid_00154	CDS	642	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+Sacid_00155	CDS	309				hypothetical protein
+Sacid_00156	CDS	399				hypothetical protein
+Sacid_00157	CDS	858	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Sacid_00158	CDS	429				hypothetical protein
+Sacid_00159	CDS	2829				hypothetical protein
+Sacid_00160	CDS	1566	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+Sacid_00161	CDS	642				hypothetical protein
+Sacid_00162	CDS	426	yccU		COG1832	putative protein YccU
+Sacid_00163	CDS	183				hypothetical protein
+Sacid_00164	CDS	336				hypothetical protein
+Sacid_00165	CDS	249				hypothetical protein
+Sacid_00166	CDS	273				hypothetical protein
+Sacid_00167	CDS	567				hypothetical protein
+Sacid_00168	CDS	1005				hypothetical protein
+Sacid_00169	CDS	531				hypothetical protein
+Sacid_00170	CDS	261				hypothetical protein
+Sacid_00171	CDS	1038				hypothetical protein
+Sacid_00172	CDS	951				hypothetical protein
+Sacid_00173	CDS	873	ttuC	2.7.7.80	COG0476	Sulfur carrier protein adenylyltransferase
+Sacid_00174	CDS	816	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+Sacid_00175	CDS	942	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+Sacid_00176	CDS	1026	tyrA		COG0287	T-protein
+Sacid_00177	CDS	993	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+Sacid_00178	CDS	1062	aroB_1	4.2.3.4	COG0337	3-dehydroquinate synthase
+Sacid_00179	CDS	792	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Sacid_00180	CDS	1176	aroC	4.2.3.5	COG0082	Chorismate synthase
+Sacid_00181	CDS	807	thrB_1	2.7.1.39		Homoserine kinase
+Sacid_00182	CDS	1077	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+Sacid_00183	CDS	663	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+Sacid_00184	CDS	303				hypothetical protein
+Sacid_00185	CDS	291				hypothetical protein
+Sacid_00186	CDS	1656	dinG	3.1.-.-		3'-5' exonuclease DinG
+Sacid_00187	CDS	804				hypothetical protein
+Sacid_00188	CDS	228				hypothetical protein
+Sacid_00189	CDS	636	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+Sacid_00190	CDS	1080	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Sacid_00191	CDS	651				hypothetical protein
+Sacid_00192	CDS	1899				hypothetical protein
+Sacid_00193	CDS	705	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sacid_00194	CDS	753	nucS	3.1.-.-		Endonuclease NucS
+Sacid_00195	CDS	885				hypothetical protein
+Sacid_00196	CDS	369				hypothetical protein
+Sacid_00197	CDS	456				hypothetical protein
+Sacid_00198	CDS	663	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+Sacid_00199	CDS	963	lutA			Lactate utilization protein A
+Sacid_00200	CDS	1380		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Sacid_00201	CDS	963				hypothetical protein
+Sacid_00202	CDS	915				hypothetical protein
+Sacid_00203	CDS	1884	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+Sacid_00204	CDS	813				hypothetical protein
+Sacid_00205	CDS	717	yafV	3.5.1.3		Omega-amidase YafV
+Sacid_00206	CDS	1131	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_00207	CDS	1041	acuC			Acetoin utilization protein AcuC
+Sacid_00208	CDS	1197	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+Sacid_00209	CDS	615				hypothetical protein
+Sacid_00210	CDS	651				hypothetical protein
+Sacid_00211	CDS	627				hypothetical protein
+Sacid_00212	CDS	441				hypothetical protein
+Sacid_00213	CDS	999				hypothetical protein
+Sacid_00214	CDS	798				hypothetical protein
+Sacid_00215	CDS	537	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+Sacid_00216	CDS	486				hypothetical protein
+Sacid_00217	CDS	372				hypothetical protein
+Sacid_00218	CDS	384				hypothetical protein
+Sacid_00219	CDS	180				hypothetical protein
+Sacid_00220	CDS	123				hypothetical protein
+Sacid_00221	CDS	867	nanA	4.1.3.3	COG0329	N-acetylneuraminate lyase
+Sacid_00222	CDS	936	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+Sacid_00223	CDS	1524	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+Sacid_00224	CDS	318				hypothetical protein
+Sacid_00225	CDS	564				hypothetical protein
+Sacid_00226	CDS	180				hypothetical protein
+Sacid_00227	CDS	939				hypothetical protein
+Sacid_00228	CDS	1068				hypothetical protein
+Sacid_00229	CDS	591				hypothetical protein
+Sacid_00230	CDS	855				hypothetical protein
+Sacid_00231	CDS	1125	lgoT			putative L-galactonate transporter
+Sacid_00232	CDS	498				hypothetical protein
+Sacid_00233	CDS	975				hypothetical protein
+Sacid_00234	CDS	756	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sacid_00235	CDS	648	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+Sacid_00236	CDS	1587	miaB_1	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Sacid_00237	CDS	345				hypothetical protein
+Sacid_00238	CDS	894	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+Sacid_00239	CDS	987	gltA	2.3.3.16	COG0372	Citrate synthase
+Sacid_00240	CDS	216				hypothetical protein
+Sacid_00241	CDS	843	mmgF	4.1.3.-	COG2513	2-methylisocitrate lyase
+Sacid_00242	CDS	1296	prpD2	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+Sacid_00243	CDS	921	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+Sacid_00244	CDS	900	ghrB	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+Sacid_00245	CDS	450				hypothetical protein
+Sacid_00246	CDS	1140		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+Sacid_00247	CDS	666	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+Sacid_00248	CDS	234				hypothetical protein
+Sacid_00249	CDS	486	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+Sacid_00250	CDS	1245	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+Sacid_00251	CDS	837	tatC		COG0805	Sec-independent protein translocase protein TatC
+Sacid_00252	CDS	384				hypothetical protein
+Sacid_00253	CDS	291	tatA			Sec-independent protein translocase protein TatA
+Sacid_00254	CDS	717	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+Sacid_00255	CDS	1632				hypothetical protein
+Sacid_00256	CDS	1533	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+Sacid_00257	CDS	504				hypothetical protein
+Sacid_00258	CDS	1536		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+Sacid_00259	CDS	2118				hypothetical protein
+Sacid_00260	CDS	198				hypothetical protein
+Sacid_00261	CDS	972	cysP		COG0306	Sulfate permease CysP
+Sacid_00262	CDS	663				hypothetical protein
+Sacid_00263	CDS	1134				hypothetical protein
+Sacid_00264	CDS	663				hypothetical protein
+Sacid_00265	CDS	822				hypothetical protein
+Sacid_00266	CDS	714				hypothetical protein
+Sacid_00267	CDS	696	rbn_1	3.1.26.11		Ribonuclease BN
+Sacid_00268	CDS	867	rbsK	2.7.1.15	COG0524	Ribokinase
+Sacid_00269	CDS	1209	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+Sacid_00270	CDS	612				hypothetical protein
+Sacid_00271	CDS	1176				hypothetical protein
+Sacid_00272	CDS	333				hypothetical protein
+Sacid_00273	CDS	930				hypothetical protein
+Sacid_00274	CDS	744				hypothetical protein
+Sacid_00275	CDS	471				hypothetical protein
+Sacid_00276	CDS	1389	queC	6.3.4.20		7-cyano-7-deazaguanine synthase
+Sacid_00277	CDS	2241	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+Sacid_00278	CDS	861				hypothetical protein
+Sacid_00279	CDS	369				hypothetical protein
+Sacid_00280	CDS	504				hypothetical protein
+Sacid_00281	CDS	438				hypothetical protein
+Sacid_00282	CDS	573				hypothetical protein
+Sacid_00283	CDS	423				hypothetical protein
+Sacid_00284	CDS	396	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_00285	CDS	1047				hypothetical protein
+Sacid_00286	CDS	732	fixA			Protein FixA
+Sacid_00287	CDS	846	fixB_1			Protein FixB
+Sacid_00288	CDS	1224				hypothetical protein
+Sacid_00289	CDS	270				hypothetical protein
+Sacid_00290	CDS	1482	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+Sacid_00291	CDS	1251				hypothetical protein
+Sacid_00292	CDS	1020	moaA_1			GTP 3',8-cyclase
+Sacid_00293	CDS	309				hypothetical protein
+Sacid_00294	CDS	843				hypothetical protein
+Sacid_00295	CDS	1323		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Sacid_00296	CDS	528				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+Sacid_00297	CDS	612				hypothetical protein
+Sacid_00298	CDS	621	hadL	3.8.1.2		(S)-2-haloacid dehalogenase
+Sacid_00299	CDS	312				hypothetical protein
+Sacid_00300	CDS	555				hypothetical protein
+Sacid_00301	CDS	1401	mtoX	1.8.3.4		Methanethiol oxidase
+Sacid_00302	CDS	1998	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_00303	CDS	747		6.3.1.20		Lipoate--protein ligase 1
+Sacid_00304	CDS	249				hypothetical protein
+Sacid_00305	CDS	861	lipA	2.8.1.8		Lipoyl synthase
+Sacid_00306	CDS	798	lipM_1	2.3.1.181	COG0095	Octanoyltransferase LipM
+Sacid_00307	CDS	222				hypothetical protein
+Sacid_00308	CDS	813	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+Sacid_00309	CDS	405				hypothetical protein
+Sacid_00310	CDS	423				hypothetical protein
+Sacid_00311	CDS	1830	fixB_2			Protein FixB
+Sacid_00312	CDS	1185				hypothetical protein
+Sacid_00313	CDS	291	fixX		COG2440	Ferredoxin-like protein FixX
+Sacid_00314	CDS	762	fdhD		COG1526	Sulfur carrier protein FdhD
+Sacid_00315	CDS	366				hypothetical protein
+Sacid_00316	CDS	2931		1.17.1.9		Putative formate dehydrogenase
+Sacid_00317	CDS	1143				hypothetical protein
+Sacid_00318	CDS	243				hypothetical protein
+Sacid_00319	CDS	399	vapC_1	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+Sacid_00320	CDS	852			COG0730	putative membrane transporter protein
+Sacid_00321	CDS	912	sdhE_1	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+Sacid_00322	CDS	693				hypothetical protein
+Sacid_00323	CDS	684				hypothetical protein
+Sacid_00324	CDS	1098	thi4_1	2.4.2.59		Thiamine thiazole synthase
+Sacid_00325	CDS	1317				hypothetical protein
+Sacid_00326	CDS	234				hypothetical protein
+Sacid_00327	CDS	1158				hypothetical protein
+Sacid_00328	CDS	381				hypothetical protein
+Sacid_00329	CDS	921				hypothetical protein
+Sacid_00330	CDS	843				hypothetical protein
+Sacid_00331	CDS	243	tusA		COG0425	Sulfur carrier protein TusA
+Sacid_00332	CDS	432	dsrE2		COG2210	Sulfur carrier protein DsrE2
+Sacid_00333	CDS	402				hypothetical protein
+Sacid_00334	CDS	1335	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Sacid_00335	CDS	342				hypothetical protein
+Sacid_00336	CDS	552	ahpF	1.6.99.3	COG3634	NADH dehydrogenase
+Sacid_00337	CDS	372				hypothetical protein
+Sacid_00338	CDS	834				hypothetical protein
+Sacid_00339	CDS	1056	bioB_1	2.8.1.6		Biotin synthase
+Sacid_00340	CDS	906	bioB_2	2.8.1.6		Biotin synthase
+Sacid_00341	CDS	1035	lipM_2	2.3.1.181		Octanoyltransferase LipM
+Sacid_00342	CDS	351				hypothetical protein
+Sacid_00343	CDS	495				hypothetical protein
+Sacid_00344	CDS	441	gcvH_1			Glycine cleavage system H protein
+Sacid_00345	CDS	450	gcvH_2		COG0509	Glycine cleavage system H protein
+Sacid_00346	CDS	1098	lipM_3	2.3.1.181		Octanoyltransferase LipM
+Sacid_00347	CDS	450				hypothetical protein
+Sacid_00348	CDS	426				hypothetical protein
+Sacid_00349	CDS	324				hypothetical protein
+Sacid_00350	CDS	810				hypothetical protein
+Sacid_00351	CDS	204				hypothetical protein
+Sacid_00352	CDS	360				hypothetical protein
+Sacid_00353	CDS	384				hypothetical protein
+Sacid_00354	CDS	828				hypothetical protein
+Sacid_00355	CDS	1089				hypothetical protein
+Sacid_00356	CDS	1404	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Sacid_00357	CDS	168				hypothetical protein
+Sacid_00358	CDS	198				hypothetical protein
+Sacid_00359	CDS	1752				hypothetical protein
+Sacid_00360	CDS	1197	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+Sacid_00361	CDS	963				hypothetical protein
+Sacid_00362	CDS	705	catJ	2.8.3.6		3-oxoadipate CoA-transferase subunit B
+Sacid_00363	CDS	756	catI	2.8.3.6		3-oxoadipate CoA-transferase subunit A
+Sacid_00364	CDS	1518	apc4_1	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+Sacid_00365	CDS	1923	apc3_1	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+Sacid_00366	CDS	600				hypothetical protein
+Sacid_00367	CDS	1119	oxlT_1			Oxalate:formate antiporter
+Sacid_00368	CDS	2349				hypothetical protein
+Sacid_00369	CDS	2829	mshC	6.3.1.13		L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+Sacid_00370	CDS	1044				hypothetical protein
+Sacid_00371	CDS	1272	dapE_1	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+Sacid_00372	CDS	315				hypothetical protein
+Sacid_00373	CDS	459				hypothetical protein
+Sacid_00374	CDS	948	ttuA_1	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+Sacid_00375	CDS	693				hypothetical protein
+Sacid_00376	CDS	678	sfsA		COG1489	Sugar fermentation stimulation protein A
+Sacid_00377	CDS	807	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+Sacid_00378	CDS	195				hypothetical protein
+Sacid_00379	CDS	1569	mctP_1			Monocarboxylate transport permease protein
+Sacid_00380	CDS	366				hypothetical protein
+Sacid_00381	CDS	876	Hgd	1.1.1.291		2-(hydroxymethyl)glutarate dehydrogenase
+Sacid_00382	CDS	387				hypothetical protein
+Sacid_00383	CDS	243				hypothetical protein
+Sacid_00384	CDS	990				hypothetical protein
+Sacid_00385	CDS	750	drrA_1	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Sacid_00386	CDS	942	thiL_1	2.7.4.16		Thiamine-monophosphate kinase
+Sacid_00387	CDS	477	mobA_2	2.7.7.77		Molybdenum cofactor guanylyltransferase
+Sacid_00388	CDS	747				hypothetical protein
+Sacid_00389	CDS	288				hypothetical protein
+Sacid_00390	CDS	798	cobM	2.1.1.133		Precorrin-4 C(11)-methyltransferase
+Sacid_00391	CDS	672				hypothetical protein
+Sacid_00392	CDS	579	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+Sacid_00393	CDS	1068	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+Sacid_00394	CDS	756		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+Sacid_00395	CDS	1002				hypothetical protein
+Sacid_00396	CDS	657	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+Sacid_00397	CDS	978	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+Sacid_00398	CDS	831	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+Sacid_00399	CDS	1329				hypothetical protein
+Sacid_00400	CDS	540				hypothetical protein
+Sacid_00401	CDS	621				hypothetical protein
+Sacid_00402	CDS	339				hypothetical protein
+Sacid_00403	CDS	552				hypothetical protein
+Sacid_00404	CDS	801				hypothetical protein
+Sacid_00405	CDS	1020	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+Sacid_00406	CDS	936	cbiB			Cobalamin biosynthesis protein CbiB
+Sacid_00407	CDS	759	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+Sacid_00408	CDS	1380	cobQ		COG1492	Cobyric acid synthase
+Sacid_00409	CDS	1122	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+Sacid_00410	CDS	996	htpX_1	3.4.24.-		Protease HtpX
+Sacid_00411	CDS	408	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_00412	CDS	216				hypothetical protein
+Sacid_00413	CDS	1500				hypothetical protein
+Sacid_00414	CDS	408	aroA'	2.2.1.10		2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+Sacid_00415	CDS	420	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+Sacid_00416	CDS	1140				hypothetical protein
+Sacid_00417	CDS	774	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+Sacid_00418	CDS	1182				hypothetical protein
+Sacid_00419	CDS	900	murK	2.7.1.-	COG2971	N-acetylmuramic acid/N-acetylglucosamine kinase
+Sacid_00420	CDS	1440	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+Sacid_00421	CDS	366				hypothetical protein
+Sacid_00422	CDS	252				hypothetical protein
+Sacid_00423	CDS	2319	tmcA_2	2.3.1.193		tRNA(Met) cytidine acetyltransferase TmcA
+Sacid_00424	CDS	762				hypothetical protein
+Sacid_00425	CDS	321				hypothetical protein
+Sacid_00426	CDS	1401				hypothetical protein
+Sacid_00427	CDS	180				hypothetical protein
+Sacid_00428	CDS	651	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+Sacid_00429	CDS	1758				hypothetical protein
+Sacid_00430	CDS	699				hypothetical protein
+Sacid_00431	CDS	837				hypothetical protein
+Sacid_00432	CDS	168				hypothetical protein
+Sacid_00433	CDS	645				hypothetical protein
+Sacid_00434	CDS	615				hypothetical protein
+Sacid_00435	CDS	567				hypothetical protein
+Sacid_00436	CDS	168				hypothetical protein
+Sacid_00437	CDS	570				hypothetical protein
+Sacid_00438	CDS	867	mrp		COG0489	Iron-sulfur cluster carrier protein
+Sacid_00439	CDS	213				hypothetical protein
+Sacid_00440	CDS	351				hypothetical protein
+Sacid_00441	CDS	729				hypothetical protein
+Sacid_00442	CDS	564				hypothetical protein
+Sacid_00443	CDS	489				hypothetical protein
+Sacid_00444	CDS	1146				hypothetical protein
+Sacid_00445	CDS	645				hypothetical protein
+Sacid_00446	CDS	705	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+Sacid_00447	CDS	432				hypothetical protein
+Sacid_00448	CDS	954		2.6.1.-	COG0079	putative aminotransferase
+Sacid_00449	CDS	588				hypothetical protein
+Sacid_00450	CDS	315	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+Sacid_00451	tRNA	76				tRNA-His(gtg)
+Sacid_00452	CDS	1230	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Sacid_00453	CDS	507				hypothetical protein
+Sacid_00454	CDS	465				hypothetical protein
+Sacid_00455	CDS	873				hypothetical protein
+Sacid_00456	CDS	915				hypothetical protein
+Sacid_00457	CDS	903				hypothetical protein
+Sacid_00458	CDS	516				hypothetical protein
+Sacid_00459	CDS	657				hypothetical protein
+Sacid_00460	CDS	369				hypothetical protein
+Sacid_00461	CDS	249				hypothetical protein
+Sacid_00462	tRNA	92				tRNA-Ser(cga)
+Sacid_00463	CDS	1935				hypothetical protein
+Sacid_00464	CDS	1368				hypothetical protein
+Sacid_00465	CDS	927				hypothetical protein
+Sacid_00466	CDS	654				hypothetical protein
+Sacid_00467	CDS	210				hypothetical protein
+Sacid_00468	CDS	150				hypothetical protein
+Sacid_00469	CDS	321				hypothetical protein
+Sacid_00470	CDS	432				hypothetical protein
+Sacid_00471	CDS	159				hypothetical protein
+Sacid_00472	CDS	309				hypothetical protein
+Sacid_00473	CDS	291				hypothetical protein
+Sacid_00474	CDS	567				hypothetical protein
+Sacid_00475	CDS	300				hypothetical protein
+Sacid_00476	CDS	288				hypothetical protein
+Sacid_00477	CDS	450				hypothetical protein
+Sacid_00478	CDS	168				hypothetical protein
+Sacid_00479	CDS	306				hypothetical protein
+Sacid_00480	CDS	1305				IS200/IS605 family transposase ISSto1
+Sacid_00481	CDS	210				hypothetical protein
+Sacid_00482	CDS	294				hypothetical protein
+Sacid_00483	CDS	279				hypothetical protein
+Sacid_00484	CDS	831				hypothetical protein
+Sacid_00485	CDS	537				hypothetical protein
+Sacid_00486	CDS	339				hypothetical protein
+Sacid_00487	CDS	708				hypothetical protein
+Sacid_00488	CDS	861				hypothetical protein
+Sacid_00489	CDS	105				hypothetical protein
+Sacid_00490	CDS	585				hypothetical protein
+Sacid_00491	CDS	855				hypothetical protein
+Sacid_00492	CDS	447				hypothetical protein
+Sacid_00493	CDS	153				hypothetical protein
+Sacid_00494	CDS	984				hypothetical protein
+Sacid_00495	CDS	462				hypothetical protein
+Sacid_00496	CDS	159				hypothetical protein
+Sacid_00497	CDS	180				hypothetical protein
+Sacid_00498	CDS	996				IS200/IS605 family transposase ISSis2
+Sacid_00499	CDS	549				hypothetical protein
+Sacid_00500	CDS	288				hypothetical protein
+Sacid_00501	CDS	570				hypothetical protein
+Sacid_00502	CDS	156				hypothetical protein
+Sacid_00503	CDS	423				hypothetical protein
+Sacid_00504	CDS	156				hypothetical protein
+Sacid_00505	CDS	420				hypothetical protein
+Sacid_00506	CDS	1464				hypothetical protein
+Sacid_00507	CDS	279				hypothetical protein
+Sacid_00508	CDS	1512				hypothetical protein
+Sacid_00509	CDS	264				hypothetical protein
+Sacid_00510	CDS	672				hypothetical protein
+Sacid_00511	CDS	804				hypothetical protein
+Sacid_00512	CDS	132				hypothetical protein
+Sacid_00513	CDS	1362				hypothetical protein
+Sacid_00514	tRNA	76				tRNA-Met(cat)
+Sacid_00515	tRNA	75				tRNA-Asp(gtc)
+Sacid_00516	CDS	300				hypothetical protein
+Sacid_00517	CDS	564				hypothetical protein
+Sacid_00518	CDS	702				hypothetical protein
+Sacid_00519	CDS	1314				hypothetical protein
+Sacid_00520	CDS	720				hypothetical protein
+Sacid_00521	CDS	660				hypothetical protein
+Sacid_00522	CDS	738				hypothetical protein
+Sacid_00523	CDS	627	ecfA3	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+Sacid_00524	CDS	801				hypothetical protein
+Sacid_00525	CDS	183				hypothetical protein
+Sacid_00526	CDS	600	pqqE_1	1.21.98.4		PqqA peptide cyclase
+Sacid_00527	tRNA	78				tRNA-Gly(gcc)
+Sacid_00528	CDS	405				hypothetical protein
+Sacid_00529	CDS	1083	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+Sacid_00530	tRNA	75				tRNA-Gln(ctg)
+Sacid_00531	CDS	105				hypothetical protein
+Sacid_00532	CDS	978				hypothetical protein
+Sacid_00533	CDS	603	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+Sacid_00534	CDS	591	nfi	3.1.21.7		Endonuclease V
+Sacid_00535	CDS	468				hypothetical protein
+Sacid_00536	CDS	786	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+Sacid_00537	CDS	837	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Sacid_00538	CDS	567	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+Sacid_00539	CDS	1452	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Sacid_00540	CDS	468	nudL	3.6.1.-		putative Nudix hydrolase NudL
+Sacid_00541	CDS	1359	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Sacid_00542	CDS	864	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+Sacid_00543	CDS	1065	dinB	2.7.7.7		DNA polymerase IV
+Sacid_00544	CDS	441				hypothetical protein
+Sacid_00545	CDS	1008	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+Sacid_00546	CDS	1005	adh_1	1.1.1.1		Alcohol dehydrogenase
+Sacid_00547	CDS	1284		6.3.4.12		Glutamate--methylamine ligase
+Sacid_00548	CDS	777				hypothetical protein
+Sacid_00549	CDS	1149	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+Sacid_00550	CDS	543				hypothetical protein
+Sacid_00551	CDS	420				Protein archease
+Sacid_00552	CDS	99				hypothetical protein
+Sacid_00553	CDS	159				hypothetical protein
+Sacid_00554	CDS	783				hypothetical protein
+Sacid_00555	CDS	237				hypothetical protein
+Sacid_00556	CDS	549	cmk	2.7.4.25		Cytidylate kinase
+Sacid_00557	CDS	264				hypothetical protein
+Sacid_00558	CDS	435				hypothetical protein
+Sacid_00559	CDS	585				hypothetical protein
+Sacid_00560	CDS	1392	secY			Protein translocase subunit SecY
+Sacid_00561	CDS	435				hypothetical protein
+Sacid_00562	CDS	471				hypothetical protein
+Sacid_00563	CDS	660				hypothetical protein
+Sacid_00564	CDS	594				hypothetical protein
+Sacid_00565	CDS	453				hypothetical protein
+Sacid_00566	CDS	396				hypothetical protein
+Sacid_00567	CDS	570				hypothetical protein
+Sacid_00568	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+Sacid_00569	CDS	141				hypothetical protein
+Sacid_00570	CDS	537				hypothetical protein
+Sacid_00571	CDS	735				hypothetical protein
+Sacid_00572	CDS	405				hypothetical protein
+Sacid_00573	CDS	417	rplN			50S ribosomal protein L14
+Sacid_00574	CDS	345				hypothetical protein
+Sacid_00575	CDS	276				hypothetical protein
+Sacid_00576	CDS	210				hypothetical protein
+Sacid_00577	CDS	696				hypothetical protein
+Sacid_00578	CDS	471				hypothetical protein
+Sacid_00579	CDS	423				hypothetical protein
+Sacid_00580	CDS	717				hypothetical protein
+Sacid_00581	CDS	249				hypothetical protein
+Sacid_00582	CDS	801				hypothetical protein
+Sacid_00583	CDS	1029				hypothetical protein
+Sacid_00584	CDS	753				hypothetical protein
+Sacid_00585	CDS	3153	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Sacid_00586	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+Sacid_00587	CDS	603				hypothetical protein
+Sacid_00588	CDS	723	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+Sacid_00589	CDS	2214	fusA		COG0480	Elongation factor G
+Sacid_00590	CDS	711				hypothetical protein
+Sacid_00591	CDS	378				hypothetical protein
+Sacid_00592	CDS	234				hypothetical protein
+Sacid_00593	CDS	528				hypothetical protein
+Sacid_00594	CDS	213				hypothetical protein
+Sacid_00595	CDS	831	rph_1	2.7.7.56		Ribonuclease PH
+Sacid_00596	CDS	732	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+Sacid_00597	CDS	750				hypothetical protein
+Sacid_00598	CDS	702				hypothetical protein
+Sacid_00599	CDS	744	prcA			Proteasome subunit alpha
+Sacid_00600	CDS	423				hypothetical protein
+Sacid_00601	CDS	552				hypothetical protein
+Sacid_00602	CDS	435				hypothetical protein
+Sacid_00603	CDS	654				hypothetical protein
+Sacid_00604	CDS	1203	OLA1			Obg-like ATPase 1
+Sacid_00605	CDS	1218	glmU_1		COG1207	Bifunctional protein GlmU
+Sacid_00606	CDS	594				hypothetical protein
+Sacid_00607	CDS	708	trmL	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+Sacid_00608	CDS	603	prmC	2.1.1.297		Release factor glutamine methyltransferase
+Sacid_00609	CDS	669	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Sacid_00610	CDS	627				hypothetical protein
+Sacid_00611	CDS	345				hypothetical protein
+Sacid_00612	CDS	312				hypothetical protein
+Sacid_00613	tRNA	85				tRNA-Leu(taa)
+Sacid_00614	CDS	1002				hypothetical protein
+Sacid_00615	CDS	381				hypothetical protein
+Sacid_00616	CDS	777				hypothetical protein
+Sacid_00617	CDS	1602				hypothetical protein
+Sacid_00618	CDS	651	tnpR			Transposon Tn3 resolvase
+Sacid_00619	CDS	312				hypothetical protein
+Sacid_00620	CDS	273				hypothetical protein
+Sacid_00621	CDS	1278				hypothetical protein
+Sacid_00622	tRNA	75				tRNA-Val(tac)
+Sacid_00623	CDS	1905	rnj	3.1.-.-		Ribonuclease J
+Sacid_00624	CDS	1056	aroB_2	4.2.3.4		3-dehydroquinate synthase
+Sacid_00625	CDS	774				hypothetical protein
+Sacid_00626	CDS	186				hypothetical protein
+Sacid_00627	CDS	909	speE	2.5.1.104	COG0421	Polyamine aminopropyltransferase
+Sacid_00628	CDS	1248	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+Sacid_00629	CDS	648				hypothetical protein
+Sacid_00630	CDS	114				hypothetical protein
+Sacid_00631	tRNA	75				tRNA-Val(gac)
+Sacid_00632	CDS	459				hypothetical protein
+Sacid_00633	CDS	960	haeIIIM	2.1.1.37		Modification methylase HaeIII
+Sacid_00634	CDS	516				hypothetical protein
+Sacid_00635	CDS	399				hypothetical protein
+Sacid_00636	CDS	1059	hflX		COG2262	GTPase HflX
+Sacid_00637	CDS	492				hypothetical protein
+Sacid_00638	CDS	1191	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_00639	CDS	507				hypothetical protein
+Sacid_00640	CDS	723				hypothetical protein
+Sacid_00641	CDS	1545	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+Sacid_00642	CDS	435				hypothetical protein
+Sacid_00643	CDS	366				hypothetical protein
+Sacid_00644	CDS	588	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+Sacid_00645	CDS	1260	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Sacid_00646	CDS	276				hypothetical protein
+Sacid_00647	CDS	588				hypothetical protein
+Sacid_00648	CDS	1662	groL_1		COG0459	60 kDa chaperonin
+Sacid_00649	CDS	1641				hypothetical protein
+Sacid_00650	CDS	399				hypothetical protein
+Sacid_00651	CDS	255				hypothetical protein
+Sacid_00652	CDS	249				hypothetical protein
+Sacid_00653	CDS	1158	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+Sacid_00654	CDS	1815	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_00655	CDS	105				hypothetical protein
+Sacid_00656	tRNA	76				tRNA-Arg(ccg)
+Sacid_00657	CDS	1317	abaF_1			Fosfomycin resistance protein AbaF
+Sacid_00658	CDS	255				hypothetical protein
+Sacid_00659	CDS	297				hypothetical protein
+Sacid_00660	CDS	1146				hypothetical protein
+Sacid_00661	CDS	894				hypothetical protein
+Sacid_00662	CDS	276				hypothetical protein
+Sacid_00663	tRNA	87				tRNA-Ser(gga)
+Sacid_00664	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+Sacid_00665	CDS	1308	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+Sacid_00666	CDS	588				hypothetical protein
+Sacid_00667	CDS	492				hypothetical protein
+Sacid_00668	CDS	453				hypothetical protein
+Sacid_00669	CDS	432	nusA			Transcription termination/antitermination protein NusA
+Sacid_00670	CDS	315				hypothetical protein
+Sacid_00671	CDS	1203	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+Sacid_00672	CDS	2643	rpoBC	2.7.7.6	COG0085	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+Sacid_00673	CDS	3381	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Sacid_00674	CDS	267				hypothetical protein
+Sacid_00675	CDS	1809	infB		COG0532	Translation initiation factor IF-2
+Sacid_00676	CDS	438	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+Sacid_00677	CDS	255				hypothetical protein
+Sacid_00678	CDS	651	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+Sacid_00679	CDS	1419	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Sacid_00680	CDS	735	xpt	2.4.2.22		Xanthine phosphoribosyltransferase
+Sacid_00681	CDS	579				hypothetical protein
+Sacid_00682	CDS	1755	moaA_2			GTP 3',8-cyclase
+Sacid_00683	CDS	930	thiL_2	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+Sacid_00684	CDS	1359	purB	4.3.2.2		Adenylosuccinate lyase
+Sacid_00685	CDS	1002				hypothetical protein
+Sacid_00686	CDS	1050				hypothetical protein
+Sacid_00687	CDS	1014	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Sacid_00688	CDS	1404		1.18.1.2		Ferredoxin--NADP reductase
+Sacid_00689	CDS	966				hypothetical protein
+Sacid_00690	CDS	522	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+Sacid_00691	CDS	1239	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+Sacid_00692	CDS	519		2.7.7.53	COG0537	AP-4-A phosphorylase
+Sacid_00693	CDS	966	recA			Protein RecA
+Sacid_00694	CDS	531				hypothetical protein
+Sacid_00695	CDS	1005	rsmF_1	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+Sacid_00696	CDS	558				hypothetical protein
+Sacid_00697	CDS	837	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+Sacid_00698	CDS	516				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+Sacid_00699	CDS	537				hypothetical protein
+Sacid_00700	CDS	1194				hypothetical protein
+Sacid_00701	tRNA	75				tRNA-Ala(ggc)
+Sacid_00702	CDS	1686				hypothetical protein
+Sacid_00703	CDS	174				hypothetical protein
+Sacid_00704	CDS	1155				hypothetical protein
+Sacid_00705	CDS	180				hypothetical protein
+Sacid_00706	CDS	336				hypothetical protein
+Sacid_00707	CDS	189				hypothetical protein
+Sacid_00708	CDS	300				hypothetical protein
+Sacid_00709	CDS	774		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+Sacid_00710	CDS	180				hypothetical protein
+Sacid_00711	CDS	498				hypothetical protein
+Sacid_00712	CDS	252				hypothetical protein
+Sacid_00713	CDS	1182				hypothetical protein
+Sacid_00714	CDS	660				hypothetical protein
+Sacid_00715	CDS	801	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_00716	CDS	225				hypothetical protein
+Sacid_00717	CDS	201				hypothetical protein
+Sacid_00718	CDS	432				hypothetical protein
+Sacid_00719	CDS	837				hypothetical protein
+Sacid_00720	CDS	792	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_00721	CDS	498				hypothetical protein
+Sacid_00722	CDS	315				hypothetical protein
+Sacid_00723	tRNA	77				tRNA-Val(cac)
+Sacid_00724	CDS	234				hypothetical protein
+Sacid_00725	CDS	291				hypothetical protein
+Sacid_00726	CDS	855				hypothetical protein
+Sacid_00727	CDS	792				hypothetical protein
+Sacid_00728	CDS	291				hypothetical protein
+Sacid_00729	CDS	669	murR			HTH-type transcriptional regulator MurR
+Sacid_00730	CDS	1794				hypothetical protein
+Sacid_00731	CDS	429				hypothetical protein
+Sacid_00732	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+Sacid_00733	CDS	786	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+Sacid_00734	CDS	423	asnC_1		COG1522	Regulatory protein AsnC
+Sacid_00735	CDS	171				hypothetical protein
+Sacid_00736	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+Sacid_00737	CDS	1164	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+Sacid_00738	CDS	1041	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+Sacid_00739	CDS	789		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+Sacid_00740	CDS	387				hypothetical protein
+Sacid_00741	CDS	279				hypothetical protein
+Sacid_00742	CDS	243				hypothetical protein
+Sacid_00743	CDS	930	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Sacid_00744	CDS	1623	iolD	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+Sacid_00745	CDS	120				hypothetical protein
+Sacid_00746	CDS	561				hypothetical protein
+Sacid_00747	CDS	507				hypothetical protein
+Sacid_00748	CDS	1287	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+Sacid_00749	CDS	1122	truD	5.4.99.27		tRNA pseudouridine synthase D
+Sacid_00750	CDS	363				hypothetical protein
+Sacid_00751	CDS	321				hypothetical protein
+Sacid_00752	CDS	2322	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_00753	CDS	225				hypothetical protein
+Sacid_00754	CDS	996				hypothetical protein
+Sacid_00755	CDS	663	cysG_1		COG0007	Siroheme synthase
+Sacid_00756	CDS	1245	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+Sacid_00757	CDS	1011	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+Sacid_00758	CDS	1263	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+Sacid_00759	CDS	891	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Sacid_00760	CDS	663				hypothetical protein
+Sacid_00761	CDS	267				hypothetical protein
+Sacid_00762	CDS	1653				hypothetical protein
+Sacid_00763	CDS	684				hypothetical protein
+Sacid_00764	CDS	501				hypothetical protein
+Sacid_00765	CDS	522				hypothetical protein
+Sacid_00766	CDS	516	hcnC	1.4.99.5	COG0665	Hydrogen cyanide synthase subunit HcnC
+Sacid_00767	CDS	981				hypothetical protein
+Sacid_00768	CDS	1797	lig	6.5.1.1		DNA ligase
+Sacid_00769	CDS	519	dcd_1	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+Sacid_00770	CDS	708				hypothetical protein
+Sacid_00771	CDS	732				hypothetical protein
+Sacid_00772	CDS	684				hypothetical protein
+Sacid_00773	CDS	468				hypothetical protein
+Sacid_00774	CDS	252				hypothetical protein
+Sacid_00775	CDS	1767				hypothetical protein
+Sacid_00776	CDS	861				hypothetical protein
+Sacid_00777	CDS	1818				hypothetical protein
+Sacid_00778	CDS	1212	mat	2.5.1.6		S-adenosylmethionine synthase
+Sacid_00779	CDS	279				hypothetical protein
+Sacid_00780	CDS	297				hypothetical protein
+Sacid_00781	CDS	1590	pyrG	6.3.4.2	COG0504	CTP synthase
+Sacid_00782	CDS	687	hxlA	4.1.2.43	COG0269	3-hexulose-6-phosphate synthase
+Sacid_00783	CDS	474				hypothetical protein
+Sacid_00784	CDS	423				hypothetical protein
+Sacid_00785	CDS	396				hypothetical protein
+Sacid_00786	CDS	1365	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Sacid_00787	CDS	1059	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+Sacid_00788	tRNA	86				tRNA-Ser(tga)
+Sacid_00789	CDS	564	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+Sacid_00790	CDS	708	truB_1	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Sacid_00791	CDS	255	truB_2	5.4.99.25		tRNA pseudouridine synthase B
+Sacid_00792	CDS	291				hypothetical protein
+Sacid_00793	CDS	2736	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+Sacid_00794	CDS	1701				hypothetical protein
+Sacid_00795	CDS	318				hypothetical protein
+Sacid_00796	CDS	753				hypothetical protein
+Sacid_00797	CDS	1104	mtaD_1	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+Sacid_00798	CDS	660				hypothetical protein
+Sacid_00799	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Sacid_00800	CDS	471				hypothetical protein
+Sacid_00801	CDS	663	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+Sacid_00802	CDS	564				hypothetical protein
+Sacid_00803	CDS	765				hypothetical protein
+Sacid_00804	CDS	1305	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+Sacid_00805	CDS	765				hypothetical protein
+Sacid_00806	CDS	975	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+Sacid_00807	CDS	1020	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+Sacid_00808	CDS	462				hypothetical protein
+Sacid_00809	CDS	372	sirB	4.99.1.4	COG2138	Sirohydrochlorin ferrochelatase
+Sacid_00810	CDS	642				hypothetical protein
+Sacid_00811	CDS	1260	tuf_1			Elongation factor Tu
+Sacid_00812	CDS	432				hypothetical protein
+Sacid_00813	CDS	552	rnr	3.1.13.1		Ribonuclease R
+Sacid_00814	CDS	207				hypothetical protein
+Sacid_00815	CDS	495				hypothetical protein
+Sacid_00816	CDS	1242	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Sacid_00817	CDS	2244	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_00818	CDS	552	rgy_1		COG1110	Reverse gyrase
+Sacid_00819	CDS	3147	rgy_2		COG1110	Reverse gyrase
+Sacid_00820	CDS	894				hypothetical protein
+Sacid_00821	CDS	330				hypothetical protein
+Sacid_00822	CDS	756				hypothetical protein
+Sacid_00823	CDS	153	nikR			Nickel-responsive regulator
+Sacid_00824	CDS	768	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+Sacid_00825	CDS	330				hypothetical protein
+Sacid_00826	CDS	960				hypothetical protein
+Sacid_00827	CDS	330				hypothetical protein
+Sacid_00828	CDS	981				hypothetical protein
+Sacid_00829	CDS	576		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Sacid_00830	CDS	660				hypothetical protein
+Sacid_00831	CDS	999	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Sacid_00832	CDS	357				hypothetical protein
+Sacid_00833	CDS	798	thi4_2	2.4.2.59		Thiamine thiazole synthase
+Sacid_00834	CDS	675	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+Sacid_00835	CDS	396				hypothetical protein
+Sacid_00836	CDS	546				hypothetical protein
+Sacid_00837	CDS	633				hypothetical protein
+Sacid_00838	CDS	399				hypothetical protein
+Sacid_00839	CDS	369				hypothetical protein
+Sacid_00840	CDS	1725				hypothetical protein
+Sacid_00841	CDS	891	gbuA_1	3.5.3.7	COG0010	Guanidinobutyrase
+Sacid_00842	CDS	147				hypothetical protein
+Sacid_00843	CDS	300				hypothetical protein
+Sacid_00844	CDS	924				hypothetical protein
+Sacid_00845	CDS	270				hypothetical protein
+Sacid_00846	tRNA	92				tRNA-Tyr(gta)
+Sacid_00847	CDS	1068				hypothetical protein
+Sacid_00848	CDS	864				hypothetical protein
+Sacid_00849	CDS	924	htpX_2	3.4.24.-		Protease HtpX
+Sacid_00850	CDS	2226	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Sacid_00851	CDS	168				hypothetical protein
+Sacid_00852	CDS	546				hypothetical protein
+Sacid_00853	CDS	279				hypothetical protein
+Sacid_00854	CDS	1776	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_00855	CDS	558				hypothetical protein
+Sacid_00856	CDS	657				hypothetical protein
+Sacid_00857	CDS	1119	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+Sacid_00858	CDS	1260				hypothetical protein
+Sacid_00859	CDS	306				hypothetical protein
+Sacid_00860	CDS	1482	amt			Ammonia channel
+Sacid_00861	CDS	882				hypothetical protein
+Sacid_00862	CDS	1188	dgoD	4.2.1.6	COG4948	D-galactonate dehydratase
+Sacid_00863	CDS	1482	naiP			Putative niacin/nicotinamide transporter NaiP
+Sacid_00864	CDS	387	nhaX_1		COG0589	Stress response protein NhaX
+Sacid_00865	CDS	1224	mtaD_2	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+Sacid_00866	tRNA	87				tRNA-Tyr(gta)
+Sacid_00867	CDS	270				hypothetical protein
+Sacid_00868	CDS	360				hypothetical protein
+Sacid_00869	CDS	585	tmk_1	2.7.4.9		Thymidylate kinase
+Sacid_00870	CDS	1092				hypothetical protein
+Sacid_00871	CDS	537				hypothetical protein
+Sacid_00872	CDS	519				hypothetical protein
+Sacid_00873	CDS	498				hypothetical protein
+Sacid_00874	CDS	369				hypothetical protein
+Sacid_00875	CDS	222				hypothetical protein
+Sacid_00876	CDS	2076				hypothetical protein
+Sacid_00877	CDS	552				hypothetical protein
+Sacid_00878	CDS	510				hypothetical protein
+Sacid_00879	CDS	1257				hypothetical protein
+Sacid_00880	CDS	207				hypothetical protein
+Sacid_00881	CDS	447	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+Sacid_00882	CDS	1314	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Sacid_00883	CDS	978	ruvB_3	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Sacid_00884	CDS	453				hypothetical protein
+Sacid_00885	CDS	612	prcB2	3.4.25.1	COG0638	Proteasome subunit beta 2
+Sacid_00886	CDS	1188	gatA_2	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Sacid_00887	CDS	1005	adhT_1	1.1.1.1		Alcohol dehydrogenase
+Sacid_00888	CDS	612				hypothetical protein
+Sacid_00889	CDS	495				hypothetical protein
+Sacid_00890	CDS	717	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+Sacid_00891	CDS	144				hypothetical protein
+Sacid_00892	CDS	843	cutM	1.2.5.3		Carbon monoxide dehydrogenase medium chain
+Sacid_00893	CDS	507	cutS_1	1.2.5.3		Carbon monoxide dehydrogenase small chain
+Sacid_00894	CDS	564	mocA	2.7.7.76	COG2068	Molybdenum cofactor cytidylyltransferase
+Sacid_00895	CDS	435				hypothetical protein
+Sacid_00896	CDS	1581	tuf_2			Elongation factor Tu
+Sacid_00897	CDS	501				hypothetical protein
+Sacid_00898	CDS	522				hypothetical protein
+Sacid_00899	CDS	426	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+Sacid_00900	CDS	1680	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+Sacid_00901	CDS	543	gpt_1	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+Sacid_00902	CDS	1095				hypothetical protein
+Sacid_00903	CDS	156				hypothetical protein
+Sacid_00904	CDS	1551			COG1233	putative protein
+Sacid_00905	CDS	1809	ftsH_5	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_00906	CDS	804	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+Sacid_00907	CDS	972	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+Sacid_00908	CDS	1509				hypothetical protein
+Sacid_00909	CDS	402				hypothetical protein
+Sacid_00910	CDS	420				hypothetical protein
+Sacid_00911	CDS	510				hypothetical protein
+Sacid_00912	CDS	474				hypothetical protein
+Sacid_00913	CDS	411				hypothetical protein
+Sacid_00914	CDS	198				hypothetical protein
+Sacid_00915	CDS	612				hypothetical protein
+Sacid_00916	CDS	1161	leuA	2.3.3.13		2-isopropylmalate synthase
+Sacid_00917	CDS	621				hypothetical protein
+Sacid_00918	CDS	177				hypothetical protein
+Sacid_00919	CDS	315				hypothetical protein
+Sacid_00920	CDS	228				hypothetical protein
+Sacid_00921	CDS	1182				hypothetical protein
+Sacid_00922	CDS	747	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Sacid_00923	CDS	693				hypothetical protein
+Sacid_00924	CDS	744	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Sacid_00925	CDS	801				hypothetical protein
+Sacid_00926	CDS	750				hypothetical protein
+Sacid_00927	CDS	426				hypothetical protein
+Sacid_00928	CDS	708				hypothetical protein
+Sacid_00929	CDS	1344				hypothetical protein
+Sacid_00930	CDS	534				hypothetical protein
+Sacid_00931	CDS	522	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+Sacid_00932	CDS	1278				hypothetical protein
+Sacid_00933	CDS	1083				hypothetical protein
+Sacid_00934	CDS	639	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Sacid_00935	CDS	705				hypothetical protein
+Sacid_00936	CDS	360				hypothetical protein
+Sacid_00937	CDS	426				hypothetical protein
+Sacid_00938	CDS	1266	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+Sacid_00939	CDS	1179	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+Sacid_00940	CDS	327				hypothetical protein
+Sacid_00941	CDS	756				hypothetical protein
+Sacid_00942	CDS	537				hypothetical protein
+Sacid_00943	CDS	546				hypothetical protein
+Sacid_00944	CDS	993				hypothetical protein
+Sacid_00945	CDS	579				hypothetical protein
+Sacid_00946	CDS	315				hypothetical protein
+Sacid_00947	CDS	1131	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+Sacid_00948	CDS	921	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+Sacid_00949	CDS	1626	cinA_1			Putative competence-damage inducible protein
+Sacid_00950	CDS	288				hypothetical protein
+Sacid_00951	CDS	441				hypothetical protein
+Sacid_00952	CDS	1161	ravA	3.6.3.-		ATPase RavA
+Sacid_00953	CDS	1356				hypothetical protein
+Sacid_00954	CDS	369				hypothetical protein
+Sacid_00955	CDS	873	sdhE_2	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+Sacid_00956	CDS	954				hypothetical protein
+Sacid_00957	CDS	1701	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+Sacid_00958	CDS	792	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+Sacid_00959	CDS	288				hypothetical protein
+Sacid_00960	CDS	1587				hypothetical protein
+Sacid_00961	CDS	1359				hypothetical protein
+Sacid_00962	CDS	423				hypothetical protein
+Sacid_00963	CDS	231				hypothetical protein
+Sacid_00964	CDS	525				hypothetical protein
+Sacid_00965	CDS	501				hypothetical protein
+Sacid_00966	CDS	999				hypothetical protein
+Sacid_00967	CDS	456	asnC_2		COG1522	Regulatory protein AsnC
+Sacid_00968	CDS	633	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+Sacid_00969	CDS	852				hypothetical protein
+Sacid_00970	CDS	807				hypothetical protein
+Sacid_00971	CDS	813	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+Sacid_00972	CDS	606	gpt_2	2.4.2.22		Xanthine phosphoribosyltransferase
+Sacid_00973	CDS	1011				hypothetical protein
+Sacid_00974	tRNA	87				tRNA-Leu(gag)
+Sacid_00975	CDS	192				hypothetical protein
+Sacid_00976	CDS	3468				hypothetical protein
+Sacid_00977	CDS	1053				hypothetical protein
+Sacid_00978	CDS	213				hypothetical protein
+Sacid_00979	CDS	408				hypothetical protein
+Sacid_00980	CDS	852	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Sacid_00981	CDS	885				hypothetical protein
+Sacid_00982	CDS	2115	cdhA_1	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_00983	CDS	489				hypothetical protein
+Sacid_00984	CDS	669	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+Sacid_00985	CDS	324				hypothetical protein
+Sacid_00986	CDS	954	ala	1.4.1.1		Alanine dehydrogenase
+Sacid_00987	CDS	1140	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+Sacid_00988	CDS	1053		3.4.-.-		putative peptidase
+Sacid_00989	CDS	981		3.5.1.-	COG0123	Histone deacetylase-like amidohydrolase
+Sacid_00990	CDS	1386				hypothetical protein
+Sacid_00991	CDS	1260				hypothetical protein
+Sacid_00992	CDS	429				hypothetical protein
+Sacid_00993	CDS	2046	cutL_1	1.2.5.3		Carbon monoxide dehydrogenase large chain
+Sacid_00994	CDS	153				hypothetical protein
+Sacid_00995	CDS	810				hypothetical protein
+Sacid_00996	CDS	342				hypothetical protein
+Sacid_00997	CDS	1014	thrC_1	4.2.3.1	COG0498	Threonine synthase
+Sacid_00998	CDS	894	hhoB			Putative serine protease HhoB
+Sacid_00999	CDS	621	ybjG	3.6.1.27	COG0671	Putative undecaprenyl-diphosphatase YbjG
+Sacid_01000	CDS	450				hypothetical protein
+Sacid_01001	CDS	912	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Sacid_01002	CDS	1290	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+Sacid_01003	CDS	432				hypothetical protein
+Sacid_01004	CDS	501	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Sacid_01005	CDS	405				hypothetical protein
+Sacid_01006	CDS	447	hit		COG0537	Protein hit
+Sacid_01007	CDS	1200	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+Sacid_01008	CDS	1260	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01009	CDS	1359	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01010	CDS	879				hypothetical protein
+Sacid_01011	CDS	1056	dppB_1		COG0601	Dipeptide transport system permease protein DppB
+Sacid_01012	CDS	2604				hypothetical protein
+Sacid_01013	CDS	846				hypothetical protein
+Sacid_01014	CDS	312				hypothetical protein
+Sacid_01015	CDS	1902				hypothetical protein
+Sacid_01016	CDS	1104	rsmF_2	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+Sacid_01017	CDS	1395		2.3.1.-		tRNA uridine(34) acetyltransferase
+Sacid_01018	CDS	1395	csbC_1			putative metabolite transport protein CsbC
+Sacid_01019	CDS	165				hypothetical protein
+Sacid_01020	CDS	720				hypothetical protein
+Sacid_01021	CDS	420				hypothetical protein
+Sacid_01022	CDS	225				hypothetical protein
+Sacid_01023	CDS	1650				hypothetical protein
+Sacid_01024	CDS	1299				hypothetical protein
+Sacid_01025	CDS	1503	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]
+Sacid_01026	CDS	321			COG4274	Glutamine synthetase and cystathionine beta-lyase binding protein
+Sacid_01027	CDS	651				hypothetical protein
+Sacid_01028	CDS	1680		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01029	CDS	855				hypothetical protein
+Sacid_01030	CDS	138				hypothetical protein
+Sacid_01031	CDS	195				hypothetical protein
+Sacid_01032	CDS	1413		4.1.2.27	COG0076	putative sphingosine-1-phosphate lyase
+Sacid_01033	CDS	1515	glpK_1	2.7.1.30	COG0554	Glycerol kinase
+Sacid_01034	CDS	1206				hypothetical protein
+Sacid_01035	CDS	864				hypothetical protein
+Sacid_01036	CDS	1713				hypothetical protein
+Sacid_01037	CDS	114				hypothetical protein
+Sacid_01038	CDS	582				hypothetical protein
+Sacid_01039	CDS	537				hypothetical protein
+Sacid_01040	CDS	810		3.3.2.10		Soluble epoxide hydrolase
+Sacid_01041	CDS	798				hypothetical protein
+Sacid_01042	CDS	771	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01043	CDS	618				hypothetical protein
+Sacid_01044	CDS	306				hypothetical protein
+Sacid_01045	CDS	1089		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+Sacid_01046	CDS	438				hypothetical protein
+Sacid_01047	CDS	804				hypothetical protein
+Sacid_01048	CDS	1236	codA	3.5.4.1	COG0402	Cytosine deaminase
+Sacid_01049	CDS	954				hypothetical protein
+Sacid_01050	CDS	324				hypothetical protein
+Sacid_01051	CDS	408				hypothetical protein
+Sacid_01052	CDS	345				hypothetical protein
+Sacid_01053	CDS	810				hypothetical protein
+Sacid_01054	CDS	1191	fadJ_1	5.1.2.3		Fatty acid oxidation complex subunit alpha
+Sacid_01055	CDS	162				hypothetical protein
+Sacid_01056	CDS	1113	adhT_2	1.1.1.1		Alcohol dehydrogenase
+Sacid_01057	CDS	1068				hypothetical protein
+Sacid_01058	CDS	456				hypothetical protein
+Sacid_01059	CDS	183				hypothetical protein
+Sacid_01060	CDS	1518		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01061	CDS	504	mch	4.2.1.148	COG2030	Mesaconyl-CoA hydratase
+Sacid_01062	CDS	1149	yfdE_1	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+Sacid_01063	CDS	987				hypothetical protein
+Sacid_01064	CDS	372				hypothetical protein
+Sacid_01065	CDS	1047	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+Sacid_01066	CDS	339				hypothetical protein
+Sacid_01067	CDS	861	eamA		COG0697	putative amino-acid metabolite efflux pump
+Sacid_01068	CDS	243				hypothetical protein
+Sacid_01069	CDS	165				hypothetical protein
+Sacid_01070	CDS	825				hypothetical protein
+Sacid_01071	CDS	246				hypothetical protein
+Sacid_01072	CDS	870	uvsE	3.-.-.-	COG4294	UV DNA damage endonuclease
+Sacid_01073	CDS	1155	glcA		COG1620	Glycolate permease GlcA
+Sacid_01074	CDS	312	lutP		COG1620	L-lactate permease
+Sacid_01075	CDS	1515	gbsA	1.2.1.8	COG1012	Betaine aldehyde dehydrogenase
+Sacid_01076	CDS	1815	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+Sacid_01077	CDS	897				hypothetical protein
+Sacid_01078	CDS	726	fabL	1.3.1.104		Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+Sacid_01079	CDS	1392	abfD_1	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+Sacid_01080	CDS	759	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+Sacid_01081	CDS	921	aes	3.1.1.-		Acetyl esterase
+Sacid_01082	CDS	1170				hypothetical protein
+Sacid_01083	CDS	588	betI			HTH-type transcriptional regulator BetI
+Sacid_01084	CDS	1122		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+Sacid_01085	CDS	1992	fadJ_2	5.1.2.3		Fatty acid oxidation complex subunit alpha
+Sacid_01086	CDS	921	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+Sacid_01087	CDS	1653		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01088	CDS	927	nrdB	1.-.-.-	COG0208	R2-like ligand binding oxidase
+Sacid_01089	CDS	909				hypothetical protein
+Sacid_01090	CDS	1188	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+Sacid_01091	CDS	1008	adhT_3	1.1.1.1		Alcohol dehydrogenase
+Sacid_01092	CDS	918	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+Sacid_01093	CDS	1497	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+Sacid_01094	CDS	1287	glpA_1	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+Sacid_01095	CDS	441				hypothetical protein
+Sacid_01096	CDS	528				hypothetical protein
+Sacid_01097	CDS	1188		2.3.1.9		putative acetyl-CoA acyltransferase
+Sacid_01098	CDS	1614		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01099	CDS	1203	mmgC_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+Sacid_01100	CDS	342				hypothetical protein
+Sacid_01101	CDS	477	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin
+Sacid_01102	CDS	1653		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01103	CDS	1884	potE			Putrescine transporter PotE
+Sacid_01104	CDS	1656				hypothetical protein
+Sacid_01105	CDS	1239				hypothetical protein
+Sacid_01106	CDS	372				hypothetical protein
+Sacid_01107	CDS	1557				hypothetical protein
+Sacid_01108	CDS	690				hypothetical protein
+Sacid_01109	CDS	1071				hypothetical protein
+Sacid_01110	CDS	1989	fadJ_3	5.1.2.3		Fatty acid oxidation complex subunit alpha
+Sacid_01111	CDS	1416	ydjE_1			Inner membrane metabolite transport protein YdjE
+Sacid_01112	CDS	1677	ilvB_1	2.2.1.6	COG0028	Acetolactate synthase large subunit
+Sacid_01113	CDS	402		1.17.4.-	COG4243	Vitamin K epoxide reductase 
+Sacid_01114	CDS	1398				hypothetical protein
+Sacid_01115	CDS	1566				hypothetical protein
+Sacid_01116	CDS	774				hypothetical protein
+Sacid_01117	CDS	1194				hypothetical protein
+Sacid_01118	CDS	168				hypothetical protein
+Sacid_01119	CDS	357				hypothetical protein
+Sacid_01120	CDS	186				hypothetical protein
+Sacid_01121	CDS	525	cdhA_2	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_01122	CDS	216				hypothetical protein
+Sacid_01123	CDS	3828				hypothetical protein
+Sacid_01124	CDS	1749				hypothetical protein
+Sacid_01125	CDS	1404	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_01126	CDS	297				hypothetical protein
+Sacid_01127	CDS	450				hypothetical protein
+Sacid_01128	CDS	186				hypothetical protein
+Sacid_01129	CDS	549				hypothetical protein
+Sacid_01130	CDS	723				hypothetical protein
+Sacid_01131	CDS	807				hypothetical protein
+Sacid_01132	CDS	1686				hypothetical protein
+Sacid_01133	CDS	1107				hypothetical protein
+Sacid_01134	CDS	174				hypothetical protein
+Sacid_01135	CDS	588				hypothetical protein
+Sacid_01136	CDS	690				hypothetical protein
+Sacid_01137	CDS	1884		2.4.1.161	COG1501	Oligosaccharide 4-alpha-D-glucosyltransferase
+Sacid_01138	CDS	1050				hypothetical protein
+Sacid_01139	CDS	2655				hypothetical protein
+Sacid_01140	CDS	858	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+Sacid_01141	CDS	885	malF		COG1175	Maltose/maltodextrin transport system permease protein MalF
+Sacid_01142	CDS	1443	mdxE		COG2182	Maltodextrin-binding protein MdxE
+Sacid_01143	CDS	1077	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+Sacid_01144	CDS	483				hypothetical protein
+Sacid_01145	CDS	444				hypothetical protein
+Sacid_01146	CDS	984	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+Sacid_01147	CDS	531	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+Sacid_01148	CDS	810				hypothetical protein
+Sacid_01149	CDS	1437				hypothetical protein
+Sacid_01150	CDS	1542				hypothetical protein
+Sacid_01151	CDS	702				hypothetical protein
+Sacid_01152	CDS	495				hypothetical protein
+Sacid_01153	CDS	465				hypothetical protein
+Sacid_01154	CDS	753				hypothetical protein
+Sacid_01155	CDS	906				hypothetical protein
+Sacid_01156	CDS	378				hypothetical protein
+Sacid_01157	CDS	810				hypothetical protein
+Sacid_01158	CDS	1866				hypothetical protein
+Sacid_01159	CDS	1434	stp			Multidrug resistance protein Stp
+Sacid_01160	CDS	2910				hypothetical protein
+Sacid_01161	CDS	99				hypothetical protein
+Sacid_01162	CDS	1965	acsA_3	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_01163	CDS	1032				hypothetical protein
+Sacid_01164	CDS	285				hypothetical protein
+Sacid_01165	CDS	936	rihA_2	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+Sacid_01166	CDS	1362		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Sacid_01167	CDS	861				hypothetical protein
+Sacid_01168	CDS	474	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Sacid_01169	CDS	1095	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+Sacid_01170	CDS	345				hypothetical protein
+Sacid_01171	CDS	1992	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+Sacid_01172	CDS	177				hypothetical protein
+Sacid_01173	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+Sacid_01174	CDS	819	IMPDH_5	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_01175	CDS	1833				hypothetical protein
+Sacid_01176	CDS	1854				hypothetical protein
+Sacid_01177	CDS	1254	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Sacid_01178	CDS	1335				hypothetical protein
+Sacid_01179	CDS	1701	glgA_1	2.4.1.21	COG0297	Glycogen synthase
+Sacid_01180	CDS	603	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+Sacid_01181	CDS	1620	groL_2		COG0459	60 kDa chaperonin
+Sacid_01182	CDS	318				hypothetical protein
+Sacid_01183	CDS	606				hypothetical protein
+Sacid_01184	CDS	381				hypothetical protein
+Sacid_01185	CDS	708				hypothetical protein
+Sacid_01186	CDS	1083				hypothetical protein
+Sacid_01187	CDS	621				hypothetical protein
+Sacid_01188	CDS	1143				hypothetical protein
+Sacid_01189	CDS	165				hypothetical protein
+Sacid_01190	CDS	1257				hypothetical protein
+Sacid_01191	CDS	2547	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+Sacid_01192	CDS	1290				hypothetical protein
+Sacid_01193	CDS	474				hypothetical protein
+Sacid_01194	CDS	300				hypothetical protein
+Sacid_01195	CDS	378				hypothetical protein
+Sacid_01196	CDS	384				hypothetical protein
+Sacid_01197	CDS	996	btuF_1			Vitamin B12-binding protein
+Sacid_01198	CDS	999			COG0609	putative ABC transporter permease protein
+Sacid_01199	CDS	660	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01200	CDS	372				hypothetical protein
+Sacid_01201	CDS	240				hypothetical protein
+Sacid_01202	CDS	330				hypothetical protein
+Sacid_01203	CDS	531				hypothetical protein
+Sacid_01204	CDS	1293	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+Sacid_01205	CDS	1356				hypothetical protein
+Sacid_01206	CDS	504				hypothetical protein
+Sacid_01207	CDS	657	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+Sacid_01208	CDS	1647				hypothetical protein
+Sacid_01209	CDS	768		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+Sacid_01210	CDS	534				hypothetical protein
+Sacid_01211	CDS	411			COG0662	Oxalate-binding protein
+Sacid_01212	CDS	246				hypothetical protein
+Sacid_01213	CDS	393				hypothetical protein
+Sacid_01214	CDS	345				hypothetical protein
+Sacid_01215	CDS	624				hypothetical protein
+Sacid_01216	CDS	753				hypothetical protein
+Sacid_01217	CDS	1284	thi4_3	2.4.2.59		Thiamine thiazole synthase
+Sacid_01218	CDS	423				hypothetical protein
+Sacid_01219	CDS	333				hypothetical protein
+Sacid_01220	CDS	603				hypothetical protein
+Sacid_01221	CDS	972				hypothetical protein
+Sacid_01222	CDS	978				hypothetical protein
+Sacid_01223	CDS	1197				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Sacid_01224	CDS	711	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+Sacid_01225	CDS	198				hypothetical protein
+Sacid_01226	CDS	1335	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Sacid_01227	CDS	1731		3.2.1.28	COG3387	Trehalase
+Sacid_01228	CDS	393				hypothetical protein
+Sacid_01229	CDS	546			COG2110	putative protein
+Sacid_01230	CDS	795				hypothetical protein
+Sacid_01231	CDS	537				hypothetical protein
+Sacid_01232	CDS	576		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+Sacid_01233	CDS	1188				hypothetical protein
+Sacid_01234	CDS	399		3.1.-.-	COG0824	Putative esterase
+Sacid_01235	tRNA	75				tRNA-Thr(ggt)
+Sacid_01236	CDS	204				hypothetical protein
+Sacid_01237	CDS	696	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+Sacid_01238	CDS	468	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+Sacid_01239	CDS	1659				hypothetical protein
+Sacid_01240	CDS	984	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Sacid_01241	CDS	717	nth_1	4.2.99.18		Endonuclease III
+Sacid_01242	CDS	1014	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+Sacid_01243	CDS	771	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+Sacid_01244	CDS	1041				hypothetical protein
+Sacid_01245	tRNA	76				tRNA-Ile(gat)
+Sacid_01246	CDS	621				hypothetical protein
+Sacid_01247	CDS	894				hypothetical protein
+Sacid_01248	CDS	654				hypothetical protein
+Sacid_01249	CDS	810				hypothetical protein
+Sacid_01250	tRNA	75				tRNA-Ala(tgc)
+Sacid_01251	CDS	2265				hypothetical protein
+Sacid_01252	CDS	792				hypothetical protein
+Sacid_01253	CDS	201				hypothetical protein
+Sacid_01254	CDS	288				hypothetical protein
+Sacid_01255	CDS	462				hypothetical protein
+Sacid_01256	CDS	969				hypothetical protein
+Sacid_01257	CDS	738				hypothetical protein
+Sacid_01258	CDS	765				hypothetical protein
+Sacid_01259	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Sacid_01260	CDS	906				hypothetical protein
+Sacid_01261	CDS	879	rbn_2	3.1.-.-	COG1234	Ribonuclease BN
+Sacid_01262	CDS	438				hypothetical protein
+Sacid_01263	CDS	501				hypothetical protein
+Sacid_01264	CDS	588		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+Sacid_01265	CDS	1251				hypothetical protein
+Sacid_01266	CDS	609				hypothetical protein
+Sacid_01267	CDS	210				hypothetical protein
+Sacid_01268	CDS	2151	nanM	5.1.3.24		N-acetylneuraminate epimerase
+Sacid_01269	CDS	693		1.-.-.-		putative oxidoreductase
+Sacid_01270	CDS	690	ycfH_2	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Sacid_01271	CDS	402				hypothetical protein
+Sacid_01272	CDS	708	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+Sacid_01273	CDS	1413				hypothetical protein
+Sacid_01274	CDS	543				hypothetical protein
+Sacid_01275	rRNA	2962				23S ribosomal RNA
+Sacid_01276	rRNA	1488				16S ribosomal RNA
+Sacid_01277	CDS	663	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+Sacid_01278	CDS	1302				hypothetical protein
+Sacid_01279	tRNA	88				tRNA-Leu(caa)
+Sacid_01280	CDS	1407		2.3.3.14		Homocitrate synthase
+Sacid_01281	CDS	276				hypothetical protein
+Sacid_01282	CDS	684	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Sacid_01283	CDS	189				hypothetical protein
+Sacid_01284	CDS	798	fabG_5	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sacid_01285	CDS	1077				hypothetical protein
+Sacid_01286	CDS	1335	ffh		COG0541	Signal recognition particle protein
+Sacid_01287	CDS	396	efp			Elongation factor P
+Sacid_01288	CDS	1161	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+Sacid_01289	CDS	1599	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+Sacid_01290	CDS	936		2.5.-.-		Deoxyhypusine synthase-like protein
+Sacid_01291	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+Sacid_01292	CDS	240				hypothetical protein
+Sacid_01293	CDS	2814	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+Sacid_01294	CDS	273				hypothetical protein
+Sacid_01295	CDS	3462	rgy_3		COG1110	Reverse gyrase
+Sacid_01296	CDS	294				hypothetical protein
+Sacid_01297	CDS	327				hypothetical protein
+Sacid_01298	CDS	276				hypothetical protein
+Sacid_01299	CDS	510				hypothetical protein
+Sacid_01300	CDS	1404				hypothetical protein
+Sacid_01301	CDS	378				hypothetical protein
+Sacid_01302	CDS	333	cutA		COG1324	Divalent-cation tolerance protein CutA
+Sacid_01303	CDS	294	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+Sacid_01304	CDS	1440	gatA_3	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Sacid_01305	CDS	1077				hypothetical protein
+Sacid_01306	CDS	480				hypothetical protein
+Sacid_01307	CDS	687	hldE	2.7.7.70		Bifunctional protein HldE
+Sacid_01308	CDS	756				hypothetical protein
+Sacid_01309	CDS	765				hypothetical protein
+Sacid_01310	CDS	534				hypothetical protein
+Sacid_01311	CDS	228				hypothetical protein
+Sacid_01312	CDS	1062				hypothetical protein
+Sacid_01313	CDS	942				hypothetical protein
+Sacid_01314	CDS	273				hypothetical protein
+Sacid_01315	CDS	876				hypothetical protein
+Sacid_01316	CDS	417				hypothetical protein
+Sacid_01317	CDS	1149	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+Sacid_01318	CDS	918				hypothetical protein
+Sacid_01319	CDS	429				hypothetical protein
+Sacid_01320	CDS	696				hypothetical protein
+Sacid_01321	CDS	1239				hypothetical protein
+Sacid_01322	CDS	165				hypothetical protein
+Sacid_01323	CDS	1341				hypothetical protein
+Sacid_01324	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+Sacid_01325	CDS	1059				hypothetical protein
+Sacid_01326	CDS	399				hypothetical protein
+Sacid_01327	CDS	2514	nrdZ	1.17.4.1	COG0209	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+Sacid_01328	CDS	747				hypothetical protein
+Sacid_01329	CDS	1248	pgk/tpi		COG0126	Bifunctional PGK/TIM
+Sacid_01330	CDS	1032				hypothetical protein
+Sacid_01331	CDS	408				hypothetical protein
+Sacid_01332	CDS	1302	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Sacid_01333	CDS	1236				hypothetical protein
+Sacid_01334	CDS	414				hypothetical protein
+Sacid_01335	CDS	1095				hypothetical protein
+Sacid_01336	CDS	1047	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+Sacid_01337	CDS	393	speH_1	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+Sacid_01338	CDS	840				hypothetical protein
+Sacid_01339	CDS	522				hypothetical protein
+Sacid_01340	CDS	612	ogg		COG1059	putative N-glycosylase/DNA lyase
+Sacid_01341	CDS	948		1.1.1.81	COG0111	Hydroxypyruvate reductase
+Sacid_01342	CDS	1116		1.12.-.-		Soluble hydrogenase 42 kDa subunit
+Sacid_01343	CDS	270				hypothetical protein
+Sacid_01344	CDS	2007	topA	5.6.2.1		DNA topoisomerase 1
+Sacid_01345	CDS	1125	ftsH_6	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+Sacid_01346	CDS	786				hypothetical protein
+Sacid_01347	CDS	717				hypothetical protein
+Sacid_01348	CDS	249				hypothetical protein
+Sacid_01349	CDS	1251	eno	4.2.1.11	COG0148	Enolase
+Sacid_01350	CDS	312				hypothetical protein
+Sacid_01351	CDS	318				hypothetical protein
+Sacid_01352	CDS	414				hypothetical protein
+Sacid_01353	CDS	1518	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+Sacid_01354	CDS	1356	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+Sacid_01355	CDS	1056	gcvT	2.1.2.10		Aminomethyltransferase
+Sacid_01356	CDS	417	gcvH_3		COG0509	Glycine cleavage system H protein
+Sacid_01357	CDS	747				hypothetical protein
+Sacid_01358	CDS	375				hypothetical protein
+Sacid_01359	CDS	1002				hypothetical protein
+Sacid_01360	CDS	747	sufC		COG0396	Vegetative protein 296
+Sacid_01361	CDS	1440				hypothetical protein
+Sacid_01362	CDS	1170				hypothetical protein
+Sacid_01363	CDS	132				hypothetical protein
+Sacid_01364	CDS	999	adhT_4	1.1.1.1		Alcohol dehydrogenase
+Sacid_01365	tRNA	76				tRNA-Arg(tcg)
+Sacid_01366	CDS	1857	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Sacid_01367	CDS	198				hypothetical protein
+Sacid_01368	CDS	291				hypothetical protein
+Sacid_01369	CDS	315				hypothetical protein
+Sacid_01370	CDS	345				hypothetical protein
+Sacid_01371	CDS	1677	groL_3		COG0459	60 kDa chaperonin
+Sacid_01372	CDS	741				hypothetical protein
+Sacid_01373	CDS	822				hypothetical protein
+Sacid_01374	CDS	345				hypothetical protein
+Sacid_01375	CDS	720				hypothetical protein
+Sacid_01376	CDS	1083				hypothetical protein
+Sacid_01377	CDS	621				hypothetical protein
+Sacid_01378	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Sacid_01379	CDS	1233				hypothetical protein
+Sacid_01380	CDS	672				hypothetical protein
+Sacid_01381	CDS	1053	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Sacid_01382	CDS	1344	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+Sacid_01383	CDS	1179	thrC_2	4.2.3.1	COG0498	Threonine synthase
+Sacid_01384	CDS	1452	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Sacid_01385	CDS	288				hypothetical protein
+Sacid_01386	CDS	660				hypothetical protein
+Sacid_01387	CDS	2379	ppsA	2.7.9.2		Phosphoenolpyruvate synthase
+Sacid_01388	CDS	282				hypothetical protein
+Sacid_01389	CDS	1077	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+Sacid_01390	CDS	312	acyP	3.6.1.7	COG1254	Acylphosphatase
+Sacid_01391	CDS	1275	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Sacid_01392	CDS	738	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Sacid_01393	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+Sacid_01394	CDS	600	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+Sacid_01395	CDS	1299	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Sacid_01396	CDS	603	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+Sacid_01397	CDS	747	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+Sacid_01398	CDS	1203		2.6.1.1		Aspartate aminotransferase
+Sacid_01399	CDS	2496	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+Sacid_01400	CDS	990				hypothetical protein
+Sacid_01401	CDS	393				hypothetical protein
+Sacid_01402	CDS	321				hypothetical protein
+Sacid_01403	CDS	333				hypothetical protein
+Sacid_01404	CDS	219				hypothetical protein
+Sacid_01405	CDS	300				hypothetical protein
+Sacid_01406	CDS	288	treY_1	5.4.99.15		Maltooligosyl trehalose synthase
+Sacid_01407	CDS	1605	treY_2	5.4.99.15		Maltooligosyl trehalose synthase
+Sacid_01408	CDS	2142	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+Sacid_01409	CDS	1671	treZ	3.2.1.141	COG0296	Malto-oligosyltrehalose trehalohydrolase
+Sacid_01410	tRNA	78				tRNA-Gln(ttg)
+Sacid_01411	CDS	525				hypothetical protein
+Sacid_01412	CDS	600				hypothetical protein
+Sacid_01413	CDS	483				hypothetical protein
+Sacid_01414	CDS	1029				hypothetical protein
+Sacid_01415	CDS	141				hypothetical protein
+Sacid_01416	CDS	1545				hypothetical protein
+Sacid_01417	CDS	357				hypothetical protein
+Sacid_01418	CDS	1146				hypothetical protein
+Sacid_01419	tRNA	75				tRNA-Gln(ttg)
+Sacid_01420	CDS	357				hypothetical protein
+Sacid_01421	CDS	609				hypothetical protein
+Sacid_01422	CDS	2724	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+Sacid_01423	CDS	318				hypothetical protein
+Sacid_01424	CDS	1008				hypothetical protein
+Sacid_01425	CDS	666	rplA		COG0081	50S ribosomal protein L1
+Sacid_01426	CDS	513				hypothetical protein
+Sacid_01427	CDS	459				hypothetical protein
+Sacid_01428	CDS	198				hypothetical protein
+Sacid_01429	CDS	627	ftsY		COG0552	Signal recognition particle receptor FtsY
+Sacid_01430	CDS	441	pfdA			Prefoldin subunit alpha
+Sacid_01431	CDS	261				hypothetical protein
+Sacid_01432	CDS	672				hypothetical protein
+Sacid_01433	CDS	390				hypothetical protein
+Sacid_01434	CDS	162				hypothetical protein
+Sacid_01435	CDS	291				hypothetical protein
+Sacid_01436	CDS	465				hypothetical protein
+Sacid_01437	CDS	1173	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+Sacid_01438	CDS	1053				hypothetical protein
+Sacid_01439	CDS	990				hypothetical protein
+Sacid_01440	CDS	396				hypothetical protein
+Sacid_01441	CDS	222				hypothetical protein
+Sacid_01442	CDS	888	cysM	2.5.1.47	COG0031	Cysteine synthase B
+Sacid_01443	CDS	156				hypothetical protein
+Sacid_01444	CDS	675				hypothetical protein
+Sacid_01445	CDS	165				hypothetical protein
+Sacid_01446	CDS	942	moaA_3	4.1.99.22	COG2896	GTP 3',8-cyclase
+Sacid_01447	CDS	1098		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+Sacid_01448	CDS	630	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+Sacid_01449	CDS	903				hypothetical protein
+Sacid_01450	CDS	1422	glnA	6.3.1.2	COG0174	Glutamine synthetase
+Sacid_01451	CDS	615	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+Sacid_01452	CDS	426				hypothetical protein
+Sacid_01453	CDS	870				hypothetical protein
+Sacid_01454	CDS	1050	rsmB_1	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+Sacid_01455	CDS	510	yrdA		COG0663	Protein YrdA
+Sacid_01456	CDS	972	pqqE_2	1.21.98.4		PqqA peptide cyclase
+Sacid_01457	CDS	864	xerD		COG4974	Tyrosine recombinase XerD
+Sacid_01458	CDS	876				hypothetical protein
+Sacid_01459	CDS	660				hypothetical protein
+Sacid_01460	CDS	2028				hypothetical protein
+Sacid_01461	CDS	1410				hypothetical protein
+Sacid_01462	CDS	1476				hypothetical protein
+Sacid_01463	CDS	432				hypothetical protein
+Sacid_01464	CDS	348				hypothetical protein
+Sacid_01465	CDS	678	nth_2	4.2.99.18	COG0177	Endonuclease III
+Sacid_01466	CDS	600				hypothetical protein
+Sacid_01467	CDS	1395	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Sacid_01468	CDS	2631	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+Sacid_01469	CDS	333				hypothetical protein
+Sacid_01470	CDS	903	IMPDH_6	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Sacid_01471	CDS	687				hypothetical protein
+Sacid_01472	CDS	393				hypothetical protein
+Sacid_01473	CDS	327				hypothetical protein
+Sacid_01474	CDS	882				hypothetical protein
+Sacid_01475	CDS	1200	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+Sacid_01476	CDS	795	cinA_2			Putative competence-damage inducible protein
+Sacid_01477	CDS	540	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Sacid_01478	CDS	1629				hypothetical protein
+Sacid_01479	CDS	1398				hypothetical protein
+Sacid_01480	CDS	684				hypothetical protein
+Sacid_01481	CDS	900		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+Sacid_01482	CDS	1137				hypothetical protein
+Sacid_01483	CDS	201				hypothetical protein
+Sacid_01484	CDS	1203				hypothetical protein
+Sacid_01485	CDS	684	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+Sacid_01486	CDS	1704	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Sacid_01487	CDS	390				hypothetical protein
+Sacid_01488	CDS	1443	ydjE_2			Inner membrane metabolite transport protein YdjE
+Sacid_01489	tRNA	77				tRNA-Arg(gcg)
+Sacid_01490	CDS	2055				hypothetical protein
+Sacid_01491	CDS	354				hypothetical protein
+Sacid_01492	CDS	324				hypothetical protein
+Sacid_01493	CDS	315				hypothetical protein
+Sacid_01494	CDS	177				hypothetical protein
+Sacid_01495	CDS	384				hypothetical protein
+Sacid_01496	CDS	192				hypothetical protein
+Sacid_01497	CDS	855				hypothetical protein
+Sacid_01498	CDS	210				hypothetical protein
+Sacid_01499	CDS	384				hypothetical protein
+Sacid_01500	CDS	1923				hypothetical protein
+Sacid_01501	CDS	1383				hypothetical protein
+Sacid_01502	CDS	720	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+Sacid_01503	CDS	2631				hypothetical protein
+Sacid_01504	CDS	444				hypothetical protein
+Sacid_01505	CDS	495				hypothetical protein
+Sacid_01506	CDS	321				hypothetical protein
+Sacid_01507	CDS	579		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+Sacid_01508	CDS	933				hypothetical protein
+Sacid_01509	CDS	1716	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+Sacid_01510	CDS	2106				hypothetical protein
+Sacid_01511	CDS	303	atpF			V-type ATP synthase subunit F
+Sacid_01512	CDS	579	atpE			V-type proton ATPase subunit E
+Sacid_01513	CDS	1779	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+Sacid_01514	CDS	1389	ntpB			V-type sodium ATPase subunit B
+Sacid_01515	CDS	630	atpD		COG1394	V-type ATP synthase subunit D
+Sacid_01516	CDS	162				hypothetical protein
+Sacid_01517	CDS	306				hypothetical protein
+Sacid_01518	CDS	1452	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Sacid_01519	CDS	288				hypothetical protein
+Sacid_01520	CDS	1011	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+Sacid_01521	CDS	603	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+Sacid_01522	CDS	1533				hypothetical protein
+Sacid_01523	CDS	450				hypothetical protein
+Sacid_01524	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+Sacid_01525	CDS	396				hypothetical protein
+Sacid_01526	CDS	1719	ilvB_2	2.2.1.6	COG0028	Acetolactate synthase large subunit
+Sacid_01527	CDS	534				hypothetical protein
+Sacid_01528	CDS	780	rbgA		COG1161	Ribosome biogenesis GTPase A
+Sacid_01529	CDS	951				hypothetical protein
+Sacid_01530	CDS	828	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+Sacid_01531	CDS	213				hypothetical protein
+Sacid_01532	CDS	882				hypothetical protein
+Sacid_01533	CDS	366	speH_2	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+Sacid_01534	CDS	315				hypothetical protein
+Sacid_01535	CDS	963	ttuA_2	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+Sacid_01536	CDS	534	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+Sacid_01537	CDS	2655	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+Sacid_01538	CDS	606				hypothetical protein
+Sacid_01539	CDS	1083	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+Sacid_01540	CDS	858	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Sacid_01541	CDS	681	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Sacid_01542	CDS	582	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+Sacid_01543	CDS	750	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Sacid_01544	CDS	1182	hisD	1.1.1.23		Histidinol dehydrogenase
+Sacid_01545	CDS	288	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+Sacid_01546	CDS	600	hisH	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisH
+Sacid_01547	CDS	360	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+Sacid_01548	CDS	405				hypothetical protein
+Sacid_01549	CDS	1377	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Sacid_01550	CDS	1470	miaB_2	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Sacid_01551	CDS	243				hypothetical protein
+Sacid_01552	CDS	300				hypothetical protein
+Sacid_01553	CDS	468	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+Sacid_01554	CDS	612				hypothetical protein
+Sacid_01555	CDS	309				hypothetical protein
+Sacid_01556	CDS	312				hypothetical protein
+Sacid_01557	CDS	876	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+Sacid_01558	CDS	1170	pyrC	3.5.2.3	COG0044	Dihydroorotase
+Sacid_01559	CDS	624				hypothetical protein
+Sacid_01560	CDS	507	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+Sacid_01561	CDS	900	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+Sacid_01562	CDS	594	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+Sacid_01563	CDS	660	pyrF			Orotidine 5'-phosphate decarboxylase
+Sacid_01564	CDS	657				hypothetical protein
+Sacid_01565	CDS	1011				hypothetical protein
+Sacid_01566	CDS	510				hypothetical protein
+Sacid_01567	CDS	405				hypothetical protein
+Sacid_01568	CDS	633				hypothetical protein
+Sacid_01569	CDS	636	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Sacid_01570	CDS	990	obg	3.6.5.-		GTPase Obg
+Sacid_01571	CDS	342	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+Sacid_01572	CDS	708	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Sacid_01573	CDS	279	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+Sacid_01574	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+Sacid_01575	CDS	2106	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+Sacid_01576	CDS	1335	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Sacid_01577	CDS	1215	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Sacid_01578	CDS	1449	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Sacid_01579	CDS	966	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Sacid_01580	CDS	447				hypothetical protein
+Sacid_01581	CDS	159				hypothetical protein
+Sacid_01582	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+Sacid_01583	CDS	1344	argH	4.3.2.1		Argininosuccinate lyase
+Sacid_01584	CDS	1116	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+Sacid_01585	CDS	3159	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+Sacid_01586	CDS	849	lysX_3	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+Sacid_01587	CDS	588				hypothetical protein
+Sacid_01588	CDS	963	lcdH	1.1.1.108	COG1250	L-carnitine dehydrogenase
+Sacid_01589	CDS	567				hypothetical protein
+Sacid_01590	CDS	573				hypothetical protein
+Sacid_01591	CDS	390				hypothetical protein
+Sacid_01592	CDS	489				hypothetical protein
+Sacid_01593	CDS	369				hypothetical protein
+Sacid_01594	CDS	348				hypothetical protein
+Sacid_01595	CDS	1056				hypothetical protein
+Sacid_01596	CDS	774	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+Sacid_01597	CDS	552				hypothetical protein
+Sacid_01598	CDS	858	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+Sacid_01599	CDS	804	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+Sacid_01600	CDS	669				hypothetical protein
+Sacid_01601	CDS	1347	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Sacid_01602	CDS	1248				hypothetical protein
+Sacid_01603	CDS	435	nhaX_2		COG0589	Stress response protein NhaX
+Sacid_01604	CDS	693	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+Sacid_01605	CDS	1059	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+Sacid_01606	CDS	516	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+Sacid_01607	CDS	1149	dapE_2	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+Sacid_01608	CDS	1065				hypothetical protein
+Sacid_01609	CDS	1413	ribZ_1			Riboflavin transporter RibZ
+Sacid_01610	CDS	1326	pyk	2.7.1.40	COG0469	Pyruvate kinase
+Sacid_01611	CDS	480				hypothetical protein
+Sacid_01612	CDS	324				hypothetical protein
+Sacid_01613	CDS	582	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Sacid_01614	CDS	207				hypothetical protein
+Sacid_01615	CDS	681				hypothetical protein
+Sacid_01616	CDS	1104	dadA1	1.4.99.-	COG0665	D-amino acid dehydrogenase 1
+Sacid_01617	CDS	522				hypothetical protein
+Sacid_01618	CDS	1437				hypothetical protein
+Sacid_01619	CDS	1332				hypothetical protein
+Sacid_01620	CDS	843				hypothetical protein
+Sacid_01621	CDS	516				hypothetical protein
+Sacid_01622	CDS	405				hypothetical protein
+Sacid_01623	CDS	1473	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+Sacid_01624	CDS	135				hypothetical protein
+Sacid_01625	CDS	3459				hypothetical protein
+Sacid_01626	CDS	606				hypothetical protein
+Sacid_01627	CDS	1479	ubiB	2.7.-.-		protein kinase UbiB
+Sacid_01628	CDS	381				hypothetical protein
+Sacid_01629	CDS	861				hypothetical protein
+Sacid_01630	CDS	1167	lutB		COG1139	Lactate utilization protein B
+Sacid_01631	CDS	1755				hypothetical protein
+Sacid_01632	CDS	1668	mdtD_1			Putative multidrug resistance protein MdtD
+Sacid_01633	CDS	423	hpr			HTH-type transcriptional regulator Hpr
+Sacid_01634	CDS	1080				hypothetical protein
+Sacid_01635	CDS	477	dcd_2	3.5.4.13		dCTP deaminase, dUMP-forming
+Sacid_01636	CDS	540				hypothetical protein
+Sacid_01637	CDS	828		3.1.1.99		6-deoxy-6-sulfogluconolactonase
+Sacid_01638	CDS	120				hypothetical protein
+Sacid_01639	CDS	789	htpX_3	3.4.24.-		Protease HtpX
+Sacid_01640	CDS	678				hypothetical protein
+Sacid_01641	CDS	879				hypothetical protein
+Sacid_01642	CDS	636				hypothetical protein
+Sacid_01643	CDS	1758				hypothetical protein
+Sacid_01644	CDS	531				hypothetical protein
+Sacid_01645	CDS	1797				hypothetical protein
+Sacid_01646	CDS	567				hypothetical protein
+Sacid_01647	CDS	1383				hypothetical protein
+Sacid_01648	CDS	255				hypothetical protein
+Sacid_01649	CDS	1341				hypothetical protein
+Sacid_01650	CDS	1407				hypothetical protein
+Sacid_01651	CDS	483				hypothetical protein
+Sacid_01652	CDS	534				hypothetical protein
+Sacid_01653	CDS	768				hypothetical protein
+Sacid_01654	CDS	996	adhT_5	1.1.1.1		Alcohol dehydrogenase
+Sacid_01655	CDS	939				hypothetical protein
+Sacid_01656	CDS	282				hypothetical protein
+Sacid_01657	CDS	927				hypothetical protein
+Sacid_01658	CDS	1242	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+Sacid_01659	CDS	297				hypothetical protein
+Sacid_01660	CDS	450				hypothetical protein
+Sacid_01661	CDS	1131	oxlT_2			Oxalate:formate antiporter
+Sacid_01662	CDS	687				hypothetical protein
+Sacid_01663	CDS	852	drrA_3	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Sacid_01664	CDS	1434	aldHT_1	1.2.1.5		Aldehyde dehydrogenase, thermostable
+Sacid_01665	CDS	1452	adeQ		COG2252	Adenine permease AdeQ
+Sacid_01666	CDS	966	norW_1	1.18.1.-	COG1251	Nitric oxide reductase FlRd-NAD(+) reductase
+Sacid_01667	CDS	1119	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Sacid_01668	CDS	930	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+Sacid_01669	CDS	849	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+Sacid_01670	CDS	555	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+Sacid_01671	CDS	1134				hypothetical protein
+Sacid_01672	CDS	1374	merA	1.16.1.1		Mercuric reductase
+Sacid_01673	CDS	399				hypothetical protein
+Sacid_01674	CDS	1764	clcB			Voltage-gated ClC-type chloride channel ClcB
+Sacid_01675	CDS	600				hypothetical protein
+Sacid_01676	CDS	1173		1.3.99.-	COG1960	Acyl-CoA dehydrogenase fadE12
+Sacid_01677	CDS	1023				hypothetical protein
+Sacid_01678	CDS	1686	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+Sacid_01679	CDS	201				hypothetical protein
+Sacid_01680	CDS	561				hypothetical protein
+Sacid_01681	CDS	189				hypothetical protein
+Sacid_01682	CDS	783				hypothetical protein
+Sacid_01683	CDS	120				hypothetical protein
+Sacid_01684	CDS	666				hypothetical protein
+Sacid_01685	CDS	447				hypothetical protein
+Sacid_01686	CDS	561				hypothetical protein
+Sacid_01687	CDS	933				hypothetical protein
+Sacid_01688	CDS	1482				hypothetical protein
+Sacid_01689	CDS	1440	nanT			Sialic acid transporter NanT
+Sacid_01690	CDS	990	yfdE_2	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+Sacid_01691	CDS	819				hypothetical protein
+Sacid_01692	CDS	1131				hypothetical protein
+Sacid_01693	CDS	270				hypothetical protein
+Sacid_01694	CDS	801				hypothetical protein
+Sacid_01695	CDS	1332	abaF_2			Fosfomycin resistance protein AbaF
+Sacid_01696	CDS	1239	carA2	1.3.99.29	COG1233	zeta-carotene-forming phytoene desaturase
+Sacid_01697	CDS	465				hypothetical protein
+Sacid_01698	CDS	828	crtB	2.5.1.32		15-cis-phytoene synthase
+Sacid_01699	CDS	648				hypothetical protein
+Sacid_01700	CDS	879				hypothetical protein
+Sacid_01701	CDS	1569				hypothetical protein
+Sacid_01702	CDS	1407	gabD	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)]
+Sacid_01703	CDS	819				hypothetical protein
+Sacid_01704	CDS	417				hypothetical protein
+Sacid_01705	CDS	420				hypothetical protein
+Sacid_01706	CDS	2094	cdhA_3	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_01707	CDS	1473	mdlC	4.1.1.7		Benzoylformate decarboxylase
+Sacid_01708	CDS	192				hypothetical protein
+Sacid_01709	CDS	1581	mctP_2			Monocarboxylate transport permease protein
+Sacid_01710	CDS	1068				hypothetical protein
+Sacid_01711	CDS	690				hypothetical protein
+Sacid_01712	CDS	417				hypothetical protein
+Sacid_01713	CDS	921				hypothetical protein
+Sacid_01714	CDS	477				hypothetical protein
+Sacid_01715	CDS	285				hypothetical protein
+Sacid_01716	CDS	438				hypothetical protein
+Sacid_01717	CDS	285				hypothetical protein
+Sacid_01718	CDS	123				hypothetical protein
+Sacid_01719	CDS	441				hypothetical protein
+Sacid_01720	CDS	1041				hypothetical protein
+Sacid_01721	CDS	657	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+Sacid_01722	CDS	1302	dapE_3	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+Sacid_01723	CDS	348				hypothetical protein
+Sacid_01724	CDS	1149				hypothetical protein
+Sacid_01725	CDS	2298				hypothetical protein
+Sacid_01726	CDS	1188				hypothetical protein
+Sacid_01727	CDS	99				hypothetical protein
+Sacid_01728	CDS	1059	dppB_2		COG0601	Dipeptide transport system permease protein DppB
+Sacid_01729	CDS	1428				hypothetical protein
+Sacid_01730	CDS	993	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+Sacid_01731	CDS	942	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+Sacid_01732	CDS	513				hypothetical protein
+Sacid_01733	CDS	924				hypothetical protein
+Sacid_01734	CDS	537	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Sacid_01735	CDS	1986				hypothetical protein
+Sacid_01736	CDS	696				hypothetical protein
+Sacid_01737	CDS	771	boxB	1.14.13.208		Benzoyl-CoA oxygenase component B
+Sacid_01738	CDS	804	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+Sacid_01739	CDS	1287				hypothetical protein
+Sacid_01740	CDS	1581	bclA	6.2.1.25		Benzoate--CoA ligase
+Sacid_01741	CDS	150				hypothetical protein
+Sacid_01742	CDS	789	paaX		COG3327	Transcriptional repressor PaaX
+Sacid_01743	CDS	354				hypothetical protein
+Sacid_01744	CDS	2454	quiP	3.5.1.97	COG2366	Acyl-homoserine lactone acylase QuiP
+Sacid_01745	CDS	1677				hypothetical protein
+Sacid_01746	CDS	1542		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01747	CDS	606	pcp	3.4.19.3	COG2039	Pyrrolidone-carboxylate peptidase
+Sacid_01748	CDS	1203			COG1228	putative protein
+Sacid_01749	CDS	1479	csbC_2			putative metabolite transport protein CsbC
+Sacid_01750	CDS	1551				hypothetical protein
+Sacid_01751	CDS	1602	bchE	1.21.98.3		Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+Sacid_01752	CDS	336				hypothetical protein
+Sacid_01753	CDS	300				hypothetical protein
+Sacid_01754	CDS	2319				hypothetical protein
+Sacid_01755	CDS	1236				hypothetical protein
+Sacid_01756	CDS	411				hypothetical protein
+Sacid_01757	CDS	267				hypothetical protein
+Sacid_01758	CDS	915	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+Sacid_01759	CDS	270				hypothetical protein
+Sacid_01760	CDS	714				hypothetical protein
+Sacid_01761	CDS	1107				hypothetical protein
+Sacid_01762	CDS	411				hypothetical protein
+Sacid_01763	CDS	882				hypothetical protein
+Sacid_01764	CDS	99				hypothetical protein
+Sacid_01765	CDS	321				hypothetical protein
+Sacid_01766	CDS	483				hypothetical protein
+Sacid_01767	CDS	882				hypothetical protein
+Sacid_01768	CDS	930	btuD_8	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01769	CDS	804				hypothetical protein
+Sacid_01770	CDS	393				hypothetical protein
+Sacid_01771	CDS	1926				hypothetical protein
+Sacid_01772	CDS	711				putative protein
+Sacid_01773	CDS	339				hypothetical protein
+Sacid_01774	CDS	891				hypothetical protein
+Sacid_01775	CDS	1113	abaF_3			Fosfomycin resistance protein AbaF
+Sacid_01776	CDS	639	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+Sacid_01777	CDS	1284				hypothetical protein
+Sacid_01778	CDS	1002	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+Sacid_01779	CDS	1578	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+Sacid_01780	CDS	717				hypothetical protein
+Sacid_01781	CDS	234				hypothetical protein
+Sacid_01782	CDS	423				hypothetical protein
+Sacid_01783	CDS	393				hypothetical protein
+Sacid_01784	CDS	336				hypothetical protein
+Sacid_01785	CDS	1668		3.2.1.28	COG3387	Trehalase
+Sacid_01786	CDS	624				hypothetical protein
+Sacid_01787	CDS	1140				hypothetical protein
+Sacid_01788	CDS	816				hypothetical protein
+Sacid_01789	CDS	1212	mntH_1			Divalent metal cation transporter MntH
+Sacid_01790	CDS	591				hypothetical protein
+Sacid_01791	CDS	333				hypothetical protein
+Sacid_01792	CDS	426				hypothetical protein
+Sacid_01793	CDS	588				hypothetical protein
+Sacid_01794	CDS	513				hypothetical protein
+Sacid_01795	CDS	657				hypothetical protein
+Sacid_01796	CDS	1206	treT	2.4.1.245		Trehalose synthase
+Sacid_01797	CDS	1299				hypothetical protein
+Sacid_01798	CDS	339				hypothetical protein
+Sacid_01799	CDS	612	mhpC	3.7.1.14		2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+Sacid_01800	CDS	624				hypothetical protein
+Sacid_01801	CDS	612				hypothetical protein
+Sacid_01802	CDS	576				hypothetical protein
+Sacid_01803	CDS	363				hypothetical protein
+Sacid_01804	CDS	1281	abaF_4			Fosfomycin resistance protein AbaF
+Sacid_01805	CDS	1233	hutI	3.5.2.7		Imidazolonepropionase
+Sacid_01806	CDS	1089	vioD	4.2.1.145		Capreomycidine synthase
+Sacid_01807	CDS	2058	cutL_2	1.2.5.3		Carbon monoxide dehydrogenase large chain
+Sacid_01808	CDS	1659				hypothetical protein
+Sacid_01809	CDS	558				hypothetical protein
+Sacid_01810	CDS	1548				hypothetical protein
+Sacid_01811	CDS	810				hypothetical protein
+Sacid_01812	CDS	348				hypothetical protein
+Sacid_01813	CDS	531				hypothetical protein
+Sacid_01814	CDS	441				hypothetical protein
+Sacid_01815	CDS	3195				hypothetical protein
+Sacid_01816	CDS	744				hypothetical protein
+Sacid_01817	CDS	1215	proP_1			Proline/betaine transporter
+Sacid_01818	CDS	1476	bglA	3.2.1.21		Beta-glucosidase A
+Sacid_01819	CDS	1074				hypothetical protein
+Sacid_01820	CDS	366				hypothetical protein
+Sacid_01821	CDS	948				hypothetical protein
+Sacid_01822	CDS	2919				hypothetical protein
+Sacid_01823	CDS	834				hypothetical protein
+Sacid_01824	CDS	1203				hypothetical protein
+Sacid_01825	CDS	147				hypothetical protein
+Sacid_01826	CDS	1170				hypothetical protein
+Sacid_01827	CDS	1446	pchA	1.2.1.96		4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+Sacid_01828	CDS	1389				hypothetical protein
+Sacid_01829	CDS	933				hypothetical protein
+Sacid_01830	CDS	978				hypothetical protein
+Sacid_01831	CDS	1599	petB_1			Cytochrome b6
+Sacid_01832	CDS	300				hypothetical protein
+Sacid_01833	CDS	498				hypothetical protein
+Sacid_01834	CDS	852				hypothetical protein
+Sacid_01835	CDS	1011				hypothetical protein
+Sacid_01836	CDS	135				hypothetical protein
+Sacid_01837	CDS	369				hypothetical protein
+Sacid_01838	CDS	150				hypothetical protein
+Sacid_01839	CDS	660				hypothetical protein
+Sacid_01840	CDS	810				hypothetical protein
+Sacid_01841	CDS	492				hypothetical protein
+Sacid_01842	CDS	2151				hypothetical protein
+Sacid_01843	CDS	138				hypothetical protein
+Sacid_01844	CDS	189				hypothetical protein
+Sacid_01845	CDS	543				hypothetical protein
+	repeat_region	7926				
+Sacid_01846	CDS	2016				hypothetical protein
+Sacid_01847	CDS	768				hypothetical protein
+Sacid_01848	CDS	1056				hypothetical protein
+Sacid_01849	CDS	2601				hypothetical protein
+Sacid_01850	CDS	666				hypothetical protein
+Sacid_01851	CDS	864				hypothetical protein
+Sacid_01852	CDS	762				hypothetical protein
+Sacid_01853	CDS	918	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+	repeat_region	4625				
+Sacid_01854	CDS	225				hypothetical protein
+Sacid_01855	CDS	396				hypothetical protein
+Sacid_01856	CDS	102				hypothetical protein
+Sacid_01857	CDS	891				hypothetical protein
+Sacid_01858	CDS	1248				hypothetical protein
+Sacid_01859	CDS	255				hypothetical protein
+Sacid_01860	CDS	1191				hypothetical protein
+Sacid_01861	CDS	1191				hypothetical protein
+Sacid_01862	CDS	447				hypothetical protein
+Sacid_01863	CDS	768				hypothetical protein
+Sacid_01864	CDS	273				hypothetical protein
+Sacid_01865	CDS	411				hypothetical protein
+Sacid_01866	CDS	264				hypothetical protein
+Sacid_01867	CDS	1185				hypothetical protein
+Sacid_01868	CDS	318				hypothetical protein
+Sacid_01869	CDS	687				hypothetical protein
+Sacid_01870	CDS	384				hypothetical protein
+Sacid_01871	CDS	738				hypothetical protein
+Sacid_01872	CDS	2658				hypothetical protein
+Sacid_01873	CDS	738	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+Sacid_01874	CDS	180				hypothetical protein
+Sacid_01875	CDS	657				hypothetical protein
+Sacid_01876	CDS	423				hypothetical protein
+Sacid_01877	CDS	1128				hypothetical protein
+Sacid_01878	CDS	1110	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Sacid_01879	CDS	1386				hypothetical protein
+Sacid_01880	CDS	1929				hypothetical protein
+Sacid_01881	CDS	1065	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+Sacid_01882	CDS	1527				hypothetical protein
+Sacid_01883	CDS	735				hypothetical protein
+Sacid_01884	CDS	993				hypothetical protein
+Sacid_01885	CDS	786				hypothetical protein
+Sacid_01886	CDS	2289				hypothetical protein
+Sacid_01887	CDS	348				hypothetical protein
+Sacid_01888	CDS	1068	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Sacid_01889	CDS	957				hypothetical protein
+Sacid_01890	CDS	1323	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Sacid_01891	CDS	2274				hypothetical protein
+Sacid_01892	CDS	780				hypothetical protein
+Sacid_01893	CDS	2451				hypothetical protein
+Sacid_01894	CDS	2442				hypothetical protein
+Sacid_01895	CDS	123				hypothetical protein
+Sacid_01896	CDS	102				hypothetical protein
+Sacid_01897	CDS	1152	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Sacid_01898	CDS	1314				hypothetical protein
+Sacid_01899	CDS	1110	glgA_2	2.4.1.21		Glycogen synthase
+Sacid_01900	CDS	165				hypothetical protein
+Sacid_01901	CDS	315				hypothetical protein
+Sacid_01902	CDS	129				hypothetical protein
+Sacid_01903	CDS	231				hypothetical protein
+Sacid_01904	CDS	180				hypothetical protein
+Sacid_01905	CDS	210				hypothetical protein
+Sacid_01906	CDS	636	cysH_1	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+Sacid_01907	CDS	558				hypothetical protein
+Sacid_01908	CDS	399				hypothetical protein
+Sacid_01909	CDS	525				hypothetical protein
+Sacid_01910	CDS	342				hypothetical protein
+Sacid_01911	CDS	141				hypothetical protein
+Sacid_01912	CDS	1251				hypothetical protein
+Sacid_01913	CDS	417				hypothetical protein
+Sacid_01914	CDS	114				hypothetical protein
+Sacid_01915	CDS	132				hypothetical protein
+Sacid_01916	CDS	186				hypothetical protein
+Sacid_01917	CDS	342				hypothetical protein
+Sacid_01918	CDS	174				hypothetical protein
+Sacid_01919	CDS	1005	norW_2	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+Sacid_01920	CDS	1698	ydaP		COG0028	Putative thiamine pyrophosphate-containing protein YdaP
+Sacid_01921	CDS	297				hypothetical protein
+Sacid_01922	CDS	411				hypothetical protein
+Sacid_01923	CDS	1440	aldHT_2	1.2.1.5		Aldehyde dehydrogenase, thermostable
+Sacid_01924	CDS	939				hypothetical protein
+Sacid_01925	CDS	519	laaA	3.5.1.101		L-amino acid amidase
+Sacid_01926	CDS	1254				IS607 family transposase ISSto13
+Sacid_01927	CDS	387	pip	3.4.11.5	COG0596	Proline iminopeptidase
+Sacid_01928	CDS	789				hypothetical protein
+Sacid_01929	CDS	1458	xylE_1			D-xylose-proton symporter
+Sacid_01930	CDS	561	satP		COG1584	Succinate-acetate/proton symporter SatP
+Sacid_01931	CDS	393				hypothetical protein
+Sacid_01932	CDS	273				hypothetical protein
+Sacid_01933	CDS	108				hypothetical protein
+Sacid_01934	CDS	225				hypothetical protein
+Sacid_01935	CDS	207				hypothetical protein
+Sacid_01936	CDS	1239				hypothetical protein
+Sacid_01937	CDS	531				hypothetical protein
+Sacid_01938	CDS	678				hypothetical protein
+Sacid_01939	CDS	249				hypothetical protein
+Sacid_01940	CDS	420				hypothetical protein
+Sacid_01941	CDS	396	vapC_2	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+Sacid_01942	CDS	228				hypothetical protein
+Sacid_01943	CDS	444	slyA			Transcriptional regulator SlyA
+Sacid_01944	CDS	1704	mdtD_2			Putative multidrug resistance protein MdtD
+Sacid_01945	CDS	498				hypothetical protein
+Sacid_01946	CDS	672				hypothetical protein
+Sacid_01947	CDS	768				hypothetical protein
+Sacid_01948	CDS	855	btuD_9	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01949	CDS	588				hypothetical protein
+Sacid_01950	CDS	96				hypothetical protein
+Sacid_01951	CDS	330				hypothetical protein
+Sacid_01952	CDS	261				hypothetical protein
+Sacid_01953	CDS	735	fabG_6	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Sacid_01954	CDS	1536	lcfB_1	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_01955	CDS	1119	gci	5.5.1.27	COG4948	D-galactarolactone cycloisomerase
+Sacid_01956	CDS	1161				hypothetical protein
+Sacid_01957	CDS	345				hypothetical protein
+Sacid_01958	CDS	243				hypothetical protein
+Sacid_01959	CDS	156				hypothetical protein
+Sacid_01960	CDS	1326				hypothetical protein
+Sacid_01961	CDS	2247				hypothetical protein
+Sacid_01962	CDS	906				hypothetical protein
+	repeat_region	278				
+Sacid_01963	CDS	99				hypothetical protein
+Sacid_01964	CDS	861				hypothetical protein
+Sacid_01965	CDS	1101				hypothetical protein
+Sacid_01966	CDS	249				hypothetical protein
+Sacid_01967	CDS	432				hypothetical protein
+Sacid_01968	CDS	345				hypothetical protein
+Sacid_01969	CDS	1233				hypothetical protein
+Sacid_01970	CDS	237				hypothetical protein
+Sacid_01971	CDS	405				hypothetical protein
+Sacid_01972	CDS	1107				hypothetical protein
+Sacid_01973	CDS	375				hypothetical protein
+Sacid_01974	CDS	240				hypothetical protein
+Sacid_01975	CDS	387				hypothetical protein
+Sacid_01976	CDS	447				hypothetical protein
+Sacid_01977	CDS	903				hypothetical protein
+Sacid_01978	CDS	159				hypothetical protein
+Sacid_01979	CDS	1251				hypothetical protein
+Sacid_01980	CDS	1749				hypothetical protein
+Sacid_01981	CDS	138				hypothetical protein
+Sacid_01982	CDS	810				hypothetical protein
+Sacid_01983	CDS	1239				hypothetical protein
+Sacid_01984	CDS	381				hypothetical protein
+Sacid_01985	CDS	534				hypothetical protein
+Sacid_01986	CDS	294				hypothetical protein
+Sacid_01987	CDS	342				hypothetical protein
+Sacid_01988	CDS	276				hypothetical protein
+Sacid_01989	CDS	432				hypothetical protein
+Sacid_01990	CDS	102				hypothetical protein
+Sacid_01991	CDS	585				hypothetical protein
+Sacid_01992	CDS	984				hypothetical protein
+Sacid_01993	CDS	813	btuD_10	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_01994	CDS	585				hypothetical protein
+Sacid_01995	CDS	321				hypothetical protein
+Sacid_01996	CDS	246				hypothetical protein
+Sacid_01997	CDS	588				hypothetical protein
+Sacid_01998	CDS	399				hypothetical protein
+Sacid_01999	CDS	546				hypothetical protein
+Sacid_02000	CDS	1044				hypothetical protein
+Sacid_02001	CDS	795				hypothetical protein
+Sacid_02002	CDS	366				hypothetical protein
+Sacid_02003	CDS	297	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+Sacid_02004	CDS	906	cas1-1	3.1.-.-		CRISPR-associated endonuclease Cas1 1
+	repeat_region	658				
+Sacid_02005	CDS	402				hypothetical protein
+Sacid_02006	CDS	117				hypothetical protein
+Sacid_02007	CDS	492				hypothetical protein
+Sacid_02008	CDS	372				hypothetical protein
+Sacid_02009	CDS	1197				hypothetical protein
+Sacid_02010	CDS	477	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+Sacid_02011	CDS	1236	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+Sacid_02012	CDS	642	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+Sacid_02013	CDS	633	tmk_3	2.7.4.9		Thymidylate kinase
+Sacid_02014	CDS	621				hypothetical protein
+Sacid_02015	CDS	357				hypothetical protein
+Sacid_02016	CDS	630			COG2452	putative protein
+Sacid_02017	CDS	1257				IS607 family transposase ISSto13
+Sacid_02018	CDS	474				hypothetical protein
+Sacid_02019	CDS	1083				hypothetical protein
+Sacid_02020	CDS	1200	cpoB			Cell division coordinator CpoB
+Sacid_02021	CDS	924				hypothetical protein
+Sacid_02022	CDS	1068	hoxN			High-affinity nickel transport protein
+Sacid_02023	CDS	252				hypothetical protein
+Sacid_02024	CDS	402	vapC_3	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+Sacid_02025	CDS	156				hypothetical protein
+Sacid_02026	CDS	447				hypothetical protein
+Sacid_02027	CDS	1296	glpA_2	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+Sacid_02028	CDS	1494	glpK_3	2.7.1.30		Glycerol kinase
+Sacid_02029	CDS	882	glpF		COG0580	Glycerol uptake facilitator protein
+Sacid_02030	CDS	1044				hypothetical protein
+Sacid_02031	CDS	1545	apc3_2	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+Sacid_02032	CDS	1077				hypothetical protein
+Sacid_02033	CDS	390				hypothetical protein
+Sacid_02034	CDS	1368	codB		COG1457	Cytosine permease
+Sacid_02035	CDS	480				hypothetical protein
+Sacid_02036	CDS	2043	apc3_3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+Sacid_02037	CDS	1725	apc4_2	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+Sacid_02038	CDS	762				hypothetical protein
+Sacid_02039	CDS	942				hypothetical protein
+Sacid_02040	CDS	606				hypothetical protein
+Sacid_02041	CDS	2721				hypothetical protein
+Sacid_02042	CDS	216				hypothetical protein
+Sacid_02043	CDS	756				hypothetical protein
+Sacid_02044	CDS	837				hypothetical protein
+Sacid_02045	CDS	468				hypothetical protein
+Sacid_02046	CDS	180				hypothetical protein
+Sacid_02047	CDS	387				hypothetical protein
+Sacid_02048	CDS	276				hypothetical protein
+Sacid_02049	CDS	291				hypothetical protein
+Sacid_02050	CDS	1419	hudA	4.1.1.-	COG0043	UbiD-like decarboxylase
+Sacid_02051	CDS	951				hypothetical protein
+Sacid_02052	CDS	1035	adh_2	1.1.1.1		Alcohol dehydrogenase
+Sacid_02053	CDS	1350	proP_2			Proline/betaine transporter
+Sacid_02054	CDS	1344	nagAc	1.14.12.12		Naphthalene 1,2-dioxygenase system, large oxygenase component
+Sacid_02055	CDS	513	absAb	1.14.12.14		2-aminobenzenesulfonate 2,3-dioxygenase subunit beta
+Sacid_02056	CDS	660				hypothetical protein
+Sacid_02057	CDS	1686	acsA_4	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_02058	CDS	765	caiD	4.2.1.149		Carnitinyl-CoA dehydratase
+Sacid_02059	CDS	2277	cdhA_4	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_02060	CDS	735				hypothetical protein
+Sacid_02061	CDS	591				hypothetical protein
+Sacid_02062	CDS	423				hypothetical protein
+Sacid_02063	CDS	615				hypothetical protein
+Sacid_02064	CDS	357				hypothetical protein
+Sacid_02065	CDS	1071				hypothetical protein
+Sacid_02066	CDS	348				hypothetical protein
+Sacid_02067	CDS	654				hypothetical protein
+Sacid_02068	CDS	1137				hypothetical protein
+Sacid_02069	CDS	1245				hypothetical protein
+Sacid_02070	CDS	345				hypothetical protein
+Sacid_02071	CDS	1359	ydjE_3			Inner membrane metabolite transport protein YdjE
+Sacid_02072	CDS	168				hypothetical protein
+Sacid_02073	CDS	1923				hypothetical protein
+Sacid_02074	CDS	663				hypothetical protein
+Sacid_02075	CDS	231				hypothetical protein
+Sacid_02076	CDS	375				hypothetical protein
+Sacid_02077	CDS	1107	yjiB	1.14.-.-	COG2124	Putative cytochrome P450 YjiB
+Sacid_02078	CDS	894				hypothetical protein
+Sacid_02079	CDS	564	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+Sacid_02080	CDS	1425	ribZ_2			Riboflavin transporter RibZ
+Sacid_02081	CDS	192				hypothetical protein
+Sacid_02082	CDS	123				hypothetical protein
+Sacid_02083	CDS	1692	petB_2			Cytochrome b6
+Sacid_02084	CDS	1554				hypothetical protein
+Sacid_02085	CDS	636				hypothetical protein
+Sacid_02086	CDS	987				hypothetical protein
+Sacid_02087	CDS	447				hypothetical protein
+Sacid_02088	CDS	411				hypothetical protein
+Sacid_02089	CDS	489				hypothetical protein
+Sacid_02090	CDS	1185	mntH_2		COG1914	Divalent metal cation transporter MntH
+Sacid_02091	CDS	1374	xylE_2			D-xylose-proton symporter
+Sacid_02092	CDS	342				hypothetical protein
+Sacid_02093	CDS	273				hypothetical protein
+Sacid_02094	CDS	1086				hypothetical protein
+Sacid_02095	CDS	1473				hypothetical protein
+Sacid_02096	CDS	1011				hypothetical protein
+Sacid_02097	CDS	702				hypothetical protein
+Sacid_02098	CDS	834				hypothetical protein
+Sacid_02099	CDS	4359				hypothetical protein
+Sacid_02100	CDS	630				hypothetical protein
+Sacid_02101	CDS	864				hypothetical protein
+Sacid_02102	CDS	759				hypothetical protein
+Sacid_02103	CDS	1515				hypothetical protein
+Sacid_02104	CDS	543				hypothetical protein
+Sacid_02105	CDS	417				hypothetical protein
+Sacid_02106	CDS	1050				hypothetical protein
+Sacid_02107	CDS	1308				hypothetical protein
+Sacid_02108	CDS	1680	bmr3			Multidrug resistance protein 3
+Sacid_02109	CDS	441	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+Sacid_02110	CDS	1167	tetA			Tetracycline resistance protein, class C
+Sacid_02111	CDS	789				hypothetical protein
+Sacid_02112	CDS	219				hypothetical protein
+Sacid_02113	CDS	696				hypothetical protein
+Sacid_02114	CDS	2178	kdhC	1.5.99.14		6-hydroxypseudooxynicotine dehydrogenase complex subunit gamma
+Sacid_02115	CDS	1149				hypothetical protein
+Sacid_02116	CDS	1143	smc_2			Chromosome partition protein Smc
+Sacid_02117	CDS	756	frcA	7.5.2.-	COG1129	Fructose import ATP-binding protein FrcA
+Sacid_02118	CDS	1071	rbsC		COG1172	Ribose import permease protein RbsC
+Sacid_02119	CDS	1209				hypothetical protein
+Sacid_02120	CDS	2586	btuD_11	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Sacid_02121	CDS	108				hypothetical protein
+Sacid_02122	CDS	1083				hypothetical protein
+Sacid_02123	CDS	375				hypothetical protein
+Sacid_02124	CDS	1026	adhT_6	1.1.1.1		Alcohol dehydrogenase
+Sacid_02125	CDS	1239	abaF_5			Fosfomycin resistance protein AbaF
+Sacid_02126	CDS	858		3.4.11.-	COG3191	putative aminopeptidase
+Sacid_02127	CDS	1293	yhjE			Inner membrane metabolite transport protein YhjE
+Sacid_02128	CDS	795	ucpA	1.-.-.-		Oxidoreductase UcpA
+Sacid_02129	CDS	1242	dapE_4	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+Sacid_02130	CDS	1224		3.-.-.-	COG0624	putative hydrolase
+Sacid_02131	CDS	1131				hypothetical protein
+Sacid_02132	CDS	918	gbuA_2	3.5.3.7	COG0010	Guanidinobutyrase
+Sacid_02133	CDS	813				hypothetical protein
+Sacid_02134	CDS	546	lrp		COG1522	Leucine-responsive regulatory protein
+Sacid_02135	CDS	1335	spuC	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+Sacid_02136	CDS	828				hypothetical protein
+Sacid_02137	CDS	360				hypothetical protein
+Sacid_02138	CDS	948	php		COG1735	Phosphotriesterase homology protein
+Sacid_02139	CDS	1296		6.3.4.12		Glutamate--methylamine ligase
+Sacid_02140	CDS	1011				hypothetical protein
+Sacid_02141	CDS	1518	abfD_2	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+Sacid_02142	CDS	999		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+Sacid_02143	CDS	1092	frmA	1.1.1.284	COG1062	S-(hydroxymethyl)glutathione dehydrogenase
+Sacid_02144	CDS	1428		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+Sacid_02145	CDS	1059	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+Sacid_02146	CDS	1668	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_02147	CDS	948	yisK		COG0179	putative protein YisK
+Sacid_02148	CDS	918	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+Sacid_02149	CDS	888				hypothetical protein
+Sacid_02150	CDS	957	fmdA	3.5.1.49		Formamidase
+Sacid_02151	CDS	468				hypothetical protein
+Sacid_02152	CDS	1284		1.1.1.38		NAD-dependent malic enzyme
+Sacid_02153	CDS	1725				hypothetical protein
+Sacid_02154	CDS	264				hypothetical protein
+Sacid_02155	CDS	1749				hypothetical protein
+Sacid_02156	CDS	459				hypothetical protein
+Sacid_02157	CDS	747				hypothetical protein
+Sacid_02158	CDS	111				hypothetical protein
+Sacid_02159	CDS	870				hypothetical protein
+Sacid_02160	CDS	1935				hypothetical protein
+Sacid_02161	CDS	705				hypothetical protein
+Sacid_02162	CDS	645	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+Sacid_02163	CDS	696	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+Sacid_02164	CDS	351				hypothetical protein
+Sacid_02165	CDS	621				hypothetical protein
+Sacid_02166	CDS	1386	aam	3.5.1.13	COG0154	Acylamidase
+Sacid_02167	CDS	450				hypothetical protein
+Sacid_02168	CDS	1647				hypothetical protein
+Sacid_02169	CDS	783				hypothetical protein
+Sacid_02170	CDS	774				hypothetical protein
+Sacid_02171	CDS	717				hypothetical protein
+Sacid_02172	CDS	1044				hypothetical protein
+Sacid_02173	CDS	558				hypothetical protein
+Sacid_02174	CDS	771				hypothetical protein
+Sacid_02175	CDS	765				hypothetical protein
+Sacid_02176	CDS	1077	csbC_3			putative metabolite transport protein CsbC
+Sacid_02177	CDS	315				hypothetical protein
+Sacid_02178	CDS	603				hypothetical protein
+Sacid_02179	CDS	1392	puuP		COG0531	Putrescine importer PuuP
+Sacid_02180	CDS	1995	maoII	1.4.3.21		Copper methylamine oxidase
+Sacid_02181	CDS	618				hypothetical protein
+Sacid_02182	CDS	348				hypothetical protein
+Sacid_02183	CDS	789	yihR		COG2017	putative protein YihR
+Sacid_02184	CDS	1011				hypothetical protein
+Sacid_02185	CDS	630				hypothetical protein
+Sacid_02186	CDS	105				hypothetical protein
+Sacid_02187	CDS	945				hypothetical protein
+Sacid_02188	CDS	1848	yveA		COG0531	Aspartate-proton symporter
+Sacid_02189	CDS	2475				hypothetical protein
+Sacid_02190	CDS	1314	aceA	4.1.3.1	COG2224	Isocitrate lyase
+Sacid_02191	CDS	408				hypothetical protein
+Sacid_02192	CDS	228				hypothetical protein
+Sacid_02193	CDS	801				hypothetical protein
+Sacid_02194	CDS	102				hypothetical protein
+Sacid_02195	CDS	378				hypothetical protein
+Sacid_02196	CDS	1119		4.2.1.156	COG4948	L-talarate/galactarate dehydratase
+Sacid_02197	CDS	249				hypothetical protein
+Sacid_02198	CDS	879	ttuD		COG2897	Sulfur carrier protein TtuD
+Sacid_02199	CDS	267				hypothetical protein
+Sacid_02200	CDS	717	cysG_2		COG0007	Siroheme synthase
+Sacid_02201	CDS	1779	sir	1.8.7.1		Sulfite reductase [ferredoxin]
+Sacid_02202	CDS	720	cysH_2	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+Sacid_02203	CDS	1236	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+Sacid_02204	CDS	306				hypothetical protein
+Sacid_02205	CDS	936		1.1.1.1		Alcohol dehydrogenase
+Sacid_02206	CDS	138				hypothetical protein
+Sacid_02207	CDS	1125	lipM_4	2.3.1.181		Octanoyltransferase LipM
+Sacid_02208	CDS	1488	lcfB_2	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_02209	CDS	1974	fadJ_4	5.1.2.3		Fatty acid oxidation complex subunit alpha
+Sacid_02210	CDS	1188	fadI	2.3.1.16		3-ketoacyl-CoA thiolase
+Sacid_02211	CDS	543				hypothetical protein
+Sacid_02212	CDS	1668		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_02213	CDS	993				hypothetical protein
+Sacid_02214	CDS	945	bpoC	1.11.1.18	COG0596	Putative non-heme bromoperoxidase BpoC
+Sacid_02215	CDS	1509				hypothetical protein
+Sacid_02216	CDS	2640				hypothetical protein
+Sacid_02217	CDS	618				hypothetical protein
+Sacid_02218	CDS	102				hypothetical protein
+Sacid_02219	CDS	1200	mmgC_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+Sacid_02220	CDS	1920	fadJ_5	5.1.2.3		Fatty acid oxidation complex subunit alpha
+Sacid_02221	CDS	495				hypothetical protein
+Sacid_02222	CDS	1038				hypothetical protein
+Sacid_02223	CDS	693				hypothetical protein
+Sacid_02224	CDS	426				hypothetical protein
+Sacid_02225	CDS	1059		1.1.1.1		Alcohol dehydrogenase
+Sacid_02226	CDS	1626		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Sacid_02227	CDS	411				hypothetical protein
+Sacid_02228	CDS	468	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+Sacid_02229	CDS	567				hypothetical protein
+Sacid_02230	CDS	1839				hypothetical protein
+Sacid_02231	CDS	435				hypothetical protein
+Sacid_02232	CDS	498				hypothetical protein
+Sacid_02233	CDS	1179				hypothetical protein
+Sacid_02234	CDS	1146				hypothetical protein
+Sacid_02235	CDS	1125	mmgC_3	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+Sacid_02236	CDS	1860	acsA_5	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_02237	CDS	822				hypothetical protein
+Sacid_02238	CDS	498				hypothetical protein
+Sacid_02239	CDS	609				hypothetical protein
+Sacid_02240	CDS	771				hypothetical protein
+Sacid_02241	CDS	468		1.5.1.37		Flavin reductase
+Sacid_02242	CDS	777				hypothetical protein
+Sacid_02243	CDS	321				hypothetical protein
+Sacid_02244	CDS	915				hypothetical protein
+Sacid_02245	CDS	840				hypothetical protein
+Sacid_02246	CDS	813				hypothetical protein
+Sacid_02247	CDS	1380				hypothetical protein
+Sacid_02248	CDS	2328	cdhA_5	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_02249	CDS	258				hypothetical protein
+Sacid_02250	CDS	1191	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Sacid_02251	CDS	564	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+Sacid_02252	CDS	267	porD		COG1144	Pyruvate synthase subunit PorD
+Sacid_02253	CDS	1194		1.2.7.10	COG0674	Oxalate oxidoreductase subunit alpha
+Sacid_02254	CDS	867	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+Sacid_02255	CDS	873	ydjG	1.1.1.-	COG0667	NADH-specific methylglyoxal reductase
+Sacid_02256	CDS	1593	ilvB_3	2.2.1.6	COG0028	Acetolactate synthase isozyme 1 large subunit
+Sacid_02257	CDS	564				hypothetical protein
+Sacid_02258	CDS	726				hypothetical protein
+Sacid_02259	CDS	447				hypothetical protein
+Sacid_02260	CDS	441	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+Sacid_02261	CDS	1521	fbcH		COG1290	Cytochrome b/c1
+Sacid_02262	CDS	753	aioB	1.20.9.1		Arsenite oxidase subunit AioB
+Sacid_02263	CDS	600				hypothetical protein
+Sacid_02264	CDS	2367	caaA	1.9.3.1	COG0843	Cytochrome c oxidase polypeptide I+III
+Sacid_02265	CDS	558				hypothetical protein
+Sacid_02266	CDS	408				hypothetical protein
+Sacid_02267	CDS	237				hypothetical protein
+Sacid_02268	CDS	426				hypothetical protein
+Sacid_02269	CDS	1395				hypothetical protein
+Sacid_02270	CDS	846	coxM	1.2.5.3		Carbon monoxide dehydrogenase medium chain
+Sacid_02271	CDS	492	cutS_2	1.2.5.3		Carbon monoxide dehydrogenase small chain
+Sacid_02272	CDS	2247	cdhA_6	1.17.5.2		Caffeine dehydrogenase subunit alpha
+Sacid_02273	CDS	435	rbr1	1.11.1.1	COG1592	Rubrerythrin-1
+Sacid_02274	CDS	1194	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+Sacid_02275	CDS	477				hypothetical protein
+Sacid_02276	CDS	555				hypothetical protein
+Sacid_02277	CDS	1026	thiL_3	2.7.4.16		Thiamine-monophosphate kinase
+Sacid_02278	CDS	3846				hypothetical protein
+Sacid_02279	CDS	120				hypothetical protein
+Sacid_02280	CDS	528			COG0693	putative protein
+Sacid_02281	CDS	951				hypothetical protein
+Sacid_02282	CDS	522				hypothetical protein
+Sacid_02283	CDS	1623	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+Sacid_02284	CDS	1335	proP_3			Proline/betaine transporter
+Sacid_02285	CDS	573				hypothetical protein
+Sacid_02286	CDS	468	patZ	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase PatZ
+Sacid_02287	CDS	744	paaG	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+Sacid_02288	CDS	768	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+Sacid_02289	CDS	1272	ddmA1	1.18.1.3		Dicamba O-demethylase 1, ferredoxin reductase component
+Sacid_02290	CDS	1161	mmgA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+Sacid_02291	CDS	411				hypothetical protein
+Sacid_02292	CDS	1287	paaK	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+Sacid_02293	CDS	384				hypothetical protein
+Sacid_02294	CDS	1029				hypothetical protein
+Sacid_02295	CDS	849				hypothetical protein
+Sacid_02296	CDS	1473	hpaH	1.14.14.8	COG2368	Anthranilate 3-monooxygenase oxygenase component
+Sacid_02297	CDS	942	bphC	1.13.11.39		Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase
+Sacid_02298	CDS	633				hypothetical protein
+Sacid_02299	CDS	882				hypothetical protein
+Sacid_02300	CDS	1824	acsA_6	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Sacid_02301	CDS	276		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+Sacid_02302	CDS	1653	namA	1.6.99.1		NADPH dehydrogenase
+Sacid_02303	CDS	3039	tri1	3.4.21.-	COG0793	Tricorn protease 
+Sacid_02304	CDS	828	drrA_4	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+Sacid_02305	CDS	750				hypothetical protein
+Sacid_02306	CDS	159				hypothetical protein
+Sacid_02307	CDS	831				hypothetical protein
+Sacid_02308	CDS	885	nosF		COG1131	putative ABC transporter ATP-binding protein NosF
+Sacid_02309	CDS	1884				hypothetical protein
+Sacid_02310	CDS	912				hypothetical protein
+Sacid_02311	CDS	321				hypothetical protein
+Sacid_02312	CDS	348				hypothetical protein
+Sacid_02313	CDS	711				hypothetical protein
+Sacid_02314	CDS	351				hypothetical protein
+Sacid_02315	CDS	1053	rsmB_2	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+Sacid_02316	CDS	318	yodB		COG1733	HTH-type transcriptional regulator YodB
+Sacid_02317	CDS	483				hypothetical protein
+Sacid_02318	tRNA	91				tRNA-Trp(cca)
+Sacid_02319	CDS	1584				hypothetical protein
+Sacid_02320	CDS	1683				hypothetical protein
+Sacid_02321	CDS	1836				hypothetical protein
+Sacid_02322	CDS	471				hypothetical protein
+Sacid_02323	CDS	2139				hypothetical protein
+Sacid_02324	CDS	1980	purF_3	2.4.2.14		Amidophosphoribosyltransferase
+Sacid_02325	CDS	828				hypothetical protein
+Sacid_02326	CDS	807	btuF_2			Vitamin B12-binding protein
+Sacid_02327	CDS	540				hypothetical protein
+Sacid_02328	CDS	1572	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+Sacid_02329	CDS	891	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+Sacid_02330	CDS	822				hypothetical protein
+Sacid_02331	CDS	291				hypothetical protein
+Sacid_02332	CDS	363				hypothetical protein
+Sacid_02333	CDS	1305				hypothetical protein
+Sacid_02334	CDS	777				hypothetical protein
+Sacid_02335	CDS	1293				hypothetical protein
+Sacid_02336	CDS	1110	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase
+Sacid_02337	CDS	1038	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+Sacid_02338	CDS	1389	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Sacid_02339	CDS	3426	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Sacid_02340	CDS	285	ndhE	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic
+Sacid_02341	CDS	507				hypothetical protein
+Sacid_02342	CDS	498	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+Sacid_02343	CDS	1059	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+Sacid_02344	CDS	1212	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+Sacid_02345	CDS	495	ndhJ	7.1.1.-	COG0852	NAD(P)H-quinone oxidoreductase subunit J
+Sacid_02346	CDS	390				hypothetical protein
+Sacid_02347	CDS	783	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+Sacid_02348	CDS	336				hypothetical protein
+Sacid_02349	CDS	1164				hypothetical protein
+Sacid_02350	CDS	705				hypothetical protein
+Sacid_02351	CDS	480				hypothetical protein
+Sacid_02352	CDS	555	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+Sacid_02353	CDS	1428	smc_3			Chromosome partition protein Smc
+Sacid_02354	CDS	4275				hypothetical protein
+Sacid_02355	CDS	1941				hypothetical protein
+Sacid_02356	CDS	429				hypothetical protein
+Sacid_02357	tRNA	75				tRNA-Ala(cgc)
+Sacid_02358	CDS	699				hypothetical protein
+Sacid_02359	tRNA	76				tRNA-Pro(cgg)
+Sacid_02360	CDS	327				hypothetical protein
+Sacid_02361	CDS	1269		3.1.-.-	COG1236	Ribonuclease
+Sacid_02362	CDS	1164				hypothetical protein
+Sacid_02363	CDS	1773	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Sacid_02364	CDS	945	galK	2.7.1.6		Galactokinase
+Sacid_02365	CDS	1071	glmU_2	2.7.7.23		Bifunctional protein GlmU
+Sacid_02366	CDS	348				hypothetical protein
+Sacid_02367	CDS	783				hypothetical protein
+Sacid_02368	CDS	1065	asd_2	1.2.1.11		Aspartate-semialdehyde dehydrogenase
+Sacid_02369	CDS	738	COQ5_5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Sacid_02370	CDS	927		1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+Sacid_02371	CDS	609	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+Sacid_02372	CDS	3225				hypothetical protein
+Sacid_02373	CDS	1230	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
