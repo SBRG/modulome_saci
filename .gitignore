@@ -131,3 +131,7 @@ dmypy.json
 # misc
 .idea
 */.DS_Store.DS_Store
+data/.DS_Store
+data/ica_runs/.DS_Store
+notebookes/.DS_Store
+notebookes/0_metadata/.DS_Store
