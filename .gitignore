@@ -130,4 +130,4 @@ dmypy.json
 
 # misc
 .idea
-*/.DS_Store
+*/.DS_Store.DS_Store
