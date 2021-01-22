@@ -9,11 +9,11 @@ LrpC	SACI_RS07575	glnA_2	SACI_RS02660	Saci_0558	Sacid_00547		+	"qRT-PCR, EMSA"	2
 LrpC	SACI_RS07575	glnA_1	SACI_RS07075	Saci_1483	Sacid_01450		+	"qRT-PCR, EMSA"	23255531	Expression is twofold higer in WT than in Sa-Lrp del strain when L-glutamine is only Nitrogen source
 LrpC	SACI_RS07575	gdhA	SACI_RS00740	Saci_0155	Sacid_00150		+	"qRT-PCR, EMSA"	23255531	Expression is twofold higer in WT than in Sa-Lrp del strain when L-glutamine is only Nitrogen source
 LrpC	SACI_RS07575	asnC_2	SACI_RS04740	Saci_0992	Sacid_00967		-	"qRT-PCR, EMSA"	23255531	Expression is threefold lower in WT vs del strain in stat phase
-LrpC	SACI_RS07575	pyrB	SACI_RS07615	Saci_1596	Sacid_01561			"qRT-PCR, EMSA"	23255531	Expression is 3.5x lower in WT than in del strain when L-glutamine is only Nitrogen source
-LrpC	SACI_RS07575	upsF	SACI_RS07135	Saci_1495	Sacid_01462			"qRT-PCR, EMSA"	23255531	Expression is twofold higher in WT than in del strain with no UV induction (drops a bit after UV induction)
-LrpC	SACI_RS07575	upsA	SACI_RS07140	Saci_1496	Sacid_01463			"qRT-PCR, EMSA"	23255531	"Expression is twofold higher in WT than in del strain with no UV induction, eightfold higher in WT than in del strain with UV induction"
-LrpC	SACI_RS07575	upsB	SACI_RS11670		Sacid_01464			"qRT-PCR, EMSA"	23255531	"Expression is twofold lower in WT than in del strain, regardless of UV induction"
-LrpC	SACI_RS07575	Saci_1498	SACI_RS07150	Saci_1498	Sacid_01466			"qRT-PCR, EMSA"	23255531	"Expression is twofold lower in WT than in del strain, regardless of UV induction"
+LrpC	SACI_RS07575	pyrB	SACI_RS07615	Saci_1596	Sacid_01561		-	"qRT-PCR, EMSA"	23255531	Expression is 3.5x lower in WT than in del strain when L-glutamine is only Nitrogen source
+LrpC	SACI_RS07575	upsF	SACI_RS07135	Saci_1495	Sacid_01462		+	"qRT-PCR, EMSA"	23255531	Expression is twofold higher in WT than in del strain with no UV induction (drops a bit after UV induction)
+LrpC	SACI_RS07575	upsA	SACI_RS07140	Saci_1496	Sacid_01463		+	"qRT-PCR, EMSA"	23255531	"Expression is twofold higher in WT than in del strain with no UV induction, eightfold higher in WT than in del strain with UV induction"
+LrpC	SACI_RS07575	upsB	SACI_RS11670		Sacid_01464		-	"qRT-PCR, EMSA"	23255531	"Expression is twofold lower in WT than in del strain, regardless of UV induction"
+LrpC	SACI_RS07575	Saci_1498	SACI_RS07150	Saci_1498	Sacid_01466		-	"qRT-PCR, EMSA"	23255531	"Expression is twofold lower in WT than in del strain, regardless of UV induction"
 LrpC	SACI_RS07575	gltB_1	SACI_RS11230	Saci_2320	Sacid_02323	gltB		ChIP-Seq	27502941	
 LrpC	SACI_RS07575	gltB_2	SACI_RS11235	Saci_2321	Sacid_02324	"gltB, purF_3"		ChIP-Seq	27502941	
 LysM	SACI_RS03595	lysM	SACI_RS03595	Saci_0752	Sacid_00734	asnC_1			"12042311, 23355617"	"D-lysine, L-arginine, L-homoarginine, L-glutamine, L-methionine and BCAAs L-leucine, L-isoleucine and L-valine affect this TF’s binding activity"
@@ -115,10 +115,30 @@ XylR		Saci_2232	SACI_RS10790	Saci_2232	Sacid_02233		-	RNA-seq	29150511
 XylR		Saci_2233	SACI_RS10795	Saci_2233	Sacid_02234		-	RNA-seq	29150511	
 XylR		Saci_2234	SACI_RS10800	Saci_2234	Sacid_02235		-	RNA-seq	29150511	
 XylR		acsA_5	SACI_RS10805	Saci_2235	Sacid_02236		-	RNA-seq	29150511	
-XylR;AraR		mat	SACI_RS03820	Saci_0798	Sacid_00778			SDS-PAGE	29150511	
-XylR;AraR		Saci_1668	SACI_RS07960	Saci_1668	Sacid_01631			SDS-PAGE	29150511	
-XylR;AraR		Saci_1737	SACI_RS08300	Saci_1737	Sacid_01701			SDS-PAGE	29150511	
-XylR;AraR		Saci_1760	SACI_RS08415	Saci_1760	Sacid_01725			SDS-PAGE	29150511	
-XylR;AraR		araF	SACI_RS10260	Saci_2122	Sacid_02119	"xylF, sbp"		SDS-PAGE	29150511	
-XylR;AraR		Saci_2316	SACI_RS11210	Saci_2316	Sacid_02319			SDS-PAGE	29150511	
-XylR;AraR		Saci_2356	SACI_RS11910	Saci_2356	Sacid_02355			SDS-PAGE	29150511	
+XylR;AraC		mat	SACI_RS03820	Saci_0798	Sacid_00778			SDS-PAGE	29150511	
+XylR;AraC		Saci_1668	SACI_RS07960	Saci_1668	Sacid_01631			SDS-PAGE	29150511	
+XylR;AraC		Saci_1737	SACI_RS08300	Saci_1737	Sacid_01701			SDS-PAGE	29150511	
+XylR;AraC		Saci_1760	SACI_RS08415	Saci_1760	Sacid_01725			SDS-PAGE	29150511	
+XylR;AraC		araF	SACI_RS10260	Saci_2122	Sacid_02119	"xylF, sbp"		SDS-PAGE	29150511	
+XylR;AraC		Saci_2316	SACI_RS11210	Saci_2316	Sacid_02319			SDS-PAGE	29150511	
+XylR;AraC		Saci_2356	SACI_RS11910	Saci_2356	Sacid_02355			SDS-PAGE	29150511	
+Urm1		urm1	SACI_RS03190	Saci_0669	Sacid_00651			"BLAST, X-ray crystallography, Coomasie stain, Anti-His-tag western blot"	26348592	Ubiquitin-related modifier-1 protein Urm1 (MoaD/ThiS family) aka small Ubl archaeal modifier protein (SAMP) 
+Urm1		PAN	SACI_RS03125	Saci_0656	Sacid_00638	ftsH_1		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+Urm1		PAC2	SACI_RS03135	Saci_0658	Sacid_00640			"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+Urm1		prcB	SACI_RS03155	Saci_0662	Sacid_00644	psmB		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+Urm1		thsB	SACI_RS03175	Saci_0666	Sacid_00648	groL_1		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	sHSP60 aka thermosome (beta subunit)
+Urm1		ttuC	SACI_RS00860	Saci_0179	Sacid_00173			"BLAST, Coomasie stain, Anti-His-tag western blot"	26348592	ELSA/Uba4p/ThiF E1-like enzyme needed to activate Urm1
+Urm1		prcB2	SACI_RS04345	Saci_0909	Sacid_00885	psmB		"E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+Urm1		prcA	SACI_RS02915	Saci_0613	Sacid_00599	psmA		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+heat-shock		thsA	SACI_RS06700	Saci_1401	Sacid_01371	groL_3	+	qRT-PCR	32562000	
+heat-shock		thsB	SACI_RS03175	Saci_0666	Sacid_00648	groL_1	+	qRT-PCR	32562000	
+heat-shock		sHSP-1	SACI_RS04405	Saci_0922	Sacid_00898		+	qRT-PCR	32562000	
+heat-shock		sHSP-2	SACI_RS07945	Saci_1665	Sacid_01628		+	qRT-PCR	32562000	
+heat-shock		htpX	SACI_RS02025	Saci_0415	Sacid_00410	htpX_1	+	qRT-PCR	32562000	
+heat-shock		pfdA	SACI_RS06985	Saci_1463	Sacid_01430		+	qRT-PCR	32562000	
+heat-shock		pfdB	SACI_RS02875	Saci_0605	Sacid_00591		+	qRT-PCR	32562000	
+heat-shock		ytrA	SACI_RS08880	Saci_1851	Sacid_01820		+	qRT-PCR	32562000	
+heat-shock		abfR1	SACI_RS02160	Saci_0446	Sacid_00440		+	qRT-PCR	32562000	
+heat-shock		Saci_0102	SACI_RS00480	Saci_0102	Sacid_00097		+	qRT-PCR	32562000	
+heat-shock		Saci_1242	SACI_RS05925	Saci_1242	Sacid_01219		+	qRT-PCR	32562000	
+heat-shock		Saci_1012	SACI_RS04830	Saci_1012	Sacid_00985		-	qRT-PCR	32562000	
