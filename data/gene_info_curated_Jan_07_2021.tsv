@@ -627,7 +627,7 @@ SACI_RS03170	tfb3	Saci_0665	Sacid_00647		526865.0	527452.0	+	TFIIB-type zinc rib
 SACI_RS03175	thsB	Saci_0666	Sacid_00648	groL_1	527522.0	529183.0	+	thermosome subunit beta	60 kDa chaperonin	"Post-translational modification, protein turnover,and chaperones"	A0A0U3FNK6	NC_007181.1
 SACI_RS03180	herA	Saci_0667	Sacid_00649		529180.0	530820.0	-	"HerA helicase, ATP-binding protein (VirB4/HerA/CedB homolog)"	hypothetical protein	"Replication, recombination and repair"	A0A0U3GSV6	NC_007181.1
 SACI_RS03185	Cgi121	Saci_0668	Sacid_00650		530841.0	531239.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2Y0D6	NC_007181.1
-SACI_RS03190	urm1	Saci_0669	Sacid_00651		531229.0	531483.0	-	ubiquitin-related modifier-1 protein Urm1 (MoaD/ThiS family) aka small Ubl archaeal modifier protein (SAMP) 	hypothetical protein	"Post-translational modification, protein turnover,and chaperones"	A0A0U3HAW4	NC_007181.1
+SACI_RS03190	urm1	Saci_0669	Sacid_00651		531229.0	531483.0	-	ubiquitin-related modifier-1 protein Urm1 (MoaD/ThiS family) aka small Ubl archaeal modifier protein (SAMP)	hypothetical protein	"Post-translational modification, protein turnover,and chaperones"	A0A0U3HAW4	NC_007181.1
 SACI_RS03195	Saci_0670	Saci_0670	Sacid_00652		531486.0	531734.0	-	30S ribosomal protein S17e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3H285	NC_007181.1
 SACI_RS03200	fbp	Saci_0671	Sacid_00653		531780.0	532937.0	-	"fructose 1,6-bisphosphatase"	"Fructose-1,6-bisphosphate aldolase/phosphatase"	Carbohydrate transport and metabolism	A0A0U3FMM9	NC_007181.1
 SACI_RS03205	rli	Saci_0672	Sacid_00654	btuD_1	532970.0	534784.0	-	ribosome biogenesis/translation initiation ATPase RLI (RNAseL inhibitor)	Vitamin B12 import ATP-binding protein BtuD	Amino acid transport and metabolism	A0A0U2W3Z5	NC_007181.1
@@ -1402,7 +1402,7 @@ SACI_RS07055	moaA_3	Saci_1479	Sacid_01446	moaA	1257537.0	1258478.0	+	"GTP 3',8-c
 SACI_RS07060	Saci_1480	Saci_1480	Sacid_01447		1258456.0	1259553.0	+	aminopeptidase P family protein	"Methionine aminopeptidase 1, mitochondrial"	Amino acid transport and metabolism	A0A0U3FUS5	NC_007181.1
 SACI_RS07065	folE	Saci_1481	Sacid_01448		1259620.0	1260249.0	+	GTP cyclohydrolase I FolE	GTP cyclohydrolase 1	Coenzyme transport and metabolism	A0A0U2VZN7	NC_007181.1
 SACI_RS07070	Saci_1482	Saci_1482	Sacid_01449		1260273.0	1261175.0	+	MarR family transcriptional regulator	hypothetical protein	Transcription	A0A0U2Y682	NC_007181.1
-SACI_RS07075	glnA_1	Saci_1483	Sacid_01450		1261179.0	1262600.0	-	type I glutamate--ammonia ligase	Glutamine synthetase	Amino acid transport and metabolism	A0A0U2WW46	NC_007181.1
+SACI_RS07075	glnA	Saci_1483	Sacid_01450	glnA_1	1261179.0	1262600.0	-	type I glutamate--ammonia ligase	Glutamine synthetase	Amino acid transport and metabolism	A0A0U2WW46	NC_007181.1
 SACI_RS07080	fbpC	Saci_1484	Sacid_01451		1262708.0	1263322.0	-	ABC transporter ATP-binding protein	Fe(3+) ions import ATP-binding protein FbpC	Inorganic ion transport and metabolism	F2Z652	NC_007181.1
 SACI_RS07085	Saci_1485	Saci_1485	Sacid_01452		1263309.0	1263734.0	-	thiol reductase thioredoxin	hypothetical protein	"Post-translational modification, protein turnover,and chaperones"	A0A0U3FTD3	NC_007181.1
 SACI_RS07090	Saci_1486	Saci_1486	Sacid_01453		1263956.0	1264825.0	+	hypothetical protein	hypothetical protein	Function unknown	A0A0U2NDF6	NC_007181.1
@@ -1629,7 +1629,7 @@ SACI_RS08165	Saci_1710	Saci_1710	Sacid_01673		1468737.0	1469135.0	+	helix-turn-h
 SACI_RS08170	clcB	Saci_1711	Sacid_01674		1469148.0	1470911.0	-	chloride channel protein	Voltage-gated ClC-type chloride channel ClcB	Inorganic ion transport and metabolism	A0A0U3H5G0	NC_007181.1
 SACI_RS08175	Saci_1712	Saci_1712	Sacid_01675		1471109.0	1471708.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3HDG2	NC_007181.1
 SACI_RS08180	Saci_1713	Saci_1713	Sacid_01676		1471924.0	1473096.0	+	acyl-CoA/acyl-ACP dehydrogenase	Acyl-CoA dehydrogenase fadE12	Lipid transport and metabolism	A0A0U3H0F1	NC_007181.1
-SACI_RS08185	Saci_1714	Saci_1714	Sacid_01677		1473212.0	1474234.0	-	thermopsin	hypothetical protein	Function unknown	A0A0U3H5H2	NC_007181.1
+SACI_RS08185	thpS	Saci_1714	Sacid_01677		1473212.0	1474234.0	-	thermopsin	hypothetical protein	Function unknown	A0A0U3H5H2	NC_007181.1
 SACI_RS08190	ilvD	Saci_1715	Sacid_01678		1474337.0	1476022.0	-	dihydroxy-acid dehydratase	Dihydroxy-acid dehydratase	Amino acid transport and metabolism	A0A0U2W188	NC_007181.1
 SACI_RS08195	Saci_1716	Saci_1716	Sacid_01679		1476205.0	1476405.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FU74	NC_007181.1
 SACI_RS08200	Saci_1717	Saci_1717	Sacid_01680		1476378.0	1476938.0	+	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HH64	NC_007181.1
@@ -1662,7 +1662,7 @@ SACI_RS08330	mdlC	Saci_1743	Sacid_01707		1502802.0	1504274.0	-	thiamine pyrophos
 SACI_RS08335	Saci_1744	Saci_1744	Sacid_01708		1504455.0	1504646.0	+	DUF3311 domain-containing protein	hypothetical protein	No COG annotation	A0A0U3H881	NC_007181.1
 SACI_RS08340	mctP_2	Saci_1745	Sacid_01709		1504651.0	1506231.0	+	sodium:solute symporter	Monocarboxylate transport permease protein	Amino acid transport and metabolism	A0A0U3H0B9	NC_007181.1
 SACI_RS08345	Saci_1746	Saci_1746	Sacid_01710		1506315.0	1507382.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H5E1	NC_007181.1
-SACI_RS08350	Saci_1747	Saci_1747	Sacid_01711		1507564.0	1508253.0	+	sulfocyanin	hypothetical protein	Energy production and conversion	A0A0U2W163	NC_007181.1
+SACI_RS08350	soxE_1	Saci_1747	Sacid_01711		1507564.0	1508253.0	+	sulfocyanin	hypothetical protein	Energy production and conversion	A0A0U2W163	NC_007181.1
 SACI_RS08355	Saci_1748	Saci_1748	Sacid_01712		1508357.0	1508773.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FU38	NC_007181.1
 SACI_RS08360	Saci_1749	Saci_1749	Sacid_01713		1508754.0	1509674.0	-	SPFH domain-containing protein	hypothetical protein	"Post-translational modification, protein turnover,and chaperones"	A0A0U3HH39	NC_007181.1
 SACI_RS08365	Saci_1750	Saci_1750	Sacid_01714		1509718.0	1510194.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2Y5E7	NC_007181.1
@@ -1685,8 +1685,8 @@ SACI_RS08445	Saci_1766	Saci_1766	Sacid_01732		1526747.0	1527250.0	+	hypothetical
 SACI_RS08450	Saci_1767	Saci_1767	Sacid_01733		1527497.0	1528420.0	+	fumarylacetoacetate hydrolase family protein	hypothetical protein	"Secondary metabolites biosynthesis, transport, and catabolism"	A0A0U2WXB5	NC_007181.1
 SACI_RS08455	COQ5_4	Saci_1768	Sacid_01734		1528633.0	1529169.0	+	class I SAM-dependent methyltransferase	"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial"	Function unknown	A0A0U3HH24	NC_007181.1
 SACI_RS08460	Saci_1769	Saci_1769	Sacid_01735		1529335.0	1531320.0	+	alkaline phosphatase family protein	hypothetical protein	Cell wall/membrane/envelope biogenesis	A0A0U3FIK3	NC_007181.1
-SACI_RS08465	Saci_1770	Saci_1770	Sacid_01736		1531395.0	1532090.0	-	phenylacetate-CoA oxygenase subunit PaaI	hypothetical protein	Function unknown	A0A0U3H790	NC_007181.1
-SACI_RS08470	boxB	Saci_1771	Sacid_01737		1532100.0	1532870.0	-	phenylacetate-CoA oxygenase subunit PaaI	Benzoyl-CoA oxygenase component B	Function unknown	A0A0U3FSM1	NC_007181.1
+SACI_RS08465	paaI_1	Saci_1770	Sacid_01736	paaI	1531395.0	1532090.0	-	phenylacetate-CoA oxygenase subunit PaaI	hypothetical protein	Function unknown	A0A0U3H790	NC_007181.1
+SACI_RS08470	paaI_2	Saci_1771	Sacid_01737	"paaI, boxB"	1532100.0	1532870.0	-	phenylacetate-CoA oxygenase subunit PaaI	Benzoyl-CoA oxygenase component B	Function unknown	A0A0U3FSM1	NC_007181.1
 SACI_RS08475	crt_2	Saci_1772	Sacid_01738		1533033.0	1533836.0	+	enoyl-CoA hydratase/isomerase family protein	Short-chain-enoyl-CoA hydratase	Lipid transport and metabolism	A0A0U3GMZ0	NC_007181.1
 SACI_RS08480	Saci_1773	Saci_1773	Sacid_01739		1534022.0	1535308.0	-	ATP-binding protein	hypothetical protein	Function unknown	A0A0U2W6U4	NC_007181.1
 SACI_RS08485	bclA	Saci_1774	Sacid_01740		1535691.0	1537271.0	+	benzoate-CoA ligase family protein	Benzoate--CoA ligase	Lipid transport and metabolism	A0A0U3HIU5	NC_007181.1
@@ -1971,7 +1971,7 @@ SACI_RS09850	Saci_2037	Saci_2037	Sacid_02032		1852813.0	1853889.0	-	DUF917 domai
 SACI_RS09855	Saci_2038	Saci_2038	Sacid_02033		1853894.0	1854283.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3F9L6	NC_007181.1
 SACI_RS09860	codB	Saci_2039	Sacid_02034		1854280.0	1855647.0	-	cytosine permease	Cytosine permease	Nucleotide transport and metabolism	A0A0U2NH29	NC_007181.1
 SACI_RS09865	Saci_2040	Saci_2040	Sacid_02035		1855837.0	1856316.0	-	Lrp/AsnC family transcriptional regulator	hypothetical protein	Transcription	A0A0U3GNH8	NC_007181.1
-SACI_RS09870	apc3_3	Saci_2041	Sacid_02036		1856455.0	1858497.0	+	hydantoinase/oxoprolinase family protein	Acetophenone carboxylase gamma subunit	Amino acid transport and metabolism	A0A0U3FQD2	NC_007181.1
+SACI_RS09870	huyA	Saci_2041	Sacid_02036	apc3_3	1856455.0	1858497.0	+	hydantoinase/oxoprolinase family protein	Acetophenone carboxylase gamma subunit	Amino acid transport and metabolism	A0A0U3FQD2	NC_007181.1
 SACI_RS09875	apc4_2	Saci_2042	Sacid_02037		1858503.0	1860227.0	+	hydantoinase B/oxoprolinase family protein	Acetophenone carboxylase delta subunit	Amino acid transport and metabolism	A0A0U3FHA6	NC_007181.1
 SACI_RS09880	Saci_2043	Saci_2043	Sacid_02038		1861364.0	1862125.0	-	hypothetical protein	hypothetical protein	Defense mechanisms	A0A0U3GIA8	NC_007181.1
 SACI_RS09885	Saci_2044	Saci_2044	Sacid_02039		1862122.0	1863063.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2VXX7	NC_007181.1
@@ -2052,7 +2052,7 @@ SACI_RS10245	smc_2	Saci_2119	Sacid_02116		1942046.0	1943188.0	-	hypothetical pro
 SACI_RS10250	araG	Saci_2120	Sacid_02117	"xylG, frcA"	1943481.0	1944236.0	-	"ABC-type nucleotide binding domain (NBD), sugar ABC transporter ATP-binding protein"	Fructose import ATP-binding protein FrcA	Carbohydrate transport and metabolism	A0A0U3H4X1	NC_007181.1
 SACI_RS10255	araH	Saci_2121	Sacid_02118	"xylH, rbsC"	1944229.0	1945299.0	-	ABC transporter permease	Ribose import permease protein RbsC	Function unknown	A0A0U3GQF8	NC_007181.1
 SACI_RS10260	araF	Saci_2122	Sacid_02119	"xylF, sbp"	1945306.0	1946514.0	-	"D-xylose / L-arabinose substrate-binding protein, sugar ABC transporter substrate-binding protein"	hypothetical protein	Carbohydrate transport and metabolism	A0A0U2WUN9	NC_007181.1
-SACI_RS10265	btuD_11	Saci_2123	Sacid_02120		1946938.0	1949523.0	+	DUF1854 domain-containing protein	Vitamin B12 import ATP-binding protein BtuD	Inorganic ion transport and metabolism	A0A0U3FZ29	NC_007181.1
+SACI_RS10265	smr1	Saci_2123	Sacid_02120	btuD_11	1946938.0	1949523.0	+	ABC transporter (multi-drug resistance) Sulfolobus multidrug resistance transporter 1 Smr1	Vitamin B12 import ATP-binding protein BtuD	Inorganic ion transport and metabolism	A0A0U3FZ29	NC_007181.1
 SACI_RS10270	Saci_2124	Saci_2124	Sacid_02122		1950091.0	1951167.0	+	amidohydrolase	hypothetical protein	Function unknown	A0A0U2WWU3	NC_007181.1
 SACI_RS10275	Saci_2125	Saci_2125	Sacid_02123		1951225.0	1951599.0	+	metal-sulfur cluster biosynthetic enzyme	hypothetical protein	Function unknown	A0A0U2X274	NC_007181.1
 SACI_RS10280	adhT_6	Saci_2126	Sacid_02124		1951596.0	1952621.0	+	NAD(P)-dependent alcohol dehydrogenase	Alcohol dehydrogenase	Energy production and conversion	A0A0U3H4E0	NC_007181.1
@@ -2188,7 +2188,7 @@ SACI_RS10920	Saci_2258	Saci_2258	Sacid_02259		2100162.0	2100608.0	-	hypothetical
 SACI_RS10925	ctaC	Saci_2259	Sacid_02260		2100611.0	2101051.0	-	cytochrome c oxidase subunit II	Cytochrome c oxidase subunit 2	Energy production and conversion	F2Z6G7	NC_007181.1
 SACI_RS10930	fbcH	Saci_2260	Sacid_02261		2101038.0	2102558.0	-	cytochrome bc complex cytochrome b subunit	Cytochrome b/c1	Energy production and conversion	A0A0U2NHR0	NC_007181.1
 SACI_RS10935	aioB	Saci_2261	Sacid_02262		2102564.0	2103316.0	-	Rieske 2Fe-2S domain-containing protein	Arsenite oxidase subunit AioB	Inorganic ion transport and metabolism	F2Z628	NC_007181.1
-SACI_RS10940	Saci_2262	Saci_2262	Sacid_02263		2103461.0	2104060.0	+	sulfocyanin	hypothetical protein	Energy production and conversion	A0A0U2NAM5	NC_007181.1
+SACI_RS10940	soxE_2	Saci_2262	Sacid_02263		2103461.0	2104060.0	+	sulfocyanin	hypothetical protein	Energy production and conversion	A0A0U2NAM5	NC_007181.1
 SACI_RS10945	caaA	Saci_2263	Sacid_02264		2104738.0	2107104.0	+	cbb3-type cytochrome c oxidase subunit I	Cytochrome c oxidase polypeptide I+III	Energy production and conversion	A0A0U3FPV4	NC_007181.1
 SACI_RS10950	Saci_2264	Saci_2264	Sacid_02265		2107121.0	2107678.0	+	DUF1404 domain-containing protein	hypothetical protein	Function unknown	A0A0U3FH85	NC_007181.1
 SACI_RS10955	Saci_2265	Saci_2265	Sacid_02266		2107922.0	2108329.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3F963	NC_007181.1
