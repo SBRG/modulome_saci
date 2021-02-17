@@ -21,8 +21,6 @@ LysM	SACI_RS03595	lysW	SACI_RS03600	Saci_0753	Sacid_00735			ChIP-Seq	"12042311, 
 LysM	SACI_RS03595	lysX	SACI_RS03605	Saci_0754	Sacid_00736	lysX_1		ChIP-Seq	"12042311, 23355617"	
 LysM	SACI_RS03595	lysJ	SACI_RS03610	Saci_0755	Sacid_00737			ChIP-Seq	"12042311, 23355617"	
 LysM	SACI_RS03595	lysK	SACI_RS03615	Saci_0756	Sacid_00738			ChIP-Seq	"12042311, 23355617"	
-LysM	SACI_RS03595	gltB_1	SACI_RS11230	Saci_2320	Sacid_02323	gltB		ChIP-Seq	27502941	
-LysM	SACI_RS03595	gltB_2	SACI_RS11235	Saci_2321	Sacid_02324	"gltB, purF_3"		ChIP-Seq	27502941	
 FadR	SACI_RS05275	fadR	SACI_RS05275	Saci_1107	Sacid_01083			"ChIP-Seq, RNA-seq"	30948713	"FadR_Sa TF (TetR/AcrR family transcriptional regulator), represses entire Saci_1103 to Saci_1126 gene cluster, binding of med- to long-chain acyl-CoA results in dissociation of TF"
 FadR	SACI_RS05275	abfD_1	SACI_RS05255	Saci_1103	Sacid_01079		-	"ChIP-Seq, RNA-seq"	30948713	
 FadR	SACI_RS05275	fabG_4	SACI_RS05260	Saci_1104	Sacid_01080		-	"ChIP-Seq, RNA-seq"	30948713	
@@ -54,16 +52,16 @@ MalR	SACI_RS05530	malF	SACI_RS05540	Saci_1163	Sacid_01140		+	qRT-PCR	24271181
 MalR	SACI_RS05530	malG	SACI_RS05545	Saci_1164	Sacid_01141		+	qRT-PCR	24271181	
 MalR	SACI_RS05530	malE	SACI_RS05550	Saci_1165	Sacid_01142	mdxE	+	"qRT-PCR, EMSA"	24271181	Promotor
 MalR	SACI_RS05530	malK	SACI_RS05555	Saci_1166	Sacid_01143	msmX	+	qRT-PCR	24271181	
-ArnR;ArnR1	SACI_RS05625	arnR	SACI_RS05625	Saci_1180	Sacid_01157				23461567	"ArnR TF (MarR family transcriptional regulator, membrane-bound transcriptional activator of the crenarchaeal archaellum, nutrient-limitation dependent)"
-ArnR;ArnR1	SACI_RS05625	arnR1	SACI_RS05580	Saci_1171	Sacid_01148				23461567	"ArnR1 TF ( MarR family transcription regulator, membrane-bound transcriptional activator of the crenarchaeal archaellum, NOT nutrient-limitation dependent)"
-ArnR;ArnR1	SACI_RS05625	flaJ	SACI_RS05585	Saci_1172	Sacid_01149		+		23461567	
-ArnR;ArnR1	SACI_RS05625	flaI	SACI_RS05590	Saci_1173	Sacid_01150		+		23461567	
-ArnR;ArnR1	SACI_RS05625	flaH	SACI_RS05595	Saci_1174	Sacid_01151		+		23461567	
-ArnR;ArnR1	SACI_RS05625	flaF	SACI_RS05600	Saci_1175	Sacid_01152		+		23461567	
-ArnR;ArnR1	SACI_RS05625	flaG	SACI_RS05605	Saci_1176	Sacid_01153		+		23461567	
-ArnR;ArnR1	SACI_RS05625	flaX	SACI_RS05610	Saci_1177	Sacid_01154		+		23461567	"Promotor, activity remains constitutive (NOT nutrient starvation dependent)"
-ArnR;ArnR1	SACI_RS05625	flaB	SACI_RS05615	Saci_1178	Sacid_01155		+		23461567	"Promotor, activity increases during nutrient starvation"
-ArnR;ArnR1	SACI_RS05625	Saci_1179	SACI_RS05620	Saci_1179	Sacid_01156				23461567	
+ArnR;ArnR1	SACI_RS05625	arnR	SACI_RS05625	Saci_1180	Sacid_01157			"qRT-PCR, RNA-seq"	23461567	"ArnR TF (MarR family transcriptional regulator, membrane-bound transcriptional activator of the crenarchaeal archaellum, nutrient-limitation dependent)"
+ArnR;ArnR1	SACI_RS05625	arnR1	SACI_RS05580	Saci_1171	Sacid_01148			"qRT-PCR, RNA-seq"	23461567	"ArnR1 TF ( MarR family transcription regulator, membrane-bound transcriptional activator of the crenarchaeal archaellum, NOT nutrient-limitation dependent)"
+ArnR;ArnR1	SACI_RS05625	arlJ	SACI_RS05585	Saci_1172	Sacid_01149		+	"qRT-PCR, RNA-seq"	23461567	
+ArnR;ArnR1	SACI_RS05625	arlI	SACI_RS05590	Saci_1173	Sacid_01150		+	"qRT-PCR, RNA-seq"	23461567	
+ArnR;ArnR1	SACI_RS05625	arlH	SACI_RS05595	Saci_1174	Sacid_01151		+	"qRT-PCR, RNA-seq"	23461567	
+ArnR;ArnR1	SACI_RS05625	arlF	SACI_RS05600	Saci_1175	Sacid_01152		+	"qRT-PCR, RNA-seq"	23461567	
+ArnR;ArnR1	SACI_RS05625	arlG	SACI_RS05605	Saci_1176	Sacid_01153		+	"qRT-PCR, RNA-seq"	23461567	
+ArnR;ArnR1	SACI_RS05625	arlX	SACI_RS05610	Saci_1177	Sacid_01154		+	"qRT-PCR, RNA-seq"	23461567	"Promotor, activity remains constitutive (NOT nutrient starvation dependent)"
+ArnR;ArnR1	SACI_RS05625	arlB	SACI_RS05615	Saci_1178	Sacid_01155		+	"qRT-PCR, RNA-seq"	23461567	"Promotor, activity increases during nutrient starvation"
+ArnR;ArnR1	SACI_RS05625	Saci_1179	SACI_RS05620	Saci_1179	Sacid_01156			"qRT-PCR, RNA-seq"	23461567	
 ArnR;ArnR1	SACI_RS05625	arnS	SACI_RS05630	Saci_1181	Sacid_01158			"qRT-PCR, Motility Assay"	27731916	"ArnS (Ser/Thr protein kinase, controls ArnA transcription and translation, nutrient-limitation dependent)"
 ArnA;ArnB	SACI_RS05765	arnA	SACI_RS05765	Saci_1210	Sacid_01187			"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"ArnA TF (Forkhead-associated [FHA] domain-containing protein, repressors of crenarchaeal archaellum expression), ArnA and ArnB phosphorylate together to form a complex that inhibits the archaellum operon"
 ArnA;ArnB	SACI_RS05765	arnB	SACI_RS05770	Saci_1211	Sacid_01188			"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"ArnB TF (von Willebrand [vWA] domain-containing protein, repressors of crenarchaeal archaellum), ArnA and ArnB phosphorylate together to form a complex that inhibits the archaellum operon"
@@ -72,13 +70,13 @@ ArnA;ArnB	SACI_RS05765	Saci_1208	SACI_RS05755	Saci_1208	Sacid_01185			"Immunoblo
 ArnA;ArnB	SACI_RS05765	Saci_1209	SACI_RS05760	Saci_1209	Sacid_01186			"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"Disulfide bond formation protein A [DsbA] family protein, flanks vWA2, unique to Saci"
 ArnA;ArnB	SACI_RS05765	arnC	SACI_RS05690	Saci_1193	Sacid_01171			SDS-PAGE	22845497	"ArnC (protein kinase responsible for phosphorylating ArnA, ArnB, and vWA2)"
 ArnA;ArnB	SACI_RS05765	arnD	SACI_RS08090	Saci_1694	Sacid_01658			SDS-PAGE	22845497	ArnD (Ser/Thr protein kinase responsible for specifically phosphorylating ArnB)
-ArnA;ArnB	SACI_RS05765	flaJ	SACI_RS05585	Saci_1172	Sacid_01149		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
-ArnA;ArnB	SACI_RS05765	flaI	SACI_RS05590	Saci_1173	Sacid_01150		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
-ArnA;ArnB	SACI_RS05765	flaH	SACI_RS05595	Saci_1174	Sacid_01151		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
-ArnA;ArnB	SACI_RS05765	flaF	SACI_RS05600	Saci_1175	Sacid_01152		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
-ArnA;ArnB	SACI_RS05765	flaG	SACI_RS05605	Saci_1176	Sacid_01153		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
-ArnA;ArnB	SACI_RS05765	flaX	SACI_RS05610	Saci_1177	Sacid_01154		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"Promotor, activity remains constitutive (NOT nutrient starvation dependent)"
-ArnA;ArnB	SACI_RS05765	flaB	SACI_RS05615	Saci_1178	Sacid_01155		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"Promotor, activity increases during nutrient starvation"
+ArnA;ArnB	SACI_RS05765	arlJ	SACI_RS05585	Saci_1172	Sacid_01149		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
+ArnA;ArnB	SACI_RS05765	arlI	SACI_RS05590	Saci_1173	Sacid_01150		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
+ArnA;ArnB	SACI_RS05765	arlH	SACI_RS05595	Saci_1174	Sacid_01151		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
+ArnA;ArnB	SACI_RS05765	arlF	SACI_RS05600	Saci_1175	Sacid_01152		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
+ArnA;ArnB	SACI_RS05765	arlG	SACI_RS05605	Saci_1176	Sacid_01153		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	
+ArnA;ArnB	SACI_RS05765	arlX	SACI_RS05610	Saci_1177	Sacid_01154		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"Promotor, activity remains constitutive (NOT nutrient starvation dependent)"
+ArnA;ArnB	SACI_RS05765	arlB	SACI_RS05615	Saci_1178	Sacid_01155		-	"Immunoblotting Assay, Motility Assay, Promotor Activity Assay"	22845497	"Promotor, activity increases during nutrient starvation"
 ArnA;ArnB	SACI_RS05765	pp2a	SACI_RS04220	Saci_0884	Sacid_00861	saci_pp2a		"Immunoblotting Assay, qRT-PCR"	27731916	"phospho Ser/Thr phosphatase, homologous to PP2A catalytic subunit in eukaryote phoshotases, phosphorylates ArnB, implicated in repressing archaellum expression, See Also: PMID 24078887"
 YtrA-OE	SACI_RS08880	ytrA	SACI_RS08880	Saci_1851	Sacid_01820		-	"ChIP-Seq, ChIP-qPCR, EMSA, qRT-PCR"	31552000	"YtrA_Sa TF (GntR family transcriptional regulator), Represses aromatic compound degradation operon, acetyl CoA C-acyltransferase operon, and 2 membrane proteins. Upregulates 2 alcohol dehydrogenases"
 YtrA-OE	SACI_RS08880	Saci_1850	SACI_RS08875	Saci_1850	Sacid_01819		-	"ChIP-Seq, EMSA, qRT-PCR"	31552000	
@@ -96,32 +94,33 @@ YtrA-OE	SACI_RS08880	Saci_2230	SACI_RS10780	Saci_2230	Sacid_02231		-	qRT-PCR	315
 YtrA-OE	SACI_RS08880	hpaD	SACI_RS11105	Saci_2295	Sacid_02297	bphC	-	qRT-PCR	31552000	
 YtrA-OE	SACI_RS08880	hpaH	SACI_RS11100	Saci_2294	Sacid_02296		-	qRT-PCR	31552000	
 YtrA-OE	SACI_RS08880	Saci_2293	SACI_RS11095	Saci_2293	Sacid_02295		-	qRT-PCR	31552000	
-XylR		Saci_0327	SACI_RS01600	Saci_0327	Sacid_00323		-	RNA-seq	29150511	
-XylR		amt	SACI_RS04215	Saci_0883	Sacid_00860		+	RNA-seq	29150511	
-XylR		Saci_1003	SACI_RS04790	Saci_1003	Sacid_00977		+	RNA-seq	29150511	
-XylR		Saci_1147	SACI_RS05465	Saci_1147	Sacid_01123		-	RNA-seq	29150511	
-XylR		Saci_1148	SACI_RS05470	Saci_1148	Sacid_01124		-	RNA-seq	29150511	
-XylR		amyA	SACI_RS05535	Saci_1162	Sacid_01139		-	RNA-seq	29150511	
-XylR		KGSADH	SACI_RS09350	Saci_1938	Sacid_01923	aldHT_2	+	RNA-seq	29150511	
-XylR		KDXD	SACI_RS09355	Saci_1939	Sacid_01924	KDAD	+	RNA-seq	29150511	
-XylR		kdhC	SACI_RS10235	Saci_2117	Sacid_02114		+	RNA-seq	29150511	
-XylR		araG	SACI_RS10250	Saci_2120	Sacid_02117	"xylG, frcA"	+	RNA-seq	29150511	
-XylR		araH	SACI_RS10255	Saci_2121	Sacid_02118	"xylH, rbsC"	+	RNA-seq	29150511	
-XylR		araF	SACI_RS10260	Saci_2122	Sacid_02119	"xylF, sbp"	+	RNA-seq	29150511	
-XylR		Saci_2139	SACI_RS10345	Saci_2139	Sacid_02137		+	RNA-seq	29150511	
-XylR		Saci_2230	SACI_RS10780	Saci_2230	Sacid_02231		-	RNA-seq	29150511	
-XylR		Saci_2231	SACI_RS10785	Saci_2231	Sacid_02232		-	RNA-seq	29150511	
-XylR		Saci_2232	SACI_RS10790	Saci_2232	Sacid_02233		-	RNA-seq	29150511	
-XylR		Saci_2233	SACI_RS10795	Saci_2233	Sacid_02234		-	RNA-seq	29150511	
-XylR		Saci_2234	SACI_RS10800	Saci_2234	Sacid_02235		-	RNA-seq	29150511	
-XylR		acsA_5	SACI_RS10805	Saci_2235	Sacid_02236		-	RNA-seq	29150511	
-XylR;AraC		mat	SACI_RS03820	Saci_0798	Sacid_00778			SDS-PAGE	29150511	
-XylR;AraC		Saci_1668	SACI_RS07960	Saci_1668	Sacid_01631			SDS-PAGE	29150511	
-XylR;AraC		Saci_1737	SACI_RS08300	Saci_1737	Sacid_01701			SDS-PAGE	29150511	
-XylR;AraC		Saci_1760	SACI_RS08415	Saci_1760	Sacid_01725			SDS-PAGE	29150511	
-XylR;AraC		araF	SACI_RS10260	Saci_2122	Sacid_02119	"xylF, sbp"		SDS-PAGE	29150511	
-XylR;AraC		Saci_2316	SACI_RS11210	Saci_2316	Sacid_02319			SDS-PAGE	29150511	
-XylR;AraC		Saci_2356	SACI_RS11910	Saci_2356	Sacid_02355			SDS-PAGE	29150511	
+XylR	SACI_RS10230	xylR	SACI_RS10230	Saci_2116	Sacid_02113			RNA-seq	32528450	"Pentose regulon TF (D-Xylose / L-Arabinose), D-Arabinose also induces this even though Saci cannot utilize it"
+XylR	SACI_RS10230	Saci_0327	SACI_RS01600	Saci_0327	Sacid_00323		-	RNA-seq	29150511	
+XylR	SACI_RS10230	mat	SACI_RS03820	Saci_0798	Sacid_00778			SDS-PAGE	29150511	
+XylR	SACI_RS10230	amt	SACI_RS04215	Saci_0883	Sacid_00860		+	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_1003	SACI_RS04790	Saci_1003	Sacid_00977		+	RNA-seq	29150511	
+XylR	SACI_RS10230	D-KDXD_1	SACI_RS04965	Saci_1039	Sacid_01013	L-KDAD_1			32528450	
+XylR	SACI_RS10230	Saci_1147	SACI_RS05465	Saci_1147	Sacid_01123		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_1148	SACI_RS05470	Saci_1148	Sacid_01124		-	RNA-seq	29150511	
+XylR	SACI_RS10230	amyA	SACI_RS05535	Saci_1162	Sacid_01139		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_1668	SACI_RS07960	Saci_1668	Sacid_01631			SDS-PAGE	29150511	
+XylR	SACI_RS10230	Saci_1737	SACI_RS08300	Saci_1737	Sacid_01701			SDS-PAGE	29150511	
+XylR	SACI_RS10230	Saci_1760	SACI_RS08415	Saci_1760	Sacid_01725			SDS-PAGE	29150511	
+XylR	SACI_RS10230	KGSADH	SACI_RS09350	Saci_1938	Sacid_01923	aldHT_2	+	RNA-seq	"29150511, 32528450"	
+XylR	SACI_RS10230	D-KDXD_2	SACI_RS09355	Saci_1939	Sacid_01924	L-KDAD_2	+	RNA-seq	"29150511, 32528450"	
+XylR	SACI_RS10230	kdhC	SACI_RS10235	Saci_2117	Sacid_02114		+	RNA-seq	29150511	
+XylR	SACI_RS10230	xylH	SACI_RS10250	Saci_2120	Sacid_02117	"araH, frcA"	+	RNA-seq	29150511	
+XylR	SACI_RS10230	xylG	SACI_RS10255	Saci_2121	Sacid_02118	"araG, rbsC"	+	RNA-seq	29150511	
+XylR	SACI_RS10230	xylF	SACI_RS10260	Saci_2122	Sacid_02119	"araF, sbp"	+	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2139	SACI_RS10345	Saci_2139	Sacid_02137		+	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2230	SACI_RS10780	Saci_2230	Sacid_02231		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2231	SACI_RS10785	Saci_2231	Sacid_02232		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2232	SACI_RS10790	Saci_2232	Sacid_02233		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2233	SACI_RS10795	Saci_2233	Sacid_02234		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2234	SACI_RS10800	Saci_2234	Sacid_02235		-	RNA-seq	29150511	
+XylR	SACI_RS10230	acsA_5	SACI_RS10805	Saci_2235	Sacid_02236		-	RNA-seq	29150511	
+XylR	SACI_RS10230	Saci_2316	SACI_RS11210	Saci_2316	Sacid_02319			SDS-PAGE	29150511	
+XylR	SACI_RS10230	Saci_2356	SACI_RS11910	Saci_2356	Sacid_02355			SDS-PAGE	29150511	
 Urm1		urm1	SACI_RS03190	Saci_0669	Sacid_00651			"BLAST, X-ray crystallography, Coomasie stain, Anti-His-tag western blot"	26348592	Ubiquitin-related modifier-1 protein Urm1 (MoaD/ThiS family) aka small Ubl archaeal modifier protein (SAMP)
 Urm1		PAN	SACI_RS03125	Saci_0656	Sacid_00638	ftsH_1		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
 Urm1		PAC2	SACI_RS03135	Saci_0658	Sacid_00640			"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
@@ -139,6 +138,6 @@ heat-shock		pfdA	SACI_RS06985	Saci_1463	Sacid_01430		+	qRT-PCR	32562000
 heat-shock		pfdB	SACI_RS02875	Saci_0605	Sacid_00591		+	qRT-PCR	32562000	
 heat-shock		ytrA	SACI_RS08880	Saci_1851	Sacid_01820		+	qRT-PCR	32562000	
 heat-shock		abfR1	SACI_RS02160	Saci_0446	Sacid_00440		+	qRT-PCR	32562000	
-heat-shock		Saci_0102	SACI_RS00480	Saci_0102	Sacid_00097		+	qRT-PCR	32562000	
+heat-shock		sta1	SACI_RS00480	Saci_0102	Sacid_00097		+	qRT-PCR	32562000	
 heat-shock		Saci_1242	SACI_RS05925	Saci_1242	Sacid_01219		+	qRT-PCR	32562000	
 heat-shock		Saci_1012	SACI_RS04830	Saci_1012	Sacid_00985		-	qRT-PCR	32562000	

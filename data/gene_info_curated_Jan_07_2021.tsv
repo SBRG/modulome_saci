@@ -14,7 +14,7 @@ SACI_RS00055	Saci_0012	Saci_0012	Sacid_00012		8367.0	9035.0	+	chlorite dismutase
 SACI_RS00060	nudF	Saci_0013	Sacid_00013		8989.0	9516.0	-	NUDIX hydrolase	ADP-ribose pyrophosphatase	"Replication, recombination and repair"	A0A0U2Y9R3	NC_007181.1
 SACI_RS00065	Saci_0014	Saci_0014	Sacid_00014		9521.0	10129.0	-	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HBG1	NC_007181.1
 SACI_RS00070	nfo	Saci_0015	Sacid_00015		10199.0	11032.0	+	TIM barrel protein	endonuclease 4	Carbohydrate transport and metabolism	A0A0U3GHG1	NC_007181.1
-SACI_RS00075	Saci_0016	Saci_0016	Sacid_00016		11025.0	11702.0	+	phosphoglycolate phosphatase	hypothetical protein	Function unknown	A0A0U2VWY0	NC_007181.1
+SACI_RS00075	Saci_0016	Saci_0016	Sacid_00016		11025.0	11702.0	+	phosphoglycolate phosphatase (putative TPP gene involved in trehalose synthesis)	hypothetical protein	Function unknown	A0A0U2VWY0	NC_007181.1
 SACI_RS00080	Saci_0017	Saci_0017	Sacid_00017		11673.0	12182.0	-	methyltransferase domain-containing protein	hypothetical protein	"Translation, ribosomal structure and biogenesis"	UPI0009B59A0C	NC_007181.1
 SACI_RS00085	gph_1	Saci_0018	Sacid_00018		12269.0	12931.0	-	HAD family hydrolase	Phosphoglycolate phosphatase	Function unknown	A0A0U3HMZ9	NC_007181.1
 SACI_RS00090	Saci_0019	Saci_0019	Sacid_00019		12928.0	13242.0	-	transcriptional regulator	hypothetical protein	Transcription	A0A0U3FPJ0	NC_007181.1
@@ -48,7 +48,7 @@ SACI_RS00215	Saci_0048	Saci_0048	Sacid_00046		33275.0	33697.0	-	transcriptional 
 SACI_RS00220	Saci_0049	Saci_0049	Sacid_00047		34242.0	34703.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GLA1	NC_007181.1
 SACI_RS00225	Saci_0050	Saci_0050	Sacid_00048		34784.0	35782.0	-	DNA double-strand break repair nuclease NurA	hypothetical protein	Function unknown	A0A0U2X1I6	NC_007181.1
 SACI_RS00230	smc_1	Saci_0051	Sacid_00049		35772.0	38432.0	-	AAA family ATPase	Chromosome partition protein Smc	"Replication, recombination and repair"	A0A0U3H4J7	NC_007181.1
-SACI_RS00235	cpdA	Saci_0052	Sacid_00050		38429.0	39577.0	-	exonuclease SbcCD subunit D	"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA"	"Replication, recombination and repair"	A0A0U3HBD0	NC_007181.1
+SACI_RS00235	cpdA	Saci_0052	Sacid_00050	mre11	38429.0	39577.0	-	"exonuclease SbcCD subunit D, mre11 repair nuclease"	"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA"	"Replication, recombination and repair"	A0A0U3HBD0	NC_007181.1
 SACI_RS00240	Saci_0053	Saci_0053	Sacid_00051		39583.0	41070.0	-	ATP-binding protein	hypothetical protein	"Replication, recombination and repair"	A0A0U3GHC8	NC_007181.1
 SACI_RS00245	Saci_0054	Saci_0054	Sacid_00052		41173.0	41547.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FX00	NC_007181.1
 SACI_RS00250	Saci_0055	Saci_0055	Sacid_00053		41687.0	42094.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FQ04	NC_007181.1
@@ -94,7 +94,7 @@ SACI_RS00465	doxE	Saci_0099	Sacid_00094		75808.0	75993.0	+	DoxBCE complex compon
 SACI_RS00470	ycfH_1	Saci_0100	Sacid_00095		76005.0	76736.0	-	TatD family hydrolase	putative metal-dependent hydrolase YcfH	"Replication, recombination and repair"	A0A0U3GU67	NC_007181.1
 SACI_RS00475	Saci_0101	Saci_0101	Sacid_00096		76782.0	76943.0	-	AbrB/MazE/SpoVT family DNA-binding domain-containing protein	hypothetical protein	Transcription	A0A0U3FP02	NC_007181.1
 SACI_RS11785	SACI_RS11785				76954.0	77094.0	-	DUF1836 domain-containing protein		No COG annotation	UPI0011BD5F4A	NC_007181.1
-SACI_RS00480	Saci_0102	Saci_0102	Sacid_00097		77181.0	77561.0	+	ArsR family transcriptional regulator	hypothetical protein	Transcription	A0A0U3HC64	NC_007181.1
+SACI_RS00480	sta1	Saci_0102	Sacid_00097		77181.0	77561.0	+	ArsR family transcriptional regulator	hypothetical protein	Transcription	A0A0U3HC64	NC_007181.1
 SACI_RS00485	Saci_0103	Saci_0103	Sacid_00098		77583.0	78254.0	-	diphthine--ammonia ligase	hypothetical protein	Function unknown	A0A0U3HFA7	NC_007181.1
 SACI_RS00490	Saci_0104	Saci_0104	Sacid_00099		78251.0	78718.0	-	hypothetical protein	hypothetical protein	"Secondary metabolites biosynthesis, transport, and catabolism"	A0A0U3FGP0	NC_007181.1
 SACI_RS00495	mobA_1	Saci_0105	Sacid_00100		78712.0	79299.0	-	molybdenum cofactor guanylyltransferase	putative molybdenum cofactor guanylyltransferase	Coenzyme transport and metabolism	A0A0U3F8M3	NC_007181.1
@@ -129,7 +129,7 @@ SACI_RS00640	Saci_0135	Saci_0135	Sacid_00130		105251.0	106054.0	-	aldo/keto redu
 SACI_RS00645	lpdV	Saci_0136	Sacid_00131		106051.0	107295.0	-	NAD(P)/FAD-dependent oxidoreductase	Dihydrolipoyl dehydrogenase	Energy production and conversion	A0A0U3FG68	NC_007181.1
 SACI_RS00650	thiC	Saci_0137	Sacid_00132	bzaF	107432.0	108718.0	+	phosphomethylpyrimidine synthase ThiC	5-hydroxybenzimidazole synthase	Coenzyme transport and metabolism	A0A0U2Y1Q4	NC_007181.1
 SACI_RS00655	Saci_0138	Saci_0138	Sacid_00133		108774.0	109628.0	+	translation elongation factor	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3H3F0	NC_007181.1
-SACI_RS00660	SACI_RS00660		Sacid_00134		109767.0	110435.0	+	prepilin peptidase	hypothetical protein	Cell motility	UPI0009B5AD12	NC_007181.1
+SACI_RS00660	pibD		Sacid_00134		109767.0	110435.0	+	"prepilin peptidase, putative class III signal peptidase PibD"	hypothetical protein	Cell motility	UPI0009B5AD12	NC_007181.1
 SACI_RS00665	Saci_0140	Saci_0140	Sacid_00135		110503.0	111342.0	+	DUF973 family protein	hypothetical protein	No COG annotation	A0A0U3FNX1	NC_007181.1
 SACI_RS00670	Saci_0141	Saci_0141	Sacid_00136		111332.0	112000.0	-	creatininase family protein	hypothetical protein	Coenzyme transport and metabolism	A0A0U3GPI0	NC_007181.1
 SACI_RS00675	SACI_RS00675		Sacid_00137		112370.0	113017.0	-	hypothetical protein	putative transporter	Inorganic ion transport and metabolism	A0A0U2W555	NC_007181.1
@@ -166,7 +166,7 @@ SACI_RS00830	Saci_0174	Saci_0174	Sacid_00167		139725.0	140291.0	-	exosome comple
 SACI_RS00835	dph2	Saci_0175	Sacid_00168		140298.0	141302.0	-	diphthamide biosynthesis enzyme Dph2	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3GU07	NC_007181.1
 SACI_RS00840	Saci_0176	Saci_0176	Sacid_00169		141299.0	141829.0	-	50S ribosomal protein L16	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3GV37	NC_007181.1
 SACI_RS00845	SACI_RS00845		Sacid_00170		141860.0	142120.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FNU1	NC_007181.1
-SACI_RS00850	Saci_0177	Saci_0177	Sacid_00171		142098.0	143135.0	-	hypothetical protein	hypothetical protein	"Replication, recombination and repair"	A0A0U2NA94	NC_007181.1
+SACI_RS00850	recJdbh	Saci_0177	Sacid_00171		142098.0	143135.0	-	hypothetical protein	hypothetical protein	"Replication, recombination and repair"	A0A0U2NA94	NC_007181.1
 SACI_RS00855	Saci_0178	Saci_0178	Sacid_00172		143120.0	144070.0	-	flippase-like domain-containing protein	hypothetical protein	Function unknown	A0A0U3GPE9	NC_007181.1
 SACI_RS00860	ttuC	Saci_0179	Sacid_00173		144039.0	144911.0	-	ELSA/Uba4p/ThiF E1-like enzyme (HesA/MoeB/ThiF family) [needed to bind with Urn1]	Sulfur carrier protein adenylyltransferase	Coenzyme transport and metabolism	A0A0U3H5U9	NC_007181.1
 SACI_RS00865	aptA	Saci_0180	Sacid_00174		144979.0	145794.0	+	transketolase	Apulose-4-phosphate transketolase subunit A	Carbohydrate transport and metabolism	A0A0U3FGH7	NC_007181.1
@@ -216,7 +216,7 @@ SACI_RS01080	Saci_0223	Saci_0223	Sacid_00217		183419.0	183763.0	-	PaREP1 family 
 SACI_RS01085	Saci_0224	Saci_0224	Sacid_00218		183747.0	184130.0	-	PaREP1 family protein	hypothetical protein	Function unknown	M1IMM7	NC_007181.1
 SACI_RS01090	KDGA	Saci_0225	Sacid_00221	nanA	186300.0	187166.0	+	dihydrodipicolinate synthase family protein	N-acetylneuraminate lyase	Amino acid transport and metabolism	A0A0U3GTV7	NC_007181.1
 SACI_RS01095	kdgK	Saci_0226	Sacid_00222		187177.0	188112.0	+	sugar kinase	2-dehydro-3-deoxygluconokinase	Carbohydrate transport and metabolism	A0A0U3H3A1	NC_007181.1
-SACI_RS01100	gapN	Saci_0227	Sacid_00223		188141.0	189664.0	+	aldehyde dehydrogenase family protein	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase	Energy production and conversion	A0A0U3FNP7	NC_007181.1
+SACI_RS01100	gapN	Saci_0227	Sacid_00223		188141.0	189664.0	+	glyceraldehyde-3-phosphate dehydrogenase	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase	Energy production and conversion	A0A0U3FNP7	NC_007181.1
 SACI_RS01105	Saci_0228	Saci_0228	Sacid_00224		189727.0	190044.0	-	Rieske 2Fe-2S domain-containing protein	hypothetical protein	Inorganic ion transport and metabolism	A0A0U2NA72	NC_007181.1
 SACI_RS01110	Saci_0229	Saci_0229	Sacid_00225		190498.0	191061.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GP95	NC_007181.1
 SACI_RS01115	SACI_RS01115		Sacid_00226		191187.0	191366.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2W4Y9	NC_007181.1
@@ -368,7 +368,7 @@ SACI_RS01845	priX	Saci_0377	Sacid_00373		325607.0	326065.0	-	DNA primase noncata
 SACI_RS01850	ttuA_1	Saci_0378	Sacid_00374		326072.0	327019.0	-	adenine nucleotide alpha hydrolase family protein	tRNA-5-methyluridine(54) 2-sulfurtransferase	"Cell cycle control, cell division, chromosome partitioning"	A0A0U3FFJ9	NC_007181.1
 SACI_RS01855	Saci_0379	Saci_0379	Sacid_00375		327075.0	327767.0	+	hypothetical protein	hypothetical protein	Amino acid transport and metabolism	A0A0U3GTG6	NC_007181.1
 SACI_RS01860	sfsA	Saci_0380	Sacid_00376		327735.0	328412.0	-	DNA/RNA nuclease SfsA	Sugar fermentation stimulation protein A	Function unknown	A0A0U3H2V9	NC_007181.1
-SACI_RS01865	cobB	Saci_0381	Sacid_00377		328420.0	329226.0	-	NAD-dependent deacylase	NAD-dependent protein deacetylase	Transcription	UPI0000552254	NC_007181.1
+SACI_RS01865	cobB	Saci_0381	Sacid_00377		328420.0	329226.0	-	"NAD-dependent deacylase, Sir2 Alba deacetylase"	NAD-dependent protein deacetylase	Transcription	UPI0000552254	NC_007181.1
 SACI_RS01870	Saci_0382	Saci_0382	Sacid_00378		329597.0	329791.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H3D3	NC_007181.1
 SACI_RS01875	mctP_1	Saci_0383	Sacid_00379		329797.0	331356.0	+	sodium:solute symporter	Monocarboxylate transport permease protein	Amino acid transport and metabolism	A0A0U3GK45	NC_007181.1
 SACI_RS01880	Saci_0384	Saci_0384	Sacid_00380		331631.0	331996.0	+	DUF2203 domain-containing protein	hypothetical protein	Function unknown	A0A0U3HEK3	NC_007181.1
@@ -433,7 +433,7 @@ SACI_RS02165	Saci_0447	Saci_0447	Sacid_00441		380399.0	381127.0	-	5-formyltetrah
 SACI_RS02170	Saci_0448	Saci_0448	Sacid_00442		381108.0	381671.0	-	LysE family transporter	hypothetical protein	Amino acid transport and metabolism	A0A0U3HAF0	NC_007181.1
 SACI_RS02175	Saci_0449	Saci_0449	Sacid_00443		381830.0	382318.0	+	helix-turn-helix domain-containing protein	hypothetical protein	"Intracellular trafficking, secretion, and vesicular transport"	A0A0U3HAC8	NC_007181.1
 SACI_RS02180	Saci_0450	Saci_0450	Sacid_00444		382309.0	383454.0	-	tryptophan--tRNA ligase	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3FW41	NC_007181.1
-SACI_RS02185	Saci_0451	Saci_0451	Sacid_00445		383513.0	384157.0	-	hypothetical protein	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	UPI0000552296	NC_007181.1
+SACI_RS02185	cdvB1	Saci_0451	Sacid_00445		383513.0	384157.0	-	hypothetical protein	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	UPI0000552296	NC_007181.1
 SACI_RS02190	alaS_1		Sacid_00446		384233.0	384937.0	+	alanyl-tRNA editing protein	Alanine--tRNA ligase	"Translation, ribosomal structure and biogenesis"	A0A0U3HLW6	NC_007181.1
 SACI_RS02195	Saci_0453	Saci_0453	Sacid_00447		385017.0	385448.0	-	GtrA family protein	hypothetical protein	Cell wall/membrane/envelope biogenesis	A0A0U3FN86	NC_007181.1
 SACI_RS02200	Saci_0454	Saci_0454	Sacid_00448		385508.0	386461.0	-	histidinol-phosphate aminotransferase family protein	putative aminotransferase	Amino acid transport and metabolism	A0A0U3FFE1	NC_007181.1
@@ -567,7 +567,7 @@ SACI_RS02850	hicd	Saci_0600	Sacid_00586		480116.0	481129.0	-	isocitrate/isopropy
 SACI_RS02855	Saci_0601	Saci_0601	Sacid_00587		481139.0	481741.0	-	DUF447 family protein	hypothetical protein	Function unknown	A0A0U2NF06	NC_007181.1
 SACI_RS02860	yjjG	Saci_0602	Sacid_00588		481827.0	482549.0	-	HAD family hydrolase	Pyrimidine 5'-nucleotidase YjjG	Function unknown	A0A0U3GVL8	NC_007181.1
 SACI_RS02865	fusA	Saci_0603	Sacid_00589		482557.0	484770.0	-	elongation factor EF-2	Elongation factor G	"Translation, ribosomal structure and biogenesis"	A0A0U3FMZ4	NC_007181.1
-SACI_RS02870	Saci_0604	Saci_0604	Sacid_00590		484969.0	485679.0	-	multidrug MFS transporter	hypothetical protein	"Replication, recombination and repair"	A0A0U2VVC9	NC_007181.1
+SACI_RS02870	xpf	Saci_0604	Sacid_00590		484969.0	485679.0	-	"multidrug MFS transporter, XPF/RAD1 repair endonuclease"	hypothetical protein	"Replication, recombination and repair"	A0A0U2VVC9	NC_007181.1
 SACI_RS02875	pfdB	Saci_0605	Sacid_00591		485705.0	486082.0	-	prefoldin subunit beta	hypothetical protein	"Post-translational modification, protein turnover,and chaperones"	A0A0U3GSZ8	NC_007181.1
 SACI_RS02880	Saci_0606	Saci_0606	Sacid_00592		486079.0	486312.0	-	hypothetical protein	hypothetical protein	Function unknown	A0A0U2WSL2	NC_007181.1
 SACI_RS02885	Saci_0607	Saci_0607	Sacid_00593		486290.0	486811.0	-	Brix domain-containing protein	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3GZL6	NC_007181.1
@@ -586,7 +586,7 @@ SACI_RS02945	glmU_1	Saci_0619	Sacid_00605		494154.0	495371.0	-	NTP transferase d
 SACI_RS02950	Saci_0620	Saci_0620	Sacid_00606		495383.0	495976.0	-	30S ribosomal protein S3ae	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3HLJ7	NC_007181.1
 SACI_RS02955	trmL	Saci_0621	Sacid_00607		496001.0	496708.0	-	RNA methyltransferase	tRNA (cytidine(34)-2'-O)-methyltransferase	"Translation, ribosomal structure and biogenesis"	A0A0U3GG23	NC_007181.1
 SACI_RS02960	prmC	Saci_0622	Sacid_00608		496683.0	497285.0	-	methyltransferase	Release factor glutamine methyltransferase	"Translation, ribosomal structure and biogenesis"	A0A0U3FF22	NC_007181.1
-SACI_RS02965	rsmA	Saci_0623	Sacid_00609		497237.0	497905.0	-	16S ribosomal RNA methyltransferase A	Ribosomal RNA small subunit methyltransferase A	"Translation, ribosomal structure and biogenesis"	A0A0U3GSY3	NC_007181.1
+SACI_RS02965	rsmA	Saci_0623	Sacid_00609	saci_KgsA/Dim1	497237.0	497905.0	-	16S ribosomal RNA methyltransferase A (KgsA/Dim1 archaeal homolog)	Ribosomal RNA small subunit methyltransferase A	"Translation, ribosomal structure and biogenesis"	A0A0U3GSY3	NC_007181.1
 SACI_RS02970	Saci_0624	Saci_0624	Sacid_00610		497902.0	498528.0	-	DUF655 domain-containing protein	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U2WSK0	NC_007181.1
 SACI_RS02975	Saci_0625	Saci_0625	Sacid_00611		498566.0	498910.0	-	DNA-directed RNA polymerase subunit F	hypothetical protein	Transcription	A0A0U2Y0G8	NC_007181.1
 SACI_RS02980	Saci_0626	Saci_0626	Sacid_00612		498931.0	499242.0	-	50S ribosomal protein L21e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3H2T8	NC_007181.1
@@ -767,20 +767,20 @@ SACI_RS03890	Saci_0813	Saci_0813	Sacid_00792		650473.0	650763.0	-	50S ribosomal 
 SACI_RS03895	dbpA	Saci_0814	Sacid_00793		650808.0	653543.0	-	DEAD/DEAH box helicase	ATP-dependent RNA helicase DbpA	"Replication, recombination and repair"	A0A0U2Y035	NC_007181.1
 SACI_RS03900	Saci_0815	Saci_0815	Sacid_00794		653584.0	655284.0	+	DUF87 domain-containing protein	hypothetical protein	"Replication, recombination and repair"	A0A0U3GMZ6	NC_007181.1
 SACI_RS03905	Saci_0816	Saci_0816	Sacid_00795		655287.0	655604.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H1Y5	NC_007181.1
-SACI_RS03910	Saci_0817	Saci_0817	Sacid_00796		655601.0	656353.0	+	DNA polymerase sliding clamp	hypothetical protein	"Replication, recombination and repair"	A0A0U3FM53	NC_007181.1
+SACI_RS03910	pcnaB	Saci_0817	Sacid_00796		655601.0	656353.0	+	DNA polymerase sliding clamp	hypothetical protein	"Replication, recombination and repair"	A0A0U3FM53	NC_007181.1
 SACI_RS03915	mtaD_1	Saci_0818	Sacid_00797		656317.0	657420.0	-	amidohydrolase family protein	5-methylthioadenosine/S-adenosylhomocysteine deaminase	Nucleotide transport and metabolism	A0A0U2N979	NC_007181.1
-SACI_RS03920	Saci_0819	Saci_0819	Sacid_00798		657402.0	658061.0	-	GTP cyclohydrolase IIa	hypothetical protein	Function unknown	A0A0U2Y7W8	NC_007181.1
+SACI_RS03920	gch3	Saci_0819	Sacid_00798		657402.0	658061.0	-	GTP cyclohydrolase IIa	hypothetical protein	Function unknown	A0A0U2Y7W8	NC_007181.1
 SACI_RS03925	ribH	Saci_0820	Sacid_00799		658058.0	658534.0	-	"6,7-dimethyl-8-ribityllumazine synthase"	"6,7-dimethyl-8-ribityllumazine synthase"	Coenzyme transport and metabolism	UPI00005523C3	NC_007181.1
 SACI_RS03930	Saci_0821	Saci_0821	Sacid_00800		658506.0	658976.0	-	riboflavin synthase	hypothetical protein	Coenzyme transport and metabolism	A0A0U3FF10	NC_007181.1
 SACI_RS03935	ribB	Saci_0822	Sacid_00801		658973.0	659635.0	-	"3,4-dihydroxy-2-butanone-4-phosphate synthase"	"3,4-dihydroxy-2-butanone 4-phosphate synthase"	Coenzyme transport and metabolism	A0A0U3F6Y4	NC_007181.1
 SACI_RS03940	Saci_0823	Saci_0823	Sacid_00802		659676.0	660239.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FV31	NC_007181.1
 SACI_RS03945	Saci_0824	Saci_0824	Sacid_00803		660301.0	661065.0	+	DUF2208 domain-containing protein	hypothetical protein	Function unknown	A0A0U3GKN1	NC_007181.1
 SACI_RS03950	cbiA	Saci_0825	Sacid_00804		661036.0	662340.0	-	"cobyrinate a,c-diamide synthase"	"Cobyrinate a,c-diamide synthase"	Coenzyme transport and metabolism	A0A0U3H2S4	NC_007181.1
-SACI_RS03955	pcn	Saci_0826	Sacid_00805		662339.0	663121.0	+	proliferating cell nuclear antigen (pcna)	hypothetical protein	"Replication, recombination and repair"	A0A0U3FMI4	NC_007181.1
+SACI_RS03955	pcnaA	Saci_0826	Sacid_00805	pcn	662339.0	663121.0	+	proliferating cell nuclear antigen (pcna)	hypothetical protein	"Replication, recombination and repair"	A0A0U3FMI4	NC_007181.1
 SACI_RS03960	metE_1	Saci_0827	Sacid_00806		663121.0	664095.0	+	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	Amino acid transport and metabolism	M1I3G4	NC_007181.1
 SACI_RS03965	metE_2	Saci_0828	Sacid_00807		664088.0	665107.0	+	methionine synthase	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	Amino acid transport and metabolism	A0A0U3GSJ8	NC_007181.1
 SACI_RS03970	Saci_0829	Saci_0829	Sacid_00808		665113.0	665574.0	+	30S ribosomal protein S15	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3GTL8	NC_007181.1
-SACI_RS03975	sirB	Saci_0830	Sacid_00809		665548.0	665919.0	-	sirohydrochlorin cobaltochelatase	Sirohydrochlorin ferrochelatase	Coenzyme transport and metabolism	A0A0U3HAJ5	NC_007181.1
+SACI_RS03975	cbiX	Saci_0830	Sacid_00809	sirB	665548.0	665919.0	-	sirohydrochlorin cobaltochelatase	Sirohydrochlorin ferrochelatase	Coenzyme transport and metabolism	A0A0U3HAJ5	NC_007181.1
 SACI_RS03980	Saci_0831	Saci_0831	Sacid_00810		665983.0	666624.0	+	30S ribosomal protein S6e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3FN67	NC_007181.1
 SACI_RS03985	tuf_1	Saci_0832	Sacid_00811		666633.0	667883.0	+	translation initiation factor IF-2 subunit gamma	Elongation factor Tu	"Translation, ribosomal structure and biogenesis"	A0A0U3H6I5	NC_007181.1
 SACI_RS03990	Saci_0833	Saci_0833	Sacid_00812		667865.0	668281.0	+	PIN domain-containing protein	hypothetical protein	Function unknown	A0A0U2WS52	NC_007181.1
@@ -789,7 +789,7 @@ SACI_RS04000	Saci_0835	Saci_0835	Sacid_00814		668837.0	669043.0	+	DNA-binding pr
 SACI_RS04005	Saci_0836	Saci_0836	Sacid_00815		669058.0	669552.0	+	DUF359 domain-containing protein	hypothetical protein	Function unknown	A0A0U2Y7V1	NC_007181.1
 SACI_RS04010	apgM	Saci_0837	Sacid_00816		669605.0	670846.0	-	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"	Carbohydrate transport and metabolism	A0A0U3FM39	NC_007181.1
 SACI_RS04015	ftsH_3	Saci_0838	Sacid_00817		670843.0	673086.0	-	CDC48 family AAA ATPase	ATP-dependent zinc metalloprotease FtsH	"Post-translational modification, protein turnover,and chaperones"	UPI00005523D5	NC_007181.1
-SACI_RS04020	rgy_2	Saci_0839	Sacid_00819	rgy	673149.0	676887.0	+	reverse gyrase	Reverse gyrase	No COG annotation		NC_007181.1
+SACI_RS04020	rgy_2	Saci_0839	Sacid_00819	rgy	673149.0	676887.0	+	"reverse gyrase, topR-1 homolog"	Reverse gyrase	No COG annotation		NC_007181.1
 SACI_RS04025	Saci_0840	Saci_0840	Sacid_00820		676892.0	677785.0	+	carbon-nitrogen hydrolase family protein	hypothetical protein	Function unknown	A0A0U3H9H7	NC_007181.1
 SACI_RS04030	Saci_0841	Saci_0841	Sacid_00821		677802.0	678131.0	-	30S ribosomal protein S25e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3HDL1	NC_007181.1
 SACI_RS04035	Saci_0842	Saci_0842	Sacid_00822		678181.0	678936.0	+	TrmB family transcriptional regulator	hypothetical protein	Transcription	A0A0U3FEZ7	NC_007181.1
@@ -847,8 +847,8 @@ SACI_RS04280	Saci_0896	Saci_0896	Sacid_00872		719478.0	719996.0	+	AAA family ATP
 SACI_RS04285	Saci_0897	Saci_0897	Sacid_00873		719987.0	720484.0	+	"CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase"	hypothetical protein	Lipid transport and metabolism	A0A0U3FUX4	NC_007181.1
 SACI_RS04290	Saci_0898	Saci_0898	Sacid_00874		720478.0	720846.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2NEG1	NC_007181.1
 SACI_RS04295	Saci_0899	Saci_0899	Sacid_00875		720852.0	721073.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2N939	NC_007181.1
-SACI_RS04300	Saci_0900	Saci_0900	Sacid_00876		721095.0	723161.0	-	minichromosome maintenance protein MCM	hypothetical protein	"Replication, recombination and repair"	A0A0U3G009	NC_007181.1
-SACI_RS04305	Saci_0901	Saci_0901	Sacid_00877		723139.0	723690.0	-	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HDF4	NC_007181.1
+SACI_RS04300	mcmA	Saci_0900	Sacid_00876	mcm	721095.0	723161.0	-	minichromosome maintenance protein MCM (archaea)	hypothetical protein	"Replication, recombination and repair"	A0A0U3G009	NC_007181.1
+SACI_RS04305	gins23	Saci_0901	Sacid_00877		723139.0	723690.0	-	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HDF4	NC_007181.1
 SACI_RS04310	Saci_0902	Saci_0902	Sacid_00878		723739.0	724248.0	+	THUMP domain-containing protein	hypothetical protein	Function unknown	A0A0U3FET8	NC_007181.1
 SACI_RS04315	cdc6_2	Saci_0903	Sacid_00879		724273.0	725529.0	+	ORC1-type DNA replication protein	hypothetical protein	"Replication, recombination and repair"	A0A0U3F6S3	NC_007181.1
 SACI_RS04320	Saci_0904	Saci_0904	Sacid_00880		725556.0	725768.0	+	hypothetical protein	hypothetical protein	Transcription	UPI0011BF4E33	NC_007181.1
@@ -982,7 +982,7 @@ SACI_RS04945	btuD_5	Saci_1035	Sacid_01009		833630.0	834988.0	-	ABC transporter A
 SACI_RS04950	Saci_1036	Saci_1036	Sacid_01010		834985.0	835863.0	-	ABC transporter permease	hypothetical protein	Inorganic ion transport and metabolism	A0A0U3H913	NC_007181.1
 SACI_RS04955	dppB_1	Saci_1037	Sacid_01011		835874.0	836929.0	-	ABC transporter permease	Dipeptide transport system permease protein DppB	Inorganic ion transport and metabolism	A0A0U3FUB0	NC_007181.1
 SACI_RS04960	Saci_1038	Saci_1038	Sacid_01012		836997.0	839600.0	-	ABC transporter substrate-binding protein	hypothetical protein	Amino acid transport and metabolism	A0A0U2NE45	NC_007181.1
-SACI_RS04965	Saci_1039	Saci_1039	Sacid_01013		839843.0	840688.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FLM2	NC_007181.1
+SACI_RS04965	D-KDXD_1	Saci_1039	Sacid_01013	L-KDAD_1	839843.0	840688.0	+	D-xylonate/L-arabinoate dehydratase	hypothetical protein	No COG annotation	A0A0U3FLM2	NC_007181.1
 SACI_RS04970	Saci_1040	Saci_1040	Sacid_01014		840707.0	841018.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FM33	NC_007181.1
 SACI_RS04975	Saci_1041	Saci_1041	Sacid_01015		841049.0	842950.0	-	protein kinase	hypothetical protein	Transcription	A0A0U3HD34	NC_007181.1
 SACI_RS04980	rsmF_2	Saci_1042	Sacid_01016		842947.0	844050.0	-	RsmB/NOP family class I SAM-dependent RNA methyltransferase	Ribosomal RNA small subunit methyltransferase F	"Translation, ribosomal structure and biogenesis"	A0A0U3FEG2	NC_007181.1
@@ -1052,7 +1052,7 @@ SACI_RS05280	Saci_1108	Saci_1108	Sacid_01084		908850.0	909971.0	+	Acyl-CoA dehyd
 SACI_RS05285	fadJ_2	Saci_1109	Sacid_01085		910065.0	912056.0	-	3-hydroxyacyl-CoA dehydrogenase	Fatty acid oxidation complex subunit alpha	Lipid transport and metabolism	A0A0U3FVR3	NC_007181.1
 SACI_RS05290	gloB_1	Saci_1110	Sacid_01086		912102.0	912998.0	-	MBL fold metallo-hydrolase	Hydroxyacylglutathione hydrolase	Function unknown	A0A0U3FHR8	NC_007181.1
 SACI_RS05295	Saci_1111	Saci_1111	Sacid_01087		913160.0	914812.0	+	Acyl-CoA synthetase	Long-chain-fatty-acid--CoA ligase	Lipid transport and metabolism	M1I4H0	NC_007181.1
-SACI_RS05300	nrdB	Saci_1112	Sacid_01088		915037.0	915963.0	+	R2-like ligand-binding oxidase	R2-like ligand binding oxidase	Nucleotide transport and metabolism	A0A0U2WZ10	NC_007181.1
+SACI_RS05300	nrdB	Saci_1112	Sacid_01088		915037.0	915963.0	+	"R2-like ligand-binding oxidase, ribonucleotide reductase small subunit"	R2-like ligand binding oxidase	Nucleotide transport and metabolism	A0A0U2WZ10	NC_007181.1
 SACI_RS05305	Saci_1113	Saci_1113	Sacid_01089		915975.0	916871.0	+	Acyl-CoA dehydrogenase	hypothetical protein	Lipid transport and metabolism	A0A0U2WWK5	NC_007181.1
 SACI_RS05310	fadA	Saci_1114	Sacid_01090		916907.0	918094.0	+	acetyl-CoA C-acetyltransferase	3-ketoacyl-CoA thiolase	Lipid transport and metabolism	A0A0U3GUI7	NC_007181.1
 SACI_RS05315	adhT_3	Saci_1115	Sacid_01091		918125.0	919132.0	-	alcohol dehydrogenase	Alcohol dehydrogenase	Energy production and conversion	A0A0U3H8X4	NC_007181.1
@@ -1110,13 +1110,13 @@ SACI_RS05565	Saci_1168	Saci_1168	Sacid_01145		984081.0	984524.0	-	hypothetical p
 SACI_RS05570	trxB_2	Saci_1169	Sacid_01146	trxB	984596.0	985579.0	-	thioredoxin-disulfide reductase (FAD-dependent)	Thioredoxin reductase	Energy production and conversion	A0A0U3HCT4	NC_007181.1
 SACI_RS05575	msrA	Saci_1170	Sacid_01147	msrA2	985690.0	986256.0	+	peptide-methionine (S)-S-oxide reductase MsrA	Peptide methionine sulfoxide reductase MsrA 2	"Post-translational modification, protein turnover,and chaperones"	A0A0U3FE68	NC_007181.1
 SACI_RS05580	arnR1	Saci_1171	Sacid_01148		987096.0	987896.0	+	ArnR1 transcriptional regulator (MarR family) not nutrient-limitation dependent	hypothetical protein	Transcription	A0A0U2W2N5	NC_007181.1
-SACI_RS05585	flaJ	Saci_1172	Sacid_01149		987941.0	989377.0	-	type II secretion system F family protein	hypothetical protein	Cell motility	A0A0U3FVM0	NC_007181.1
-SACI_RS05590	flaI	Saci_1173	Sacid_01150		989361.0	990902.0	-	type II/IV secretion system ATPase subunit	hypothetical protein	Cell motility	A0A0U2WYW0	NC_007181.1
-SACI_RS05595	flaH	Saci_1174	Sacid_01151		990906.0	991607.0	-	flagellar accessory protein FlaH	hypothetical protein	Cell motility	A0A0U3GUE0	NC_007181.1
-SACI_RS05600	flaF	Saci_1175	Sacid_01152		991589.0	992083.0	-	flagellar protein F	hypothetical protein	Cell motility	A0A0U3GEN4	NC_007181.1
-SACI_RS05605	flaG	Saci_1176	Sacid_01153		992085.0	992549.0	-	flagellar protein FlaG	hypothetical protein	Cell motility	A0A0U2VTR0	NC_007181.1
-SACI_RS05610	flaX	Saci_1177	Sacid_01154		992542.0	993294.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FMG6	NC_007181.1
-SACI_RS05615	flaB	Saci_1178	Sacid_01155		993370.0	994284.0	-	flagellin	hypothetical protein	Cell motility	A0A0U2WRA8	NC_007181.1
+SACI_RS05585	arlJ	Saci_1172	Sacid_01149	flaJ	987941.0	989377.0	-	integral trans-membrane protein ArlJ	hypothetical protein	Cell motility	A0A0U3FVM0	NC_007181.1
+SACI_RS05590	arlI	Saci_1173	Sacid_01150	flaI	989361.0	990902.0	-	ATPase (cytoplasmic) ArlI (type II/IV secretion system ATPase subunit)	hypothetical protein	Cell motility	A0A0U2WYW0	NC_007181.1
+SACI_RS05595	arlH	Saci_1174	Sacid_01151	flaH	990906.0	991607.0	-	ATPase-associated cytoplasmic protein ArlH	hypothetical protein	Cell motility	A0A0U3GUE0	NC_007181.1
+SACI_RS05600	arlF	Saci_1175	Sacid_01152	flaF	991589.0	992083.0	-	"peripheral membrane protein ArlF (paralogous to ArlG, homologous to ArlB but lacking insertion motif)"	hypothetical protein	Cell motility	A0A0U3GEN4	NC_007181.1
+SACI_RS05605	arlG	Saci_1176	Sacid_01153	flaG	992085.0	992549.0	-	"peripheral membrane protein ArlG (paralogous to ArlF, homologous to ArlB but lacking insertion motif)"	hypothetical protein	Cell motility	A0A0U2VTR0	NC_007181.1
+SACI_RS05610	arlX	Saci_1177	Sacid_01154	flaX	992542.0	993294.0	-	peripheral membrane protein ArlX	hypothetical protein	No COG annotation	A0A0U3FMG6	NC_007181.1
+SACI_RS05615	arlB	Saci_1178	Sacid_01155	flaB	993370.0	994284.0	-	filament-forming archaellin ArlB (type IV pilin structural subunit)	hypothetical protein	Cell motility	A0A0U2WRA8	NC_007181.1
 SACI_RS05620	Saci_1179	Saci_1179	Sacid_01156		994427.0	994804.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3HK75	NC_007181.1
 SACI_RS05625	arnR	Saci_1180	Sacid_01157		994943.0	995752.0	+	ArnR transcriptional regulator (MarR family) nutrient-limitation dependent	hypothetical protein	Transcription	A0A0U3FLT3	NC_007181.1
 SACI_RS05630	arnS	Saci_1181	Sacid_01158		996058.0	997893.0	+	serine/threonine protein kinase	hypothetical protein	Transcription	A0A0U3FDR6	NC_007181.1
@@ -1165,7 +1165,7 @@ SACI_RS05840	Saci_1225	Saci_1225	Sacid_01202		1042172.0	1042501.0	+	hypothetical
 SACI_RS05845	Saci_1226	Saci_1226	Sacid_01203		1042482.0	1043012.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GIW3	NC_007181.1
 SACI_RS05850	phrA	Saci_1227	Sacid_01204		1043234.0	1044526.0	+	deoxyribodipyrimidine photo-lyase	Deoxyribodipyrimidine photo-lyase	"Replication, recombination and repair"	A0A0U3H8Q2	NC_007181.1
 SACI_RS05855	Saci_1228	Saci_1228	Sacid_01205		1044560.0	1045915.0	-	"P-loop ATPase superfamily protein, possible HrpA-like helicase"	hypothetical protein	No COG annotation	A0A0U3H1W8	NC_007181.1
-SACI_RS05860	Saci_1229	Saci_1229	Sacid_01206		1045922.0	1046425.0	-	GntR family transcriptional regulator	hypothetical protein	No COG annotation	A0A0U3GU98	NC_007181.1
+SACI_RS05860	pepK	Saci_1229	Sacid_01206		1045922.0	1046425.0	-	GntR family transcriptional regulator	hypothetical protein	No COG annotation	A0A0U3GU98	NC_007181.1
 SACI_RS05865	tenA	Saci_1230	Sacid_01207		1046719.0	1047375.0	-	thiaminase II	Aminopyrimidine aminohydrolase	Transcription	A0A0U3GEI7	NC_007181.1
 SACI_RS05870	Saci_1231	Saci_1231	Sacid_01208		1047426.0	1049072.0	-	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HK31	NC_007181.1
 SACI_RS05875	Saci_1232	Saci_1232	Sacid_01209		1049193.0	1049960.0	-	glucose 1-dehydrogenase	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2	Lipid transport and metabolism	A0A0U3FMD0	NC_007181.1
@@ -1185,7 +1185,7 @@ SACI_RS05940	mvaD	Saci_1245	Sacid_01222		1059369.0	1060346.0	+	diphosphomevalona
 SACI_RS05945	Saci_1246	Saci_1246	Sacid_01223		1060333.0	1061529.0	-	HD domain-containing protein	Deoxyguanosinetriphosphate triphosphohydrolase-like protein	Function unknown	A0A0U3GJL3	NC_007181.1
 SACI_RS05950	deoD	Saci_1247	Sacid_01224		1061544.0	1062254.0	-	purine-nucleoside phosphorylase	Purine nucleoside phosphorylase DeoD-type	Nucleotide transport and metabolism	A0A0U3FTV8	NC_007181.1
 SACI_RS05955	Saci_1248	Saci_1248	Sacid_01225		1062400.0	1062597.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GU82	NC_007181.1
-SACI_RS05960	mshA_1	Saci_1249	Sacid_01226		1062587.0	1063921.0	-	glycosyltransferase family 4 protein	D-inositol-3-phosphate glycosyltransferase	Cell wall/membrane/envelope biogenesis	A0A0U3GEH8	NC_007181.1
+SACI_RS05960	tps	Saci_1249	Sacid_01226	mshA_1	1062587.0	1063921.0	-	"glycosyltransferase family 4 protein (TreT homolog, specific to G6P)"	D-inositol-3-phosphate glycosyltransferase	Cell wall/membrane/envelope biogenesis	A0A0U3GEH8	NC_007181.1
 SACI_RS05965	Saci_1250	Saci_1250	Sacid_01227		1063958.0	1065688.0	+	glycoside hydrolase family 15 protein	Trehalase	Carbohydrate transport and metabolism	A0A0U2VTJ8	NC_007181.1
 SACI_RS05970	Saci_1251	Saci_1251	Sacid_01228		1065709.0	1066101.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FMC3	NC_007181.1
 SACI_RS05975	Saci_1252	Saci_1252	Sacid_01229		1066194.0	1066739.0	+	ADP-ribose-binding protein	putative protein	Function unknown	A0A0U2WR46	NC_007181.1
@@ -1213,9 +1213,9 @@ SACI_RS11640	SACI_RS11640				1085849.0	1086019.0	-	RNA-protein complex protein N
 SACI_RS06090	Saci_1275	Saci_1275	Sacid_01252		1086016.0	1086807.0	-	translation initiation factor IF-2 subunit alpha	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3GRC0	NC_007181.1
 SACI_RS06095	Saci_1276	Saci_1276	Sacid_01253		1086809.0	1087009.0	-	30S ribosomal protein S27e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3FMB7	NC_007181.1
 SACI_RS06100	Saci_1277	Saci_1277	Sacid_01254		1087006.0	1087293.0	-	50S ribosomal protein L44e	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U2WR31	NC_007181.1
-SACI_RS06105	Saci_1278	Saci_1278	Sacid_01255		1087280.0	1087741.0	-	hypothetical protein	hypothetical protein	Energy production and conversion	A0A0U2XZ09	NC_007181.1
+SACI_RS06105	gins15	Saci_1278	Sacid_01255		1087280.0	1087741.0	-	hypothetical protein	hypothetical protein	Energy production and conversion	A0A0U2XZ09	NC_007181.1
 SACI_RS06110	priS	Saci_1279	Sacid_01256		1087731.0	1088699.0	-	DNA primase small subunit PriS	hypothetical protein	"Replication, recombination and repair"	A0A0U3H0T1	NC_007181.1
-SACI_RS06115	Saci_1280	Saci_1280	Sacid_01257		1088665.0	1089402.0	-	DNA polymerase sliding clamp	hypothetical protein	"Replication, recombination and repair"	A0A0U3H0X7	NC_007181.1
+SACI_RS06115	pcnaC	Saci_1280	Sacid_01257		1088665.0	1089402.0	-	DNA polymerase sliding clamp	hypothetical protein	"Replication, recombination and repair"	A0A0U3H0X7	NC_007181.1
 SACI_RS06120	Saci_1281	Saci_1281	Sacid_01258		1089433.0	1090248.0	-	ATP/GTP-binding protein	hypothetical protein	Function unknown	UPI0002B284F9	NC_007181.1
 SACI_RS06125	prs	Saci_1282	Sacid_01259		1090238.0	1091113.0	+	ribose-phosphate diphosphokinase	Ribose-phosphate pyrophosphokinase	Nucleotide transport and metabolism	A0A0U3FL47	NC_007181.1
 SACI_RS06130	Saci_1283	Saci_1283	Sacid_01260		1091110.0	1092015.0	+	RNA methyltransferase	hypothetical protein	"Replication, recombination and repair"	A0A0U2WYL2	NC_007181.1
@@ -1243,14 +1243,14 @@ SACI_RS06255	fabG_5	Saci_1308	Sacid_01284		1113836.0	1114633.0	-	SDR family oxid
 SACI_RS06260	Saci_1309	Saci_1309	Sacid_01285		1114630.0	1115706.0	-	pseudouridylate synthase	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3FJM7	NC_007181.1
 SACI_RS06265	ffh	Saci_1310	Sacid_01286		1115675.0	1117009.0	-	signal recognition particle protein	Signal recognition particle protein	"Intracellular trafficking, secretion, and vesicular transport"	A0A0U3FBE9	NC_007181.1
 SACI_RS06270	efp	Saci_1311	Sacid_01287		1117011.0	1117406.0	-	translation initiation factor IF-5A	Elongation factor P	"Translation, ribosomal structure and biogenesis"	A0A0U3HDI9	NC_007181.1
-SACI_RS06275	TOP6A	Saci_1314	Sacid_01288		1117749.0	1118909.0	-	DNA topoisomerase IV subunit A	DNA topoisomerase 6 subunit A	"Replication, recombination and repair"	A0A0U3GP25	NC_007181.1
+SACI_RS06275	TOP6A	Saci_1314	Sacid_01288		1117749.0	1118909.0	-	DNA topoisomerase VI subunit A	DNA topoisomerase 6 subunit A	"Replication, recombination and repair"	A0A0U3GP25	NC_007181.1
 SACI_RS06280	TOP6B	Saci_1315	Sacid_01289		1118906.0	1120504.0	-	DNA topoisomerase VI subunit B	DNA topoisomerase 6 subunit B	"Replication, recombination and repair"	A0A0U3FLI6	NC_007181.1
 SACI_RS06285	Saci_1316	Saci_1316	Sacid_01290		1120540.0	1121475.0	-	deoxyhypusine synthase	Deoxyhypusine synthase-like protein	Coenzyme transport and metabolism	A0A0U3H782	NC_007181.1
 SACI_RS06290	rtcB	Saci_1317	Sacid_01291		1121472.0	1122920.0	-	RtcB family protein	RNA-splicing ligase RtcB	"Replication, recombination and repair"	A0A0U3GR90	NC_007181.1
 SACI_RS06295	Saci_1319	Saci_1319	Sacid_01292		1123028.0	1123243.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2NCN7	NC_007181.1
 SACI_RS06300	rhlB	Saci_1320	Sacid_01293		1123338.0	1126142.0	+	DEAD/DEAH box helicase	ATP-dependent RNA helicase RhlB	"Replication, recombination and repair"	A0A0U3HIH2	NC_007181.1
-SACI_RS06305	Saci_1321	Saci_1321	Sacid_01294		1126245.0	1126517.0	+	DNA-binding protein	hypothetical protein	Transcription	A0A0U3GSD1	NC_007181.1
-SACI_RS06310	rgy_3		Sacid_01295	rgy	1126482.0	1129943.0	-	reverse gyrase	Reverse gyrase	"Replication, recombination and repair"	M1I560	NC_007181.1
+SACI_RS06305	albA1	Saci_1321	Sacid_01294		1126245.0	1126517.0	+	DNA-binding protein Alba-1	hypothetical protein	Transcription	A0A0U3GSD1	NC_007181.1
+SACI_RS06310	rgy_3		Sacid_01295	rgy	1126482.0	1129943.0	-	"reverse gyrase, topR-2 homolog"	Reverse gyrase	"Replication, recombination and repair"	M1I560	NC_007181.1
 SACI_RS06315	albA	Saci_1322	Sacid_01296		1130260.0	1130553.0	+	DNA-binding protein Alba	hypothetical protein	Transcription	A0A0U3FT74	NC_007181.1
 SACI_RS06320	Saci_1323	Saci_1323	Sacid_01297		1130638.0	1130964.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GLQ4	NC_007181.1
 SACI_RS06325	Saci_1324	Saci_1324	Sacid_01298		1130939.0	1131214.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2W286	NC_007181.1
@@ -1261,7 +1261,7 @@ SACI_RS06345	cutA	Saci_1328	Sacid_01302		1133783.0	1134115.0	+	divalent-cation t
 SACI_RS06350	gatC	Saci_1329	Sacid_01303		1134099.0	1134392.0	+	Asp-tRNA(Asn) amidotransferase subunit GatC	Glutamyl-tRNA(Gln) amidotransferase subunit C	"Translation, ribosomal structure and biogenesis"	A0A0U3H8F3	NC_007181.1
 SACI_RS06355	gatA_3	Saci_1330	Sacid_01304	gatA	1134394.0	1135824.0	+	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Glutamyl-tRNA(Gln) amidotransferase subunit A	"Translation, ribosomal structure and biogenesis"	A0A0U3FK17	NC_007181.1
 SACI_RS06360	Saci_1331	Saci_1331	Sacid_01305		1135870.0	1136946.0	+	4-demethylwyosine synthase TYW1	hypothetical protein	Energy production and conversion	A0A0U3FJL4	NC_007181.1
-SACI_RS06365	Saci_1332	Saci_1332	Sacid_01306		1136977.0	1137600.0	+	DUF120 domain-containing protein	hypothetical protein	Nucleotide transport and metabolism	UPI0011BE8E24	NC_007181.1
+SACI_RS06365	ribK	Saci_1332	Sacid_01306		1136977.0	1137600.0	+	DUF120 domain-containing protein	hypothetical protein	Nucleotide transport and metabolism	UPI0011BE8E24	NC_007181.1
 SACI_RS06370	hldE	Saci_1333	Sacid_01307		1137603.0	1138289.0	-	DUF357 domain-containing protein	Bifunctional protein HldE	Cell wall/membrane/envelope biogenesis	A0A0U3GP09	NC_007181.1
 SACI_RS06375	Saci_1334	Saci_1334	Sacid_01308		1138274.0	1139029.0	-	diphthine synthase	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3FDF6	NC_007181.1
 SACI_RS06380	Saci_1335	Saci_1335	Sacid_01309		1139076.0	1139840.0	+	metallophosphoesterase	hypothetical protein	Function unknown	A0A0U3GR75	NC_007181.1
@@ -1300,9 +1300,9 @@ SACI_RS06545	Saci_1368	Saci_1368	Sacid_01341		1168374.0	1169306.0	+	3-phosphogly
 SACI_RS06550	Saci_1369	Saci_1369	Sacid_01342		1169308.0	1170423.0	+	alanine--glyoxylate aminotransferase family protein	Soluble hydrogenase 42 kDa subunit	Amino acid transport and metabolism	A0A0U3HJR1	NC_007181.1
 SACI_RS06555	Saci_1370	Saci_1370	Sacid_01343		1170456.0	1170725.0	+	DNA-directed RNA polymerase subunit K	hypothetical protein	Transcription	A0A0U3FLE1	NC_007181.1
 SACI_RS06560	topA	Saci_1371	Sacid_01344		1170732.0	1172738.0	+	DNA topoisomerase I	DNA topoisomerase 1	"Replication, recombination and repair"	A0A0U3FDC4	NC_007181.1
-SACI_RS06565	ftsH_6	Saci_1372	Sacid_01345		1172794.0	1173918.0	-	ATP-binding protein	ATP-dependent zinc metalloprotease FtsH	"Cell cycle control, cell division, chromosome partitioning"	F2Z6D2	NC_007181.1
-SACI_RS06570	Saci_1373	Saci_1373	Sacid_01346		1173921.0	1174706.0	-	cell division protein	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	A0A0U3H735	NC_007181.1
-SACI_RS06575	cdvA	Saci_1374	Sacid_01347		1174724.0	1175440.0	-	cell division protein CdvA	hypothetical protein	No COG annotation	A0A0U3HCN2	NC_007181.1
+SACI_RS06565	cdvC	Saci_1372	Sacid_01345	ftsH_6	1172794.0	1173918.0	-	ATP-binding cell division protein CdvC (Vps4 family)	ATP-dependent zinc metalloprotease FtsH	"Cell cycle control, cell division, chromosome partitioning"	F2Z6D2	NC_007181.1
+SACI_RS06570	cdvB	Saci_1373	Sacid_01346		1173921.0	1174706.0	-	"cell division protein CdvB (Vps2 family, ESCRT-III homolog)"	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	A0A0U3H735	NC_007181.1
+SACI_RS06575	cdvA	Saci_1374	Sacid_01347		1174724.0	1175440.0	-	cell division protein CdvA (coiled-coil protein)	hypothetical protein	No COG annotation	A0A0U3HCN2	NC_007181.1
 SACI_RS06580	Saci_1376	Saci_1376	Sacid_01348		1175606.0	1175854.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GZA7	NC_007181.1
 SACI_RS06585	eno	Saci_1377	Sacid_01349		1175851.0	1177101.0	-	phosphopyruvate hydratase	Enolase	Carbohydrate transport and metabolism	A0A0U3H175	NC_007181.1
 SACI_RS06590	Saci_1378	Saci_1378	Sacid_01350		1177140.0	1177451.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GLK9	NC_007181.1
@@ -1341,8 +1341,8 @@ SACI_RS06755	thrA	Saci_1412	Sacid_01382		1203857.0	1205200.0	-	aspartate kinase	
 SACI_RS06760	thrC_2	Saci_1413	Sacid_01383		1205197.0	1206375.0	-	threonine synthase	Threonine synthase	Amino acid transport and metabolism	A0A0U3GR18	NC_007181.1
 SACI_RS06765	ubiD	Saci_1414	Sacid_01384		1206477.0	1207928.0	+	UbiD family decarboxylase	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	Coenzyme transport and metabolism	A0A0U3GS61	NC_007181.1
 SACI_RS06770	Saci_1415	Saci_1415	Sacid_01385		1207900.0	1208187.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GZ78	NC_007181.1
-SACI_RS06775	Saci_1416	Saci_1416	Sacid_01386		1208272.0	1208931.0	+	hypothetical protein	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	A0A0U3H164	NC_007181.1
-SACI_RS06780	ppsA	Saci_1417	Sacid_01387		1208995.0	1211373.0	+	"pyruvate, water dikinase"	Phosphoenolpyruvate synthase	Carbohydrate transport and metabolism	A0A0U2VZT1	NC_007181.1
+SACI_RS06775	cdvB2	Saci_1416	Sacid_01386		1208272.0	1208931.0	+	hypothetical protein	hypothetical protein	"Cell cycle control, cell division, chromosome partitioning"	A0A0U3H164	NC_007181.1
+SACI_RS06780	ppsA	Saci_1417	Sacid_01387		1208995.0	1211373.0	+	phosphoenolpyruvate synthase	Phosphoenolpyruvate synthase	Carbohydrate transport and metabolism	A0A0U2VZT1	NC_007181.1
 SACI_RS06785	Saci_1418	Saci_1418	Sacid_01388		1211375.0	1211656.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3FSZ5	NC_007181.1
 SACI_RS06790	ino1_1	Saci_1419	Sacid_01389		1211613.0	1212689.0	-	inositol-3-phosphate synthase	Inositol-3-phosphate synthase	Lipid transport and metabolism	A0A0U3FUY1	NC_007181.1
 SACI_RS06795	acyP	Saci_1420	Sacid_01390		1212750.0	1213061.0	+	acylphosphatase	Acylphosphatase	Energy production and conversion	UPI0002B28D90	NC_007181.1
@@ -1360,7 +1360,7 @@ SACI_RS06850	Saci_1432	Saci_1432	Sacid_01401		1224053.0	1224445.0	+	hypothetical
 SACI_RS06855	Saci_1433	Saci_1433	Sacid_01402		1224445.0	1224765.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GZ62	NC_007181.1
 SACI_RS11925	Saci_1434	Saci_1434	Sacid_01403		1224723.0	1225055.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GJP1	NC_007181.1
 SACI_RS06865	Saci_1435	Saci_1435	Sacid_01404		1225027.0	1225245.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GLG8	NC_007181.1
-SACI_RS06870	treY_2		"Sacid_01405, Sacid_01406, Sacid_01407"	treY	1225387.0	1227549.0	-	malto-oligosyltrehalose synthase	Maltooligosyl trehalose synthase	Carbohydrate transport and metabolism		NC_007181.1
+SACI_RS06870	treY		"Sacid_01405, Sacid_01406, Sacid_01407"		1225387.0	1227549.0	-	malto-oligosyltrehalose synthase	Maltooligosyl trehalose synthase	Carbohydrate transport and metabolism		NC_007181.1
 SACI_RS06875	glgX	Saci_1439	Sacid_01408		1227546.0	1229687.0	-	glycogen debranching protein GlgX	Glycogen operon protein GlgX 	Carbohydrate transport and metabolism	F2Z6B6	NC_007181.1
 SACI_RS06880	treZ	Saci_1440	Sacid_01409		1229684.0	1231354.0	-	malto-oligosyltrehalose trehalohydrolase	Malto-oligosyltrehalose trehalohydrolase	Carbohydrate transport and metabolism	F2Z6C5	NC_007181.1
 SACI_RS11855	SACI_RS11855				1231584.0	1231667.0	+	putative integrase		No COG annotation	UPI0011BFB8E2	NC_007181.1
@@ -1517,7 +1517,7 @@ SACI_RS07620	pyrE	Saci_1597	Sacid_01562		1361635.0	1362228.0	+	orotate phosphori
 SACI_RS07625	pyrF	Saci_1598	Sacid_01563		1362215.0	1362874.0	+	orotidine 5'-phosphate decarboxylase	Orotidine 5'-phosphate decarboxylase	Nucleotide transport and metabolism	F2Z6G3	NC_007181.1
 SACI_RS07630	Saci_1599	Saci_1599	Sacid_01564		1362849.0	1363505.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3HJC7	NC_007181.1
 SACI_RS07635	Saci_1600	Saci_1600	Sacid_01565		1363489.0	1364499.0	-	phosphate uptake regulator PhoU	hypothetical protein	Transcription	A0A0U3H5S0	NC_007181.1
-SACI_RS07640	Saci_1601	Saci_1601	Sacid_01566		1364522.0	1365031.0	-	hypothetical protein	hypothetical protein	Cell motility	A0A0U3FR67	NC_007181.1
+SACI_RS07640	cdvB3	Saci_1601	Sacid_01566		1364522.0	1365031.0	-	hypothetical protein	hypothetical protein	Cell motility	A0A0U3FR67	NC_007181.1
 SACI_RS07645	Saci_1602	Saci_1602	Sacid_01567		1365256.0	1365660.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2NBW5	NC_007181.1
 SACI_RS07650	Saci_1603	Saci_1603	Sacid_01568		1365681.0	1366313.0	+	hypothetical protein	hypothetical protein	"Translation, ribosomal structure and biogenesis"	A0A0U3HHG1	NC_007181.1
 SACI_RS07655	queE	Saci_1604	Sacid_01569		1366236.0	1366871.0	-	7-carboxy-7-deazaguanine synthase QueE	7-carboxy-7-deazaguanine synthase	Coenzyme transport and metabolism	A0A0U3H8M9	NC_007181.1
@@ -1743,7 +1743,7 @@ SACI_RS08740	trxA	Saci_1823	Sacid_01792		1590068.0	1590493.0	-	thioredoxin	hypot
 SACI_RS08745	Saci_1824	Saci_1824	Sacid_01793		1590621.0	1591208.0	+	hypothetical protein	hypothetical protein	Nucleotide transport and metabolism	A0A0U3GMU6	NC_007181.1
 SACI_RS08750	Saci_1825	Saci_1825	Sacid_01794		1591473.0	1591985.0	+	DUF4382 domain-containing protein	hypothetical protein	Function unknown	A0A0U3FC43	NC_007181.1
 SACI_RS08755	Saci_1826	Saci_1826	Sacid_01795		1592189.0	1592845.0	+	hypothetical protein	hypothetical protein	Carbohydrate transport and metabolism	A0A0U3GPT7	NC_007181.1
-SACI_RS08760	treT	Saci_1827	Sacid_01796		1592842.0	1594047.0	+	glycosyltransferase	Trehalose synthase	Cell wall/membrane/envelope biogenesis	A0A0U3GY93	NC_007181.1
+SACI_RS08760	treT	Saci_1827	Sacid_01796		1592842.0	1594047.0	+	glycosyltransferring synthase	Trehalose synthase	Cell wall/membrane/envelope biogenesis	A0A0U3GY93	NC_007181.1
 SACI_RS08765	Saci_1828	Saci_1828	Sacid_01797		1594148.0	1595446.0	-	APC family permease	hypothetical protein	Amino acid transport and metabolism	A0A0U3GIU4	NC_007181.1
 SACI_RS08770	Saci_1829	Saci_1829	Sacid_01798		1595645.0	1595983.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H037	NC_007181.1
 SACI_RS08775	mhpC	Saci_1830	Sacid_01799		1596206.0	1596817.0	+	alpha/beta hydrolase	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase	Function unknown	A0A0U3GKG7	NC_007181.1
@@ -1861,9 +1861,9 @@ SACI_RS09335	ydaP	Saci_1935	Sacid_01920		1746190.0	1747839.0	-	pyruvate oxidase	
 SACI_RS09340	Saci_1936	Saci_1936	Sacid_01921		1748008.0	1748289.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GVD0	NC_007181.1
 SACI_RS09345	Saci_1937	Saci_1937	Sacid_01922		1748267.0	1748662.0	+	type II toxin-antitoxin system VapC family toxin	hypothetical protein	Defense mechanisms	A0A0U3GWJ0	NC_007181.1
 SACI_RS09350	KGSADH	Saci_1938	Sacid_01923	aldHT_2	1748995.0	1750431.0	-	α-ketoglutarate semialdehyde dehydrogenase	"Aldehyde dehydrogenase, thermostable"	Energy production and conversion	A0A0U2Y4W5	NC_007181.1
-SACI_RS09355	KDXD	Saci_1939	Sacid_01924	KDAD	1750538.0	1751416.0	+	"Fumarylacetoacetate (FAA) hydrolase, 2-keto-3-deoxyarabinoate/xylonate dehydratase"	hypothetical protein	Carbohydrate transport and metabolism	A0A0U2W7A3	NC_007181.1
+SACI_RS09355	D-KDXD_2	Saci_1939	Sacid_01924	L-KDAD_2	1750538.0	1751416.0	+	2-keto-deoxy-D-xylonate/(L-/D-)arabinoate dehydratase	hypothetical protein	Carbohydrate transport and metabolism	A0A0U2W7A3	NC_007181.1
 SACI_RS09360	laaA	Saci_1940	Sacid_01925		1751553.0	1752071.0	-	proline iminopeptidase-family hydrolase	L-amino acid amidase	Lipid transport and metabolism	UPI00005527BE	NC_007181.1
-SACI_RS09365	tnpB	Saci_1941	Sacid_01926		1752082.0	1753335.0	-	IS200/IS605 family element transposase accessory protein TnpB	IS607 family transposase ISSto13	"Replication, recombination and repair"	M1I799	NC_007181.1
+SACI_RS09365	tnpB_1	Saci_1941	Sacid_01926	tnpB	1752082.0	1753335.0	-	IS200/IS605 family element transposase accessory protein TnpB	IS607 family transposase ISSto13	"Replication, recombination and repair"	M1I799	NC_007181.1
 SACI_RS09370	pip	Saci_1942	Sacid_01927		1753532.0	1753918.0	-	alpha/beta fold hydrolase	Proline iminopeptidase	Lipid transport and metabolism	A0A0U3H5F3	NC_007181.1
 SACI_RS11500	SACI_RS11500		Sacid_01928		1754145.0	1754933.0	+	hypothetical protein	hypothetical protein	No COG annotation	UPI00068B19DE	NC_007181.1
 SACI_RS09380	xylE_1	Saci_1943	Sacid_01929		1755149.0	1756606.0	-	sugar porter family MFS transporter	D-xylose-proton symporter	Carbohydrate transport and metabolism	M1J3Z7	NC_007181.1
@@ -1952,7 +1952,7 @@ SACI_RS09760	tmk_3	Saci_2020	Sacid_02013		1833962.0	1834594.0	+	thymidylate kina
 SACI_RS09765	Saci_2021	Saci_2021	Sacid_02014		1834584.0	1835204.0	+	hypothetical protein	hypothetical protein	Function unknown	A0A0U3GM94	NC_007181.1
 SACI_RS09770	SACI_RS09770		Sacid_02015		1835546.0	1835902.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GNJ3	NC_007181.1
 SACI_RS09775	Saci_2022	Saci_2022	Sacid_02016		1835913.0	1836542.0	+	IS607 family transposase	putative protein	"Replication, recombination and repair"	A0A0U3FQE7	NC_007181.1
-SACI_RS09780	tnpB	Saci_2023	Sacid_02017		1836532.0	1837788.0	+	IS200/IS605 family element transposase accessory protein TnpB	IS607 family transposase ISSto13	"Replication, recombination and repair"	UPI000055280A	NC_007181.1
+SACI_RS09780	tnpB_2	Saci_2023	Sacid_02017	tnpB	1836532.0	1837788.0	+	IS200/IS605 family element transposase accessory protein TnpB	IS607 family transposase ISSto13	"Replication, recombination and repair"	UPI000055280A	NC_007181.1
 SACI_RS09785	Saci_2024	Saci_2024	Sacid_02018		1838017.0	1838490.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3GXQ4	NC_007181.1
 SACI_RS09790	Saci_2025	Saci_2025	Sacid_02019		1838949.0	1840031.0	+	"ATPase, ATP-binding protein"	hypothetical protein	Function unknown	A0A0U3GV60	NC_007181.1
 SACI_RS09795	cpoB	Saci_2026	Sacid_02020		1840247.0	1841509.0	+	tetratricopeptide repeat protein	Cell division coordinator CpoB	Transcription	A0A0U3GWB4	NC_007181.1
@@ -2019,7 +2019,7 @@ SACI_RS11755	soxL	Saci_2085	Sacid_02081		1903637.0	1903837.0	-	hypothetical prot
 SACI_RS10080	petB_2	Saci_2087	Sacid_02083		1903968.0	1905659.0	-	cytochrome bc complex cytochrome b subunit	Cytochrome b6	Energy production and conversion	A0A0U3FZ60	NC_007181.1
 SACI_RS10085	soxB	Saci_2088	Sacid_02084		1905649.0	1907202.0	-	cbb3-type cytochrome c oxidase subunit I	hypothetical protein	Energy production and conversion	A0A0U3H4H8	NC_007181.1
 SACI_RS10090	soxA	Saci_2089	Sacid_02085		1907202.0	1907708.0	-	quinol oxidase subunit 2	hypothetical protein	Energy production and conversion	A0A0U2NHU3	NC_007181.1
-SACI_RS10095	soxC	Saci_2090	Sacid_02086		1908235.0	1909221.0	+	Rieske 2Fe-2S domain-containing protein	hypothetical protein	Inorganic ion transport and metabolism	A0A0U3FPX6	NC_007181.1
+SACI_RS10095	soxC	Saci_2090	Sacid_02086	soxC_1	1908235.0	1909221.0	+	Rieske 2Fe-2S domain-containing protein	hypothetical protein	Inorganic ion transport and metabolism	A0A0U3FPX6	NC_007181.1
 SACI_RS10100	Saci_2091	Saci_2091	Sacid_02087		1909218.0	1909664.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2NAW8	NC_007181.1
 SACI_RS10105	soxD	Saci_2092	Sacid_02088		1909666.0	1910067.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3HC57	NC_007181.1
 SACI_RS10110	Saci_2093	Saci_2093	Sacid_02089		1910243.0	1910773.0	+	hypothetical protein	hypothetical protein	No COG annotation	UPI0002B28B76	NC_007181.1
@@ -2045,14 +2045,14 @@ SACI_RS10210	mhqR	Saci_2112	Sacid_02109		1934285.0	1934725.0	+	MarR family trans
 SACI_RS10215	tetA	Saci_2113	Sacid_02110		1934770.0	1935936.0	-	MFS transporter	"Tetracycline resistance protein, class C"	Amino acid transport and metabolism	A0A0U3GM14	NC_007181.1
 SACI_RS10220	Saci_2114	Saci_2114	Sacid_02111		1936043.0	1936831.0	+	winged helix-turn-helix transcriptional regulator	hypothetical protein	Transcription	A0A0U3GNA9	NC_007181.1
 SACI_RS10225	Saci_2115	Saci_2115	Sacid_02112		1936970.0	1937188.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H569	NC_007181.1
-SACI_RS10230	Saci_2116	Saci_2116	Sacid_02113		1937314.0	1938006.0	-	helix-turn-helix domain-containing protein	hypothetical protein	Function unknown	A0A0U3FTH1	NC_007181.1
+SACI_RS10230	xylR	Saci_2116	Sacid_02113		1937314.0	1938006.0	-	helix-turn-helix domain-containing protein	hypothetical protein	Function unknown	A0A0U3FTH1	NC_007181.1
 SACI_RS10235	kdhC	Saci_2117	Sacid_02114		1938412.0	1940589.0	+	"Aerobic-type carbon monoxide dehydrogenase, xanthine dehydrogenase family protein molybdopterin-binding subunit"	6-hydroxypseudooxynicotine dehydrogenase complex subunit gamma	Energy production and conversion	A0A0U3GUZ9	NC_007181.1
 SACI_RS10240	Saci_2118	Saci_2118	Sacid_02115		1940813.0	1941961.0	+	MFS transporter	hypothetical protein	Carbohydrate transport and metabolism	A0A0U3GI48	NC_007181.1
 SACI_RS10245	smc_2	Saci_2119	Sacid_02116		1942046.0	1943188.0	-	hypothetical protein	Chromosome partition protein Smc	Signal transduction mechanisms	M1ITR3	NC_007181.1
-SACI_RS10250	araG	Saci_2120	Sacid_02117	"xylG, frcA"	1943481.0	1944236.0	-	"ABC-type nucleotide binding domain (NBD), sugar ABC transporter ATP-binding protein"	Fructose import ATP-binding protein FrcA	Carbohydrate transport and metabolism	A0A0U3H4X1	NC_007181.1
-SACI_RS10255	araH	Saci_2121	Sacid_02118	"xylH, rbsC"	1944229.0	1945299.0	-	ABC transporter permease	Ribose import permease protein RbsC	Function unknown	A0A0U3GQF8	NC_007181.1
-SACI_RS10260	araF	Saci_2122	Sacid_02119	"xylF, sbp"	1945306.0	1946514.0	-	"D-xylose / L-arabinose substrate-binding protein, sugar ABC transporter substrate-binding protein"	hypothetical protein	Carbohydrate transport and metabolism	A0A0U2WUN9	NC_007181.1
-SACI_RS10265	smr1	Saci_2123	Sacid_02120	btuD_11	1946938.0	1949523.0	+	ABC transporter (multi-drug resistance) Sulfolobus multidrug resistance transporter 1 Smr1	Vitamin B12 import ATP-binding protein BtuD	Inorganic ion transport and metabolism	A0A0U3FZ29	NC_007181.1
+SACI_RS10250	xylH	Saci_2120	Sacid_02117	"araH, frcA"	1943481.0	1944236.0	-	D-xylose / (L-/D-)arabinose ABC-type nucleotide binding domain (NBD) ATP-binding protein	Fructose import ATP-binding protein FrcA	Carbohydrate transport and metabolism	A0A0U3H4X1	NC_007181.1
+SACI_RS10255	xylG	Saci_2121	Sacid_02118	"araG, rbsC"	1944229.0	1945299.0	-	D-xylose / (L-/D-)arabinose ABC transporter permease	Ribose import permease protein RbsC	Function unknown	A0A0U3GQF8	NC_007181.1
+SACI_RS10260	xylF	Saci_2122	Sacid_02119	"araF, sbp"	1945306.0	1946514.0	-	D-xylose / (L-/D-)arabinose substrate-binding protein (pentose ABC transporter)	hypothetical protein	Carbohydrate transport and metabolism	A0A0U2WUN9	NC_007181.1
+SACI_RS10265	smr1	Saci_2123	Sacid_02120		1946938.0	1949523.0	+	ABC transporter (multi-drug resistance) Sulfolobus multidrug resistance transporter 1 Smr1	Vitamin B12 import ATP-binding protein BtuD	Inorganic ion transport and metabolism	A0A0U3FZ29	NC_007181.1
 SACI_RS10270	Saci_2124	Saci_2124	Sacid_02122		1950091.0	1951167.0	+	amidohydrolase	hypothetical protein	Function unknown	A0A0U2WWU3	NC_007181.1
 SACI_RS10275	Saci_2125	Saci_2125	Sacid_02123		1951225.0	1951599.0	+	metal-sulfur cluster biosynthetic enzyme	hypothetical protein	Function unknown	A0A0U2X274	NC_007181.1
 SACI_RS10280	adhT_6	Saci_2126	Sacid_02124		1951596.0	1952621.0	+	NAD(P)-dependent alcohol dehydrogenase	Alcohol dehydrogenase	Energy production and conversion	A0A0U3H4E0	NC_007181.1
@@ -2086,13 +2086,13 @@ SACI_RS10415	Saci_2153	Saci_2153	Sacid_02151		1986065.0	1986532.0	-	GNAT family 
 SACI_RS10420	Saci_2154	Saci_2154	Sacid_02152		1986520.0	1987803.0	-	NADP-dependent malic enzyme	NAD-dependent malic enzyme	Energy production and conversion	A0A0U3GI19	NC_007181.1
 SACI_RS10425	Saci_2155	Saci_2155	Sacid_02153		1988203.0	1989927.0	+	S9 family peptidase	hypothetical protein	Amino acid transport and metabolism	A0A0U3GQC4	NC_007181.1
 SACI_RS10430	SACI_RS10430		Sacid_02154		1990097.0	1990336.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2W621	NC_007181.1
-SACI_RS10435	Saci_2156	Saci_2156	Sacid_02155		1990317.0	1992065.0	+	DNA polymerase elongation subunit (family B)	hypothetical protein	"Replication, recombination and repair"	A0A0U3FZ02	NC_007181.1
+SACI_RS10435	Saci_2156	Saci_2156	Sacid_02155		1990317.0	1992065.0	+	"DNA polymerase elongation subunit (family B), DNA polymerase II"	hypothetical protein	"Replication, recombination and repair"	A0A0U3FZ02	NC_007181.1
 SACI_RS10440	Saci_2158	Saci_2158	Sacid_02156		1992160.0	1992618.0	+	hypothetical protein	hypothetical protein	No COG annotation	UPI0000552889	NC_007181.1
 SACI_RS10445	Saci_2160	Saci_2160	Sacid_02157		1993525.0	1994271.0	+	flagellar protein FlgN	hypothetical protein	No COG annotation	A0A0U2YA97	NC_007181.1
 SACI_RS10450	Saci_2161	Saci_2161	Sacid_02159		1994871.0	1995689.0	+	DUF2079 domain-containing protein	hypothetical protein	Function unknown	A0A0U3H6R0	NC_007181.1
 SACI_RS10455	Saci_2162	Saci_2162	Sacid_02160		1995757.0	1997691.0	-	DUF2079 domain-containing protein	hypothetical protein	Function unknown	A0A0U3H4A2	NC_007181.1
 SACI_RS10460	Saci_2163	Saci_2163	Sacid_02161		1997900.0	1998604.0	+	zinc ribbon domain-containing protein	hypothetical protein	No COG annotation	A0A0U3HBZ5	NC_007181.1
-SACI_RS10465	ribD2	Saci_2164	Sacid_02162		1998688.0	1999332.0	-	"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase"	"2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase"	Coenzyme transport and metabolism	A0A0U3FXN9	NC_007181.1
+SACI_RS10465	ribD2	Saci_2164	Sacid_02162	rib7	1998688.0	1999332.0	-	"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase"	"2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase"	Coenzyme transport and metabolism	A0A0U3FXN9	NC_007181.1
 SACI_RS10470	glpQ	Saci_2165	Sacid_02163		1999379.0	2000074.0	-	glycerophosphodiester phosphodiesterase	Glycerophosphodiester phosphodiesterase	Energy production and conversion	A0A0U2NGT4	NC_007181.1
 SACI_RS10475	Saci_2166	Saci_2166	Sacid_02164		2000353.0	2000703.0	+	"Uroporphyrin-III methyltransferase, DUF488 family protein"	hypothetical protein	Function unknown	A0A0U3HNF9	NC_007181.1
 SACI_RS10480	Saci_2167	Saci_2167	Sacid_02165		2000715.0	2001335.0	+	helix-turn-helix domain-containing protein	hypothetical protein	Function unknown	A0A0U3FQ25	NC_007181.1
@@ -2127,9 +2127,9 @@ SACI_RS10615	Saci_2196	Saci_2196	Sacid_02196		2035017.0	2036135.0	+	mandelate ra
 SACI_RS10620	Saci_2197	Saci_2197	Sacid_02197		2036205.0	2036453.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2VXH2	NC_007181.1
 SACI_RS10625	ttuD	Saci_2198	Sacid_02198		2036450.0	2037328.0	-	sulfurtransferase	Sulfur carrier protein TtuD	Inorganic ion transport and metabolism	A0A0U2YA58	NC_007181.1
 SACI_RS10630	Saci_2199	Saci_2199	Sacid_02199		2037459.0	2037725.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2WUG5	NC_007181.1
-SACI_RS10635	cysG_2	Saci_2200	Sacid_02200		2037777.0	2038472.0	-	uroporphyrinogen-III C-methyltransferase	Siroheme synthase	Coenzyme transport and metabolism	A0A0U2NCI9	NC_007181.1
+SACI_RS10635	uroM	Saci_2200	Sacid_02200	cysG_2	2037777.0	2038472.0	-	uroporphyrinogen-III C-methyltransferase	Siroheme synthase	Coenzyme transport and metabolism	A0A0U2NCI9	NC_007181.1
 SACI_RS10640	sir	Saci_2201	Sacid_02201		2038462.0	2040240.0	-	nitrite/sulfite reductase	Sulfite reductase [ferredoxin]	Energy production and conversion	A0A0U2Y2E5	NC_007181.1
-SACI_RS10645	cysH_2	Saci_2202	Sacid_02202		2040367.0	2041086.0	-	phosphoadenylyl-sulfate reductase	Thioredoxin-dependent 5'-adenylylsulfate reductase	Amino acid transport and metabolism	A0A0U2X312	NC_007181.1
+SACI_RS10645	cysH_2	Saci_2202	Sacid_02202		2040367.0	2041086.0	-	"phosphoadenylyl-sulfate reductase, 5′-adenylylsulfate sulfotransferase 3"	Thioredoxin-dependent 5'-adenylylsulfate reductase	Amino acid transport and metabolism	A0A0U2X312	NC_007181.1
 SACI_RS10650	sat	Saci_2203	Sacid_02203		2041202.0	2042437.0	+	sulfate adenylyltransferase	Sulfate adenylyltransferase	Coenzyme transport and metabolism	A0A0U3FXL2	NC_007181.1
 SACI_RS10655	Saci_2204	Saci_2204	Sacid_02204		2042434.0	2042739.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2NGN4	NC_007181.1
 SACI_RS10660	Saci_2205	Saci_2205	Sacid_02205		2042988.0	2043923.0	+	alcohol dehydrogenase catalytic domain-containing protein	Alcohol dehydrogenase	Energy production and conversion	A0A0U3HNE2	NC_007181.1
@@ -2147,15 +2147,15 @@ SACI_RS10715	Saci_2216	Saci_2216	Sacid_02217		2059230.0	2059847.0	-	hypothetical
 SACI_RS10720	mmgC_2	Saci_2217	Sacid_02219		2059997.0	2061196.0	+	acyl-CoA dehydrogenase family protein	Acyl-CoA dehydrogenase	Lipid transport and metabolism	A0A0U3FQM0	NC_007181.1
 SACI_RS10725	fadJ_5	Saci_2218	Sacid_02220		2061332.0	2063251.0	+	3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein	Fatty acid oxidation complex subunit alpha	Lipid transport and metabolism	A0A0U3FYV7	NC_007181.1
 SACI_RS10730	Saci_2219	Saci_2219	Sacid_02221		2063298.0	2063792.0	-	hypothetical protein	hypothetical protein	Lipid transport and metabolism	A0A0U2Y2D3	NC_007181.1
-SACI_RS10735	Saci_2220	Saci_2220	Sacid_02222		2063999.0	2065036.0	+	R2-like ligand-binding oxidase	hypothetical protein	Nucleotide transport and metabolism	A0A0U3H448	NC_007181.1
+SACI_RS10735	Saci_2220	Saci_2220	Sacid_02222		2063999.0	2065036.0	+	"R2-like ligand-binding oxidase, ribonucleotide reductase small subunit"	hypothetical protein	Nucleotide transport and metabolism	A0A0U3H448	NC_007181.1
 SACI_RS10740	Saci_2221	Saci_2221	Sacid_02223		2065138.0	2065809.0	+	hypothetical protein	hypothetical protein	No COG annotation	UPI00005528C2	NC_007181.1
 SACI_RS10745	Saci_2223	Saci_2223	Sacid_02224		2065820.0	2066245.0	+	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HBU2	NC_007181.1
 SACI_RS10750	Saci_2224	Saci_2224	Sacid_02225		2066295.0	2067353.0	+	alcohol dehydrogenase catalytic domain-containing protein	Alcohol dehydrogenase	Energy production and conversion	A0A0U2NAP3	NC_007181.1
 SACI_RS10755	Saci_2225	Saci_2225	Sacid_02226		2067743.0	2069371.0	+	long-chain-fatty-acid--CoA ligase	Long-chain-fatty-acid--CoA ligase	Lipid transport and metabolism	UPI0002B2A55A	NC_007181.1
 SACI_RS10760	Saci_2226	Saci_2226	Sacid_02227		2069481.0	2069891.0	+	hypothetical protein	hypothetical protein	Function unknown	A0A0U3HFW6	NC_007181.1
 SACI_RS10765	bcp_2	Saci_2227	Sacid_02228		2070137.0	2070604.0	+	peroxiredoxin	Putative peroxiredoxin bcp	"Post-translational modification, protein turnover,and chaperones"	A0A0U3FHB5	NC_007181.1
-SACI_RS10770	Saci_2228	Saci_2228	Sacid_02229		2070581.0	2071147.0	-	indolepyruvate oxidoreductase subunit beta	hypothetical protein	Energy production and conversion	A0A0U3F977	NC_007181.1
-SACI_RS10775	Saci_2229	Saci_2229	Sacid_02230		2071135.0	2072970.0	-	indolepyruvate ferredoxin oxidoreductase subunit alpha	hypothetical protein	Energy production and conversion	A0A0U3FJW9	NC_007181.1
+SACI_RS10770	iorB	Saci_2228	Sacid_02229		2070581.0	2071147.0	-	indolepyruvate oxidoreductase subunit beta	hypothetical protein	Energy production and conversion	A0A0U3F977	NC_007181.1
+SACI_RS10775	iorA	Saci_2229	Sacid_02230		2071135.0	2072970.0	-	indolepyruvate ferredoxin oxidoreductase subunit alpha	hypothetical protein	Energy production and conversion	A0A0U3FJW9	NC_007181.1
 SACI_RS10780	Saci_2230	Saci_2230	Sacid_02231		2073136.0	2073570.0	-	"Predicted heterodisulfide reductase subunit, Zn-ribbon domain-containing OB-fold protein"	hypothetical protein	Function unknown	A0A0U3GUQ7	NC_007181.1
 SACI_RS10785	Saci_2231	Saci_2231	Sacid_02232		2073571.0	2074068.0	-	"Predicted nucleic-acid-binding protein containing a Zn-ribbon, Zn-ribbon domain-containing OB-fold protein"	hypothetical protein	Function unknown	A0A0U3GN05	NC_007181.1
 SACI_RS10790	Saci_2232	Saci_2232	Sacid_02233		2074080.0	2075258.0	-	"Acetyl-CoA acetyltransferase, thiolase domain-containing protein"	hypothetical protein	Lipid transport and metabolism	A0A0U3HCP2	NC_007181.1
@@ -2178,18 +2178,18 @@ SACI_RS10870	Saci_2248	Saci_2248	Sacid_02249		2091392.0	2091649.0	-	hypothetical
 SACI_RS10875	rsxB	Saci_2249	Sacid_02250		2091714.0	2092904.0	+	4Fe-4S binding protein	Ion-translocating oxidoreductase complex subunit B	Energy production and conversion	UPI0009B5CBF3	NC_007181.1
 SACI_RS10880	porC	Saci_2250	Sacid_02251		2092967.0	2093530.0	+	2-oxoacid:acceptor oxidoreductase family protein	Pyruvate synthase subunit PorC	Energy production and conversion	A0A0U3HCN3	NC_007181.1
 SACI_RS10885	porD	Saci_2251	Sacid_02252		2093514.0	2093780.0	+	4Fe-4S binding protein	Pyruvate synthase subunit PorD	Energy production and conversion	A0A0U3H4Z2	NC_007181.1
-SACI_RS10890	Saci_2252	Saci_2252	Sacid_02253		2093777.0	2094970.0	+	pyruvate ferredoxin oxidoreductase	Oxalate oxidoreductase subunit alpha	Energy production and conversion	A0A0U3GQ46	NC_007181.1
+SACI_RS10890	porA	Saci_2252	Sacid_02253		2093777.0	2094970.0	+	pyruvate ferredoxin oxidoreductase	Oxalate oxidoreductase subunit alpha	Energy production and conversion	A0A0U3GQ46	NC_007181.1
 SACI_RS10895	porB	Saci_2253	Sacid_02254		2094939.0	2095829.0	+	pyruvate synthase subunit beta	Pyruvate synthase subunit PorB	Energy production and conversion	A0A0U3GHS2	NC_007181.1
 SACI_RS10900	ydjG	Saci_2254	Sacid_02255		2095854.0	2096726.0	-	aldo/keto reductase	NADH-specific methylglyoxal reductase	Function unknown	A0A0U3FYT1	NC_007181.1
 SACI_RS10905	ilvB_3	Saci_2255	Sacid_02256		2096727.0	2098319.0	-	thiamine pyrophosphate-binding protein	Acetolactate synthase isozyme 1 large subunit	Amino acid transport and metabolism	A0A0U3FQH5	NC_007181.1
 SACI_RS10910	Saci_2256	Saci_2256	Sacid_02257		2098550.0	2099113.0	+	DUF1404 domain-containing protein	hypothetical protein	Function unknown	A0A0U2WUC1	NC_007181.1
 SACI_RS10915	Saci_2257	Saci_2257	Sacid_02258		2099323.0	2100048.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U2Y2A1	NC_007181.1
 SACI_RS10920	Saci_2258	Saci_2258	Sacid_02259		2100162.0	2100608.0	-	hypothetical protein	hypothetical protein	No COG annotation	F2Z5W8	NC_007181.1
-SACI_RS10925	ctaC	Saci_2259	Sacid_02260		2100611.0	2101051.0	-	cytochrome c oxidase subunit II	Cytochrome c oxidase subunit 2	Energy production and conversion	F2Z6G7	NC_007181.1
-SACI_RS10930	fbcH	Saci_2260	Sacid_02261		2101038.0	2102558.0	-	cytochrome bc complex cytochrome b subunit	Cytochrome b/c1	Energy production and conversion	A0A0U2NHR0	NC_007181.1
+SACI_RS10925	soxH	Saci_2259	Sacid_02260	ctaC	2100611.0	2101051.0	-	cytochrome c oxidase subunit II	Cytochrome c oxidase subunit 2	Energy production and conversion	F2Z6G7	NC_007181.1
+SACI_RS10930	soxC_2	Saci_2260	Sacid_02261	fbcH	2101038.0	2102558.0	-	cytochrome bc complex cytochrome b subunit	Cytochrome b/c1	Energy production and conversion	A0A0U2NHR0	NC_007181.1
 SACI_RS10935	aioB	Saci_2261	Sacid_02262		2102564.0	2103316.0	-	Rieske 2Fe-2S domain-containing protein	Arsenite oxidase subunit AioB	Inorganic ion transport and metabolism	F2Z628	NC_007181.1
 SACI_RS10940	soxE_2	Saci_2262	Sacid_02263		2103461.0	2104060.0	+	sulfocyanin	hypothetical protein	Energy production and conversion	A0A0U2NAM5	NC_007181.1
-SACI_RS10945	caaA	Saci_2263	Sacid_02264		2104738.0	2107104.0	+	cbb3-type cytochrome c oxidase subunit I	Cytochrome c oxidase polypeptide I+III	Energy production and conversion	A0A0U3FPV4	NC_007181.1
+SACI_RS10945	soxM	Saci_2263	Sacid_02264	caaA	2104738.0	2107104.0	+	cbb3-type cytochrome c oxidase subunit I	Cytochrome c oxidase polypeptide I+III	Energy production and conversion	A0A0U3FPV4	NC_007181.1
 SACI_RS10950	Saci_2264	Saci_2264	Sacid_02265		2107121.0	2107678.0	+	DUF1404 domain-containing protein	hypothetical protein	Function unknown	A0A0U3FH85	NC_007181.1
 SACI_RS10955	Saci_2265	Saci_2265	Sacid_02266		2107922.0	2108329.0	+	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3F963	NC_007181.1
 SACI_RS10960	Saci_2266	Saci_2266	Sacid_02267		2108334.0	2108570.0	-	hypothetical protein	hypothetical protein	Transcription	A0A0U3GLM8	NC_007181.1
@@ -2241,11 +2241,11 @@ SACI_RS11180	Saci_2310	Saci_2310	Sacid_02313		2156687.0	2157397.0	+	sugar nucleo
 SACI_RS11185	Saci_2311	Saci_2311	Sacid_02314		2157365.0	2157715.0	-	hypothetical protein	hypothetical protein	No COG annotation	A0A0U3H3Y0	NC_007181.1
 SACI_RS11190	rsmB_2	Saci_2312	Sacid_02315		2157765.0	2158817.0	+	RsmB/NOP family class I SAM-dependent RNA methyltransferase	Ribosomal RNA small subunit methyltransferase B	"Translation, ribosomal structure and biogenesis"	A0A0U3FPF5	NC_007181.1
 SACI_RS11195	yodB	Saci_2313	Sacid_02316		2158809.0	2159126.0	-	helix-turn-helix transcriptional regulator	HTH-type transcriptional regulator YodB	Transcription	A0A0U2NAK0	NC_007181.1
-SACI_RS11200	Saci_2314	Saci_2314	Sacid_02317		2159485.0	2159967.0	+	hypothetical protein	hypothetical protein	Function unknown	M1I8J8	NC_007181.1
-SACI_RS11210	Saci_2316	Saci_2316	Sacid_02319		2160215.0	2161798.0	-	predicted Fe-S-oxidoreductase and probably part of the aap pilus	hypothetical protein	Energy production and conversion	A0A0U3GUH3	NC_007181.1
-SACI_RS11215	Saci_2317	Saci_2317	Sacid_02320		2161884.0	2163566.0	-	"type IV secretory pathway archaeal flagella biosynthesis, type II/IV secretion system ATPase subunit"	hypothetical protein	Cell motility	A0A0U3FH28	NC_007181.1
-SACI_RS11220	Saci_2318	Saci_2318	Sacid_02321		2163735.0	2165570.0	-	type II secretion system F family protein	hypothetical protein	Cell motility	A0A0U3F8Z8	NC_007181.1
-SACI_RS11775	Saci_2319	Saci_2319			2165983.0	2166234.0	-	hypothetical protein		No COG annotation	UPI0002B290FB	NC_007181.1
+SACI_RS11200	aapA	Saci_2314	Sacid_02317		2159485.0	2159967.0	+	hypothetical protein	hypothetical protein	Function unknown	M1I8J8	NC_007181.1
+SACI_RS11210	aapX	Saci_2316	Sacid_02319		2160215.0	2161798.0	-	predicted Fe-S-oxidoreductase and probably part of the aap pilus	hypothetical protein	Energy production and conversion	A0A0U3GUH3	NC_007181.1
+SACI_RS11215	aapE	Saci_2317	Sacid_02320		2161884.0	2163566.0	-	"type IV secretory pathway archaeal flagella biosynthesis, type II/IV secretion system ATPase subunit"	hypothetical protein	Cell motility	A0A0U3FH28	NC_007181.1
+SACI_RS11220	aapF	Saci_2318	Sacid_02321		2163735.0	2165570.0	-	type II secretion system F family protein	hypothetical protein	Cell motility	A0A0U3F8Z8	NC_007181.1
+SACI_RS11775	aapB	Saci_2319			2165983.0	2166234.0	-	"hypothetical protein, aapB on + strand (between Saci_2318 and Saci_2320"		No COG annotation	UPI0002B290FB	NC_007181.1
 SACI_RS11230	gltB_1	Saci_2320	Sacid_02323	gltB	2166873.0	2169011.0	+	glutamate synthase	hypothetical protein	Amino acid transport and metabolism	A0A0U3GMR7	NC_007181.1
 SACI_RS11235	gltB_2	Saci_2321	Sacid_02324	"gltB, purF_3"	2169008.0	2170987.0	+	glutamate synthase	Amidophosphoribosyltransferase	Amino acid transport and metabolism	M1IYB3	NC_007181.1
 SACI_RS11240	Saci_2322	Saci_2322	Sacid_02325		2171040.0	2171867.0	+	cobalt-precorrin 5A hydrolase	hypothetical protein	Coenzyme transport and metabolism	A0A0U3GX65	NC_007181.1
