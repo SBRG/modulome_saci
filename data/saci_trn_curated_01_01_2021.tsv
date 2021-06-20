@@ -1,8 +1,27 @@
 regulator	regulator_id	gene_name	gene_id	old_locus_tag	prokka_locus_tag	synonyms	direction	evidence	PMID	additional_notes
-BarR	SACI_RS10330	barR	SACI_RS10330	Saci_2136	Sacid_02134			qRT-PCR	24646198	"BarR TF (Lrp/AsnC family transcriptional regulator), this family of regulators is called the ‘feat/famine regulatory protein (FFRP) family"
-BarR	SACI_RS10330	spuC	SACI_RS10335	Saci_2137	Sacid_02135		+	qRT-PCR	24646198	
+BarR	SACI_RS10330	barR	SACI_RS10330	Saci_2136	Sacid_02134		+	"ChIP-Seq, qRT-PCR"	24646198	"BarR TF (Lrp/AsnC family transcriptional regulator), this family of regulators is called the ‘feat/famine regulatory protein (FFRP) family"
+BarR	SACI_RS10330	Saci_0028	SACI_RS00130	Saci_0028	Sacid_00027			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	meaB	SACI_RS00275	Saci_0061	Sacid_00058		-	ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	infB	SACI_RS03305	Saci_0695	Sacid_00675			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_0720	SACI_RS03430	Saci_0720	Sacid_00698			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	rgy_2	SACI_RS04020	Saci_0839	Sacid_00819	"rgy, top-rgy"	-	ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	parA	SACI_RS05015	Saci_1050	Sacid_01024		-	ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	adhT_3	SACI_RS05315	Saci_1115	Sacid_01091			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	stp	SACI_RS05635	Saci_1182	Sacid_01159			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	ubiB	SACI_RS07940	Saci_1664	Sacid_01627			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_1674	SACI_RS07990	Saci_1674	Sacid_01637		-	ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_1796	SACI_RS08595	Saci_1796	Sacid_01763		-	ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_1833	SACI_RS08790	Saci_1833	Sacid_01802			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_1964	SACI_RS09490	Saci_1964	Sacid_01952			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_2025	SACI_RS09790	Saci_2025	Sacid_02019			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_2073	SACI_RS10020	Saci_2073	Sacid_02068			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	Saci_2137	SACI_RS10335	Saci_2137	Sacid_02135	spuC	+	"ChIP-Seq, qRT-PCR"	24646198	
+BarR	SACI_RS10330	Saci_2166	SACI_RS10475	Saci_2166	Sacid_02164			ChIP-Seq (weak)	27502941	
+BarR	SACI_RS10330	aapB	SACI_RS11775	Saci_2319	Saci_2319		+	ChIP-Seq (weak)	27502941	
 BarR	SACI_RS10330	gltB_1	SACI_RS11230	Saci_2320	Sacid_02323	gltB	+	ChIP-Seq	27502941	
 BarR	SACI_RS10330	gltB_2	SACI_RS11235	Saci_2321	Sacid_02324	"gltB, purF_3"	+	ChIP-Seq	27502941	
+BarR	SACI_RS10330	mctP_1	SACI_RS01875	Saci_0383	Sacid_00379		-	Network Analysis (weak)	27230583	
+BarR	SACI_RS10330	hoxN	SACI_RS09805	Saci_2028	Sacid_02022		-	Network Analysis (weak)	27230583	
 LrpC	SACI_RS07575	lrpC	SACI_RS07575	Saci_1588	Sacid_01553	Sa-Lrp		"qRT-PCR, EMSA"	23255531	"Sa-Lrp TF (Lrp/AsnC family transcriptional regulator), glutamine is a cofactor (tetramer in apo form, octomer in holo form)"
 LrpC	SACI_RS07575	barR	SACI_RS10330	Saci_2136	Sacid_02134			"qRT-PCR, EMSA"	23255531	"Interesting that barR is regulated by another Lrp family TF (Expression is twofold higher in WT vs del strain in log phase, threefold lower in stat phase)"
 LrpC	SACI_RS07575	glnA_2	SACI_RS02660	Saci_0558	Sacid_00547		+	"qRT-PCR, EMSA"	23255531	Expression is twofold higer in WT than in Sa-Lrp del strain regardless of L-glutamine being only Nitrogen source or not
@@ -21,6 +40,8 @@ LysM	SACI_RS03595	lysW	SACI_RS03600	Saci_0753	Sacid_00735			ChIP-Seq	"12042311, 
 LysM	SACI_RS03595	lysX	SACI_RS03605	Saci_0754	Sacid_00736	lysX_1		ChIP-Seq	"12042311, 23355617"	
 LysM	SACI_RS03595	lysJ	SACI_RS03610	Saci_0755	Sacid_00737			ChIP-Seq	"12042311, 23355617"	
 LysM	SACI_RS03595	lysK	SACI_RS03615	Saci_0756	Sacid_00738			ChIP-Seq	"12042311, 23355617"	
+LysM	SACI_RS03595	mctP_1	SACI_RS01875	Saci_0383	Sacid_00379		-	Network Analysis (weak)	27230583	
+LysM	SACI_RS03595	Saci_1755	SACI_RS08390	Saci_1755	Sacid_01720		-	Network Analysis (weak)	27230583	
 FadR	SACI_RS05275	fadR	SACI_RS05275	Saci_1107	Sacid_01083			"ChIP-Seq, RNA-seq"	30948713	"FadR_Sa TF (TetR/AcrR family transcriptional regulator), represses entire Saci_1103 to Saci_1126 gene cluster, binding of med- to long-chain acyl-CoA results in dissociation of TF"
 FadR	SACI_RS05275	abfD_1	SACI_RS05255	Saci_1103	Sacid_01079		-	"ChIP-Seq, RNA-seq"	30948713	
 FadR	SACI_RS05275	fabG_4	SACI_RS05260	Saci_1104	Sacid_01080		-	"ChIP-Seq, RNA-seq"	30948713	
@@ -155,11 +176,43 @@ Urm1	SACI_RS03190	thsB	SACI_RS03175	Saci_0666	Sacid_00648	groL_1		"BLAST, E coli
 Urm1	SACI_RS03190	ttuC	SACI_RS00860	Saci_0179	Sacid_00173			"BLAST, Coomasie stain, Anti-His-tag western blot"	26348592	ELSA/Uba4p/ThiF E1-like enzyme needed to activate Urm1
 Urm1	SACI_RS03190	prcB2	SACI_RS04345	Saci_0909	Sacid_00885	psmB		"E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
 Urm1	SACI_RS03190	prcA	SACI_RS02915	Saci_0613	Sacid_00599	psmA		"BLAST, E coli recominbation, co-expression, size-exlusion chromatography"	26348592	
+AbfR1	SACI_RS02160	abfR1	SACI_RS02160	Saci_0446	Sacid_00440		+	"ChIP-Seq, qRT-PCR"	28628237	"Lrs14‐type biofilm and motility regulator AbfR1, affected by starvation conditions"
+AbfR1	SACI_RS02160	arlX	SACI_RS05610	Saci_1177	Sacid_01154		+	"ChIP-Seq, qRT-PCR"	28628237	
+AbfR1	SACI_RS02160	arlB	SACI_RS05615	Saci_1178	Sacid_01155		+	"ChIP-Seq, qRT-PCR"	28628237	
+AbfR1	SACI_RS02160	aapA	SACI_RS11200	Saci_2314	Sacid_02317		-		23657363	
+AbfR1	SACI_RS02160	Saci_1908	SACI_RS09190	Saci_1908	Sacid_01882		-		23657363	"EPS system, biofilm related (makes a lot of EPS goop when AbfR1 is deleted)"
+aCPSF2-log	SACI_RS11425	aCPSF2	SACI_RS11425	Saci_2362	Sacid_02361	Saci-aCPSF2		"DESeq analysis, RNA degradation analysis"	24116119	"5’ to 3’ ribonuclease, Mn-dependent"
+aCPSF2-log	SACI_RS11425	rpl18e	SACI_RS00390	Saci_0084	Sacid_00080			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	cbiG	SACI_RS01965	Saci_0401	Sacid_00397			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	rps8	SACI_RS02765	Saci_0582	Sacid_00568	rpsH		"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	rpl23	SACI_RS02825	Saci_0595	Sacid_00581			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	ndk	SACI_RS03310	Saci_0696	Sacid_00676			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_0708	SACI_RS03370	Saci_0708	Sacid_00686			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_1119	SACI_RS05335	Saci_1119	Sacid_01095			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_1386	SACI_RS06630	Saci_1386	Sacid_01358			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_1410	SACI_RS06745	Saci_1410	Sacid_01380			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_1524	SACI_RS07275	Saci_1524	Sacid_01491			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	atpE	SACI_RS07390	Saci_1551	Sacid_01516			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	rmlD	SACI_RS08145	Saci_1705	Sacid_01669			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_2153	SACI_RS10415	Saci_2153	Sacid_02151			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-log	SACI_RS11425	Saci_2158	SACI_RS10440	Saci_2158	Sacid_02156			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	aCPSF2	SACI_RS11425	Saci_2362	Sacid_02361	Saci-aCPSF2		"DESeq analysis, RNA degradation analysis"	24116119	"5’ to 3’ ribonuclease, Mn-dependent"
+aCPSF2-stat	SACI_RS11425	fabG_1	SACI_RS00755	Saci_0158	Sacid_00153			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	yafV	SACI_RS01020	Saci_0211	Sacid_00205			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_0384	SACI_RS01880	Saci_0384	Sacid_00380			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_0730	SACI_RS03485	Saci_0730	Sacid_00711			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_0892	SACI_RS04260	Saci_0892	Sacid_00868			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_1212	SACI_RS05775	Saci_1212	Sacid_01189			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_1515	SACI_RS07230	Saci_1515	Sacid_01483			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_1821	SACI_RS08730	Saci_1821	Sacid_01790			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_1832	SACI_RS08785	Saci_1832	Sacid_01801			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_2197	SACI_RS10620	Saci_2197	Sacid_02197			"DESeq analysis, RNA degradation analysis"	24116119	
+aCPSF2-stat	SACI_RS11425	Saci_2309	SACI_RS11175	Saci_2309	Sacid_02312			"DESeq analysis, RNA degradation analysis"	24116119	
 heat-shock		thsA	SACI_RS06700	Saci_1401	Sacid_01371	groL_3	+	qRT-PCR	32562000	
 heat-shock		thsB	SACI_RS03175	Saci_0666	Sacid_00648	groL_1	+	qRT-PCR	32562000	
 heat-shock		sHSP-1	SACI_RS04405	Saci_0922	Sacid_00898		+	qRT-PCR	32562000	
 heat-shock		sHSP-2	SACI_RS07945	Saci_1665	Sacid_01628		+	qRT-PCR	32562000	
-heat-shock		htpX	SACI_RS02025	Saci_0415	Sacid_00410	htpX_1	+	qRT-PCR	32562000	
+heat-shock		htpX2	SACI_RS02025	Saci_0415	Sacid_00410		+	qRT-PCR	32562000	
 heat-shock		pfdA	SACI_RS06985	Saci_1463	Sacid_01430		+	qRT-PCR	32562000	
 heat-shock		pfdB	SACI_RS02875	Saci_0605	Sacid_00591		+	qRT-PCR	32562000	
 heat-shock		ytrA	SACI_RS08880	Saci_1851	Sacid_01820		+	qRT-PCR	32562000	
@@ -167,3 +220,128 @@ heat-shock		abfR1	SACI_RS02160	Saci_0446	Sacid_00440		+	qRT-PCR	32562000
 heat-shock		sta1	SACI_RS00480	Saci_0102	Sacid_00097		+	qRT-PCR	32562000	
 heat-shock		Saci_1242	SACI_RS05925	Saci_1242	Sacid_01219		+	qRT-PCR	32562000	
 heat-shock		Saci_1012	SACI_RS04830	Saci_1012	Sacid_00985		-	qRT-PCR	32562000	
+biofilm		doxB	SACI_RS00455	Saci_0097	Sacid_00092		+	microarray	21761944	
+biofilm		soxL2	SACI_RS08935	Saci_1860	Sacid_01830		+	microarray	21761944	
+biofilm		atpB	SACI_RS07380	Saci_1549	Sacid_01514	ntpB	-	Proteomics (mass spec)	21761944	
+biofilm		atpA	SACI_RS07375	Saci_1548	Sacid_01513	ntpA	-	Proteomics (mass spec)	21761944	
+biofilm		acsA_4	SACI_RS09970	Saci_2062	Sacid_02057		+	microarray	21761944	
+biofilm		mdh	SACI_RS01200	Saci_0246	Sacid_00243	ldh	-	Proteomics (mass spec)	21761944	
+biofilm		ppsA	SACI_RS06780	Saci_1417	Sacid_01387		+	Proteomics (mass spec)	21761944	
+biofilm		kdhC	SACI_RS10235	Saci_2117	Sacid_02114		-	microarray	21761944	
+biofilm		Saci_0331	SACI_RS01620	Saci_0331	Sacid_00327		-	Proteomics (mass spec)	21761944	
+biofilm		mvaD	SACI_RS05940	Saci_1245	Sacid_01222		+	Proteomics (mass spec)	21761944	
+biofilm		Saci_0292	SACI_RS01425	Saci_0292	Sacid_00288		+	Proteomics (mass spec)	21761944	
+biofilm		fadJ_2	SACI_RS05285	Saci_1109	Sacid_01085		+	Proteomics (mass spec)	21761944	
+biofilm		csbC_2	SACI_RS08525	Saci_1782	Sacid_01749		-	microarray	21761944	
+biofilm		bmr3	SACI_RS10205	Saci_2111	Sacid_02108		-	microarray	21761944	
+biofilm		fabG-1	SACI_RS08570	Saci_1792	Sacid_01758	bacC	-	microarray	21761944	
+biofilm		lcfB_2	SACI_RS10670	Saci_2207	Sacid_02208		+	microarray	21761944	
+biofilm		nosF	SACI_RS11155	Saci_2305	Sacid_02308		+	microarray	21761944	
+biofilm		czcD	SACI_RS01175	Saci_0242	Sacid_00238		+	microarray	21761944	
+biofilm		abfR2	SACI_RS05830	Saci_1223	Sacid_01200		+	Proteomics (mass spec)	21761944	
+biofilm		sHSP-2	SACI_RS07945	Saci_1665	Sacid_01628		+	Proteomics (mass spec)	21761944	
+biofilm		thsA	SACI_RS06700	Saci_1401	Sacid_01371	groL_3	-	Proteomics (mass spec)	21761944	
+biofilm		thsB	SACI_RS03175	Saci_0666	Sacid_00648	groL_1	-	Proteomics (mass spec)	21761944	
+biofilm		thsY	SACI_RS05735	Saci_1203	Sacid_01181	groL_2	-	"Proteomics (mass spec), microarray"	21761944	
+biofilm		trxA	SACI_RS08740	Saci_1823	Sacid_01792		+	microarray	21761944	
+biofilm		bcp_2	SACI_RS10765	Saci_2227	Sacid_02228		+	microarray	21761944	
+biofilm		arlJ	SACI_RS05585	Saci_1172	Sacid_01149	flaJ	+	microarray	21761944	
+biofilm		arlI	SACI_RS05590	Saci_1173	Sacid_01150	flaI	+	microarray	21761944	
+biofilm		arlH	SACI_RS05595	Saci_1174	Sacid_01151	flaH	+	microarray	21761944	
+biofilm		arlF	SACI_RS05600	Saci_1175	Sacid_01152	flaF	+	microarray	21761944	
+biofilm		Saci_0134	SACI_RS00635	Saci_0134	Sacid_00129		+	microarray	21761944	
+biofilm		Saci_0882	SACI_RS04210	Saci_0882	Sacid_00859			"Proteomics (mass spec), microarray"	21761944	
+biofilm		Saci_0064	SACI_RS00290	Saci_0064	Sacid_00061		+	Proteomics (mass spec)	21761944	
+biofilm		Saci_0362	SACI_RS01770	Saci_0362	Sacid_00358		+	Proteomics (mass spec)	21761944	
+biofilm		creN7	SACI_RS06250	Saci_1307	Sacid_01283		+	Proteomics (mass spec)	21761944	
+biofilm		albA	SACI_RS06315	Saci_1322	Sacid_01296		+	Proteomics (mass spec)	21761944	
+biofilm		Saci_1347	SACI_RS06440	Saci_1347	Sacid_01321		+	Proteomics (mass spec)	21761944	
+biofilm		rpl7ae	SACI_RS07255	Saci_1520	Sacid_01487		+	Proteomics (mass spec)	21761944	
+biofilm		sav	SACI_RS04015	Saci_0838	Sacid_00817	ftsH_3	+	Proteomics (mass spec)	21761944	
+biofilm		Saci_0134	SACI_RS00635	Saci_0134	Sacid_00129		+	microarray	21761944	
+biofilm		Saci_0882	SACI_RS04210	Saci_0882	Sacid_00859		+	Proteomics (mass spec)	21761944	
+hypotonic-K		speE	SACI_RS03060	Saci_0643	Sacid_00627		+	RNA-seq	27230583	
+hypotonic-K		hudA	SACI_RS09935	Saci_2055	Sacid_02050		+	RNA-seq	27230583	
+hypotonic-K		icd	SACI_RS11485	Saci_2375	Sacid_02373		+	RNA-seq	27230583	
+hypotonic-K		Saci_1059	SACI_RS05055	Saci_1059	Sacid_01034		+	RNA-seq	27230583	
+hypotonic-K		Saci_2137	SACI_RS10335	Saci_2137	Sacid_02135	spuC	+	RNA-seq	27230583	
+hypotonic-K		sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	RNA-seq	27230583	
+hypotonic-K		Saci_2151	SACI_RS10405	Saci_2151	Sacid_02149		+	RNA-seq	27230583	
+hypotonic-Na		Saci_1755	SACI_RS08390	Saci_1755	Sacid_01720		-	RNA-seq	27230583	
+hypotonic-Na		rps3ae	SACI_RS02950	Saci_0620	Sacid_00606		-	RNA-seq	27230583	
+hypotonic-Na		sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	RNA-seq	27230583	
+hypotonic-Na		mctP_1	SACI_RS01875	Saci_0383	Sacid_00379		+	RNA-seq	27230583	
+hypotonic-Na		petB_2	SACI_RS10080	Saci_2087	Sacid_02083	soxC	-	RNA-seq	27230583	
+hypotonic-Na		uroM	SACI_RS10635	Saci_2200	Sacid_02200	cysG_2	-	RNA-seq	27230583	
+hypotonic-Na		Saci_2151	SACI_RS10405	Saci_2151	Sacid_02149		+	RNA-seq	27230583	
+hypotonic-all		cugP_2	SACI_RS05715	Saci_1199	Sacid_01177		+	RNA-seq	27230583	
+hypotonic-all		ydjE_2	SACI_RS07260	Saci_1521	Sacid_01488		+	RNA-seq	27230583	
+hypotonic-all		soxC_2	SACI_RS10930	Saci_2260	Sacid_02261	fbcH	-	RNA-seq	27230583	
+hypotonic-all		bmr3	SACI_RS10205	Saci_2111	Sacid_02108		-	RNA-seq	27230583	
+hypotonic-all		mctP_1	SACI_RS01875	Saci_0383	Sacid_00379		+	RNA-seq	27230583	
+hypotonic-all		petB_2	SACI_RS10080	Saci_2087	Sacid_02083	soxC	-	RNA-seq	27230583	
+hypotonic-all		uroM	SACI_RS10635	Saci_2200	Sacid_02200	cysG_2	-	RNA-seq	27230583	
+hypotonic-all		Saci_2137	SACI_RS10335	Saci_2137	Sacid_02135	spuC	+	RNA-seq	27230583	
+hypotonic-all		Saci_2151	SACI_RS10405	Saci_2151	Sacid_02149		+	RNA-seq	27230583	
+hypotonic-all-acid 		bmr3	SACI_RS10205	Saci_2111	Sacid_02108		+	RNA-seq	27230583	
+hypotonic-all-acid 		soxC_2	SACI_RS10930	Saci_2260	Sacid_02261	fbcH	+	RNA-seq	27230583	
+hypotonic-all-acid 		sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	RNA-seq	27230583	
+hypotonic-all-acid 		mshA_4	SACI_RS09230	Saci_1916	Sacid_01890		+	RNA-seq	27230583	
+hypotonic-all-acid 		tps	SACI_RS05960	Saci_1249	Sacid_01226	mshA_1	+	RNA-seq	27230583	
+hypotonic-all-acid 		Saci_0945	SACI_RS04515	Saci_0945	Sacid_00921		+	RNA-seq	27230583	
+hypotonic-all-acid 		Saci_0230	SACI_RS01120	Saci_0230	Sacid_00227		+	RNA-seq	27230583	
+hypotonic-all-acid 		gerN	SACI_RS01780	Saci_0364	Sacid_00360		-	RNA-seq	27230583	
+hypotonic-all-acid 		Saci_0275	SACI_RS01340	Saci_0275	Sacid_00271		-	RNA-seq	27230583	
+hypotonic-all-acid 		sdhA	SACI_RS04690	Saci_0982	Sacid_00957	frdA	-	RNA-seq	27230583	
+hypotonic-all-acid 		Saci_1805	SACI_RS08645	Saci_1805	Sacid_01774		-	RNA-seq	27230583	
+hypotonic-all-acid 		mshA_3	SACI_RS09220	Saci_1914	Sacid_01888		-	RNA-seq	27230583	
+acid-stress		mpg1	SACI_RS00945	Saci_0196	Sacid_00190	cugP_1	+	RNA-seq	27230583	
+acid-stress		icd	SACI_RS11485	Saci_2375	Sacid_02373		+	RNA-seq	27230583	
+acid-stress		hoxN	SACI_RS09805	Saci_2028	Sacid_02022		+	RNA-seq	27230583	
+acid-stress		mctP_1	SACI_RS01875	Saci_0383	Sacid_00379		+	RNA-seq	27230583	
+acid-stress		petB_2	SACI_RS10080	Saci_2087	Sacid_02083	soxC	-	RNA-seq	27230583	
+acid-stress		sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	RNA-seq	27230583	
+hypotonic-acid-stress		cugP_2	SACI_RS05715	Saci_1199	Sacid_01177		+	RNA-seq	27230583	
+hypotonic-acid-stress		bcp_2	SACI_RS10765	Saci_2227	Sacid_02228		+	RNA-seq	27230583	
+hypotonic-acid-stress		Saci_1909	SACI_RS09195	Saci_1909	Sacid_01883		-	RNA-seq	27230583	
+hypotonic-acid-stress		norW_1	SACI_RS08130	Saci_1702	Sacid_01666		-	RNA-seq	27230583	
+hypotonic-acid-stress		mshA_4	SACI_RS09230	Saci_1916	Sacid_01890		+	RNA-seq	27230583	
+hypotonic-acid-stress		tps	SACI_RS05960	Saci_1249	Sacid_01226	mshA_1	+	RNA-seq	27230583	
+hypotonic-acid-stress		Saci_0945	SACI_RS04515	Saci_0945	Sacid_00921		+	RNA-seq	27230583	
+hypotonic-acid-stress		Saci_0230	SACI_RS01120	Saci_0230	Sacid_00227		+	RNA-seq	27230583	
+hypotonic-acid-stress		gerN	SACI_RS01780	Saci_0364	Sacid_00360		-	RNA-seq	27230583	
+hypotonic-acid-stress		Saci_0275	SACI_RS01340	Saci_0275	Sacid_00271		-	RNA-seq	27230583	
+hypotonic-acid-stress		sdhA	SACI_RS04690	Saci_0982	Sacid_00957	frdA	-	RNA-seq	27230583	
+hypotonic-acid-stress		Saci_1805	SACI_RS08645	Saci_1805	Sacid_01774		-	RNA-seq	27230583	
+hypotonic-acid-stress		mshA_3	SACI_RS09220	Saci_1914	Sacid_01888		-	RNA-seq	27230583	
+hypotonic-acid-stress		sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	RNA-seq	27230583	
+Saci_0264	SACI_RS01285	Saci_0264	SACI_RS01285	Saci_0264	Sacid_00260			Network Analysis (weak)	27230583	
+Saci_0264	SACI_RS01285	mctP_1	SACI_RS01875	Saci_0383	Sacid_00379			Network Analysis (weak)	27230583	
+Saci_0264	SACI_RS01285	petB_2	SACI_RS10080	Saci_2087	Sacid_02083	soxC		Network Analysis (weak)	27230583	
+Saci_2296	SACI_RS11110	Saci_2296	SACI_RS11110	Saci_2296	Sacid_02298			Network Analysis (weak)	27230583	
+Saci_2296	SACI_RS11110	Saci_2297	SACI_RS11115	Saci_2297	Sacid_02299		-	Network Analysis (weak)	27230583	
+Saci_1955	SACI_RS09445	Saci_1955	SACI_RS09445	Saci_1955	Sacid_01942			Network Analysis (weak)	27230583	
+Saci_1955	SACI_RS09445	Saci_1887	SACI_RS09085	Saci_1887	Sacid_01861			Network Analysis (weak)	27230583	
+Saci_1955	SACI_RS09445	hudA	SACI_RS09935	Saci_2055	Sacid_02050			Network Analysis (weak)	27230583	
+Saci_1955	SACI_RS09445	speE	SACI_RS03060	Saci_0643	Sacid_00627			Network Analysis (weak)	27230583	
+Saci_1955	SACI_RS09445	uroM	SACI_RS10635	Saci_2200	Sacid_02200	cysG_2		Network Analysis (weak)	27230583	
+Saci_1787	SACI_RS08545	Saci_1787	SACI_RS08545	Saci_1787	Sacid_01753			Network Analysis (weak)	27230583	
+Saci_1787	SACI_RS08545	Saci_1059	SACI_RS05055	Saci_1059	Sacid_01034		+	Network Analysis (weak)	27230583	
+Saci_1787	SACI_RS08545	Saci_1728	SACI_RS08255	Saci_1728	Sacid_01692		-	Network Analysis (weak)	27230583	
+Saci_1787	SACI_RS08545	sdhD	SACI_RS04675	Saci_0979	Sacid_00954		+	Network Analysis (weak)	27230583	
+tfb3	SACI_RS03170	tfb3	SACI_RS03170	Saci_0665	Sacid_00647			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	cedA2	SACI_RS11810	Saci_0567	Sacid_00553		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	cedA	SACI_RS02695	Saci_0568	Sacid_00554		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	cedA1	SACI_RS02700	Saci_0569	Sacid_00555		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	herA_2	SACI_RS03180	Saci_0667	Sacid_00649			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	cedB	SACI_RS03575	Saci_0748	Sacid_00730		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	Saci_0950	SACI_RS04535	Saci_0950	Sacid_00926			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	Saci_0951	SACI_RS04540	Saci_0951	Sacid_00927			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	Saci_1225	SACI_RS05840	Saci_1225	Sacid_01202			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	Saci_1270	SACI_RS06065	Saci_1270	Sacid_01247			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	Saci_1302	SACI_RS06225	Saci_1302	Sacid_01278			"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	upsX	SACI_RS07125	Saci_1493	Sacid_01460		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	upsE	SACI_RS07130	Saci_1494	Sacid_01461		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	upsF	SACI_RS07135	Saci_1495	Sacid_01462		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	upsA	SACI_RS07140	Saci_1496	Sacid_01463		+	"RNA-seq, qRT-PCR"	29982548	
+tfb3	SACI_RS03170	upsB	SACI_RS11670		Sacid_01464		+	"RNA-seq, qRT-PCR"	29982548	

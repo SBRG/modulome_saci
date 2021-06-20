@@ -1,0 +1,46 @@
+,name,regulator,Category,description,imodulon_size,ExplainedVariance
+0,pseudogene,,Genomic,Putative pseudogene repair?,2,0.00368433
+1,heat-stress,,Stress Response,"Stage II sporulation protein, DedA family protein, may be involved in transport/temp senstitivity",38,0.010055
+2,SoxL2N,,Other Functional,"Cytochrome Oxidase bc1 complex (SoxL2N---CbsAB---OdsN), operon of genes",5,0.060497
+3,long-chain-fatty-acid-metabolism,BarR?,Misc Metabolism,"Putative Fatty-Acid / beta-alanine related iModulon, big pH dependence, may be regulated by BarR",17,0.027021
+4,Riboflavin,,Vitamin B,Riboflavin biosynthesis iModulon,6,0.00431
+5,niacin-transport,,Vitamin B,Putative Niacin transporter and D-Xylose symporter (upregulated when pH != 2.4),4,0.024143
+6,cold-stress,,Stress Response,"TRASH domain, VapC, many different transporters, UbiD-like protein",38,0.022212
+7,carbon-fixation,,Misc Metabolism,3-HP / 4-HB cycle,17,0.010803
+8,Fe-S-lipoylation,,Other Functional,"Sulfur transferases, many many Fe-S proteins",40,0.017904
+9,HMG-CoA,,Misc Metabolism,HMG-CoA operon,5,0.00715
+10,Purine Metabolism,,Amino Acid & Nucleotide Biosynthesis,Purine biosynthesis iModulon,13,0.028034
+11,XylR-SoxM,XylR?,Misc Metabolism,XylR and SoxM,47,0.05505
+12,YtrA-OE,YtrA,Other Functional,"Most likely a membrane-related iModulon, also possibly related to heat-shock",37,0.004155
+13,LysM,LysM,Amino Acid & Nucleotide Biosynthesis,"Lysine/Leucine/Isoleucine/Valine Metabolism, edit: might actually be Lys/Arg recycle pathway",10,0.008501
+14,Phenylacetate Degradation,,Misc Metabolism,Putative Phenylacetate degragadation iModulon,4,0.019305
+15,single_gene_1,,Uncharacterized,,1,0.001574
+16,single_gene_2,,Uncharacterized,,1,0.003066
+17,translation-1,,Other Functional,Composite / Global regulator iModulon,122,0.009724
+18,UV-tfb3,tfb3,Stress Response,tfb3-dependent UV-stress response iModulon [DNA export pred],16,0.022704
+19,Arginine Biosynthesis,,Amino Acid & Nucleotide Biosynthesis,Putative Arginine biosynthesis iModulon,4,0.012573
+20,Pyroglutamate,,Amino Acid & Nucleotide Biosynthesis,,4,0.014828
+21,translation-2,,Other Functional,Composite / Global regulator iModulon,146,0.010856
+22,uncharacterized-1,,Uncharacterized,Putative Viral iModulon,12,0.001396
+23,Sulfur Assimilation,,Amino Acid & Nucleotide Biosynthesis,Sulfur Assimilation iModulon,8,0.01032
+24,FadR-KO,N/A,Genomic,FadR-KO (only FadR in iModulon),1,0.003004
+25,Cobalamin,,Vitamin B,Vitamin B12 iModulon,10,0.007912
+26,4-hpa,,Misc Metabolism,Putative 4-hydroxyphenylacetate degradation iModulon (might contain all 7 steps),7,0.013588
+27,ArnRAB,ArnR;ArnR1+ArnA;ArnB,Other Functional,Archaellum Regulatory Network,8,0.02831
+28,single_gene_3,,Uncharacterized,,1,0.00237
+29,FadR,FadR,Misc Metabolism,Fatty Acid Degradation iModulon,25,0.008083
+30,SoxLABCD,,Other Functional,Probably terminal oxidase (SoxLABCD operon) iModulon,8,0.008376
+31,TCA-BCAA,,Amino Acid & Nucleotide Biosynthesis,"Leucine, Isoleucine, Valine, Glutamate, Aspartate, and TCA cycle intermediates all part of this iModulon",19,0.019147
+32,UV-related,,Stress Response,iModulon is definitely (tfb3-independent) UV stress related,74,0.009131
+33,uncharacterized-2,,Uncharacterized,Explains ~12% of the variance,33,0.121836
+34,Replication,,Other Functional,Replication-related iModulon,39,0.022448
+35,translation-related,,Other Functional,Putative RpoN / RNA Translation / Pyrimidine iModulon,33,0.004843
+36,Quinolinate,,Other Functional,Likely NAD+ biosynthesis iModulon,4,0.005268
+37,aromatic-degradation,BarR?,Misc Metabolism,Probable Aromatic compound degradation (possibly Napthalene degradation),10,0.005976
+38,Ammonium-Uptake,,Other Functional,Putative Ammonium Uptake iModulon (Probable Nitrogen Metabolism Involvement),3,0.039738
+39,carotenoid-biosynthesis,,Other Functional,Either it makes cartenoids and/or it responds to/regulates UV stress,28,0.007768
+40,single_gene_4,,Uncharacterized,,1,0.004496
+41,Thiamin,,Vitamin B,Putative Thiamine (Vit B1) iModulon (Potentially Riboflavin-related / Heavy-Metal related),14,0.003984
+42,uncharacterized-3,,Uncharacterized,Putative technical noise / batch effect iModulon,6,0.00836
+43,single_gene_5,,Uncharacterized,,1,0.002581
+44,Glycine-Serine-Threonine,,Amino Acid & Nucleotide Biosynthesis,,14,0.003405
