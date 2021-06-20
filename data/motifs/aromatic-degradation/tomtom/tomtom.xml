@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<tomtom version="4.11.2" release="Thu May 05 14:58:55 2016 -0700">
+  <model>
+    <command_line>tomtom -oc ../data/motifs/aromatic-degradation/tomtom -thresh 0.001 -incomplete-scores -png ../data/motifs/aromatic-degradation/meme.txt /Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/collectf.meme /Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/dpinteract.meme /Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/prodoric.meme /Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/regtransbase.meme /Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/SwissRegulon_e_coli.meme</command_line>
+    <distance_measure value="ed"/>
+    <threshold type="qvalue">0.001</threshold>
+    <alphabet name="DNA" like="dna">
+      <letter id="A" symbol="A" complement="T" name="Adenine" colour="CC0000"/>
+      <letter id="C" symbol="C" complement="G" name="Cytosine" colour="0000CC"/>
+      <letter id="G" symbol="G" complement="C" name="Guanine" colour="FFB300"/>
+      <letter id="T" symbol="T" aliases="U" complement="A" name="Thymine" colour="008000"/>
+      <letter id="N" symbol="N" aliases="X." equals="ACGT" name="Any base"/>
+      <letter id="V" symbol="V" equals="ACG" name="Not T"/>
+      <letter id="H" symbol="H" equals="ACT" name="Not G"/>
+      <letter id="D" symbol="D" equals="AGT" name="Not C"/>
+      <letter id="B" symbol="B" equals="CGT" name="Not A"/>
+      <letter id="M" symbol="M" equals="AC" name="Amino"/>
+      <letter id="R" symbol="R" equals="AG" name="Purine"/>
+      <letter id="W" symbol="W" equals="AT" name="Weak"/>
+      <letter id="S" symbol="S" equals="CG" name="Strong"/>
+      <letter id="Y" symbol="Y" equals="CT" name="Pyrimidine"/>
+      <letter id="K" symbol="K" equals="GT" name="Keto"/>
+    </alphabet>
+    <strands>both</strands>
+    <background from="first_target" A="0.33" C="0.172" G="0.206" T="0.292"/>
+    <host>Siddharths-MacBook-Pro.local</host>
+    <when>Sun Jun  6 13:24:17 2021</when>
+  </model>
+  <query_dbs>
+    <db source="../data/motifs/aromatic-degradation/meme.txt" name="meme" loaded="1" excluded="0" last_mod_date="Sun Jun  6 12:56:37 2021"/>
+  </query_dbs>
+  <target_dbs>
+    <db source="/Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/collectf.meme" name="collectf" loaded="84" excluded="0" last_mod_date="Tue Mar 16 16:36:03 2021"/>
+    <db source="/Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/dpinteract.meme" name="dpinteract" loaded="68" excluded="0" last_mod_date="Tue Mar 16 16:36:03 2021"/>
+    <db source="/Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/prodoric.meme" name="prodoric" loaded="201" excluded="0" last_mod_date="Tue Mar 16 16:36:03 2021"/>
+    <db source="/Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/regtransbase.meme" name="regtransbase" loaded="141" excluded="0" last_mod_date="Tue Mar 16 16:36:03 2021"/>
+    <db source="/Users/siddharth/PycharmProjects/pymodulon/src/pymodulon/data/meme/SwissRegulon_e_coli.meme" name="SwissRegulon e coli" loaded="97" excluded="0" last_mod_date="Tue Mar 16 16:36:03 2021"/>
+  </target_dbs>
+  <queries>
+    <motif db="0" id="1" alt="MEME" length="39" nsites="5" evalue="5.1e-005">
+      <pos A="0.00647059" C="0.983765" G="0.00403922" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.396196" T="0.397882"/>
+      <pos A="0.594706" C="0.00337255" G="0.00403922" T="0.397882"/>
+      <pos A="0.790784" C="0.199451" G="0.00403922" T="0.00572549"/>
+      <pos A="0.202549" C="0.00337255" G="0.00403922" T="0.790039"/>
+      <pos A="0.00647059" C="0.00337255" G="0.984431" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.00403922" T="0.790039"/>
+      <pos A="0.00647059" C="0.591608" G="0.00403922" T="0.397882"/>
+      <pos A="0.202549" C="0.787686" G="0.00403922" T="0.00572549"/>
+      <pos A="0.790784" C="0.00337255" G="0.200118" T="0.00572549"/>
+      <pos A="0.00647059" C="0.00337255" G="0.984431" T="0.00572549"/>
+      <pos A="0.00647059" C="0.395529" G="0.592275" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.00403922" T="0.790039"/>
+      <pos A="0.00647059" C="0.00337255" G="0.788353" T="0.201804"/>
+      <pos A="0.594706" C="0.00337255" G="0.396196" T="0.00572549"/>
+      <pos A="0.594706" C="0.00337255" G="0.00403922" T="0.397882"/>
+      <pos A="0.790784" C="0.00337255" G="0.00403922" T="0.201804"/>
+      <pos A="0.986863" C="0.00337255" G="0.00403922" T="0.00572549"/>
+      <pos A="0.594706" C="0.00337255" G="0.00403922" T="0.397882"/>
+      <pos A="0.00647059" C="0.199451" G="0.788353" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.788353" T="0.00572549"/>
+      <pos A="0.00647059" C="0.00337255" G="0.200118" T="0.790039"/>
+      <pos A="0.202549" C="0.00337255" G="0.00403922" T="0.790039"/>
+      <pos A="0.00647059" C="0.00337255" G="0.788353" T="0.201804"/>
+      <pos A="0.00647059" C="0.787686" G="0.200118" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.200118" T="0.593961"/>
+      <pos A="0.986863" C="0.00337255" G="0.00403922" T="0.00572549"/>
+      <pos A="0.594706" C="0.00337255" G="0.00403922" T="0.397882"/>
+      <pos A="0.790784" C="0.00337255" G="0.00403922" T="0.201804"/>
+      <pos A="0.00647059" C="0.395529" G="0.592275" T="0.00572549"/>
+      <pos A="0.00647059" C="0.00337255" G="0.00403922" T="0.986118"/>
+      <pos A="0.00647059" C="0.591608" G="0.00403922" T="0.397882"/>
+      <pos A="0.202549" C="0.591608" G="0.00403922" T="0.201804"/>
+      <pos A="0.594706" C="0.199451" G="0.200118" T="0.00572549"/>
+      <pos A="0.00647059" C="0.199451" G="0.200118" T="0.593961"/>
+      <pos A="0.00647059" C="0.395529" G="0.00403922" T="0.593961"/>
+      <pos A="0.202549" C="0.395529" G="0.00403922" T="0.397882"/>
+      <pos A="0.398627" C="0.00337255" G="0.00403922" T="0.593961"/>
+      <pos A="0.986863" C="0.00337255" G="0.00403922" T="0.00572549"/>
+    </motif>
+  </queries>
+  <targets>
+  </targets>
+  <matches>
+  </matches>
+  <runtime cycles="17191540" seconds="17.192"/>
+</tomtom>

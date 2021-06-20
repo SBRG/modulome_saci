@@ -1,0 +1,75 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 4.11.2 (Release date: Thu May 05 14:58:55 2016 -0700)
+
+For further information on how to interpret these results or to get
+a copy of the MEME software please access http://meme-suite.org .
+
+This file may be used as input to the MAST algorithm for searching
+sequence databases for matches to groups of motifs.  MAST is available
+for interactive use and downloading at http://meme-suite.org .
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+DATAFILE= ../data/motifs/UV-tfb3.fasta
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op323                    1.0000    600  Op357                    1.0000    600  
+Op359                    1.0000    600  Op402                    1.0000    600  
+Op501                    1.0000    600  Op680                    1.0000    600  
+Op707                    1.0000    600  Op713                    1.0000    600  
+Op726                    1.0000    600  Op822                    1.0000    600  
+Op823                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme ../data/motifs/UV-tfb3.fasta -oc ../data/motifs/UV-tfb3 -dna -mod zoops -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 3 
+
+model:  mod=         zoops    nmotifs=         5    evt=         0.001
+object function=  E-value of product of p-values
+width:  minw=            6    maxw=           40
+width:  wg=             11    ws=              1    endgaps=       yes
+nsites: minsites=        3    maxsites=       11    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+global: substring=     yes    branching=      no    wbranch=        no
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+data:   n=            6600    N=              11    shuffle=        -1
+strands: +
+sample: seed=            0    ctfrac=         -1    maxwords=       -1
+Letter frequencies in dataset:
+A 0.337 C 0.161 G 0.163 T 0.340 
+Background letter frequencies (from dataset with add-one prior applied):
+A 0.337 C 0.161 G 0.163 T 0.339 
+********************************************************************************
+
+********************************************************************************
+Stopped because motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: Siddharths-MacBook-Pro.local
+
+********************************************************************************
